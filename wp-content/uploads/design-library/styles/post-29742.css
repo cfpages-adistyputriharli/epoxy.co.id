@@ -1,0 +1,23 @@
+
+
+.dsgn__basic-904543  .text-with-bg {
+	padding: 30px 5%;
+	background: #fff;
+	margin-right: 5%;
+	margin-left: 5%;
+	position: relative;
+	z-index: 10;
+}
+
+.dsgn__basic-904543  .bg-with-shadow {
+	box-shadow: 0 -10px 20px 0 rgba(0,0,0,.1), 0 -7px 4px 0 rgba(0,0,0,.1);
+}
+
+.dsgn__basic-904543  .negative-margin-top {
+	margin-top: -60px;
+}
+
+/* Special style for the editing mode to compensate additional vertical paddings*/
+.dsgn__basic-904543  .negative-margin-top[role=\"textbox\"] {
+	margin-top: -80px;
+}
