@@ -2,8 +2,9 @@
 article_id: EPX-02-03
 title: "Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan"
 slug: "epoxy-mortar-sistem-agregat"
-description: "Explain composition, build, repair uses, placement limits, and alternative systems"
-status: outline
+description: "Panduan menilai kapan mortar epoxy beragregat tebal dibutuhkan, bagaimana susunannya, batas penempatannya, dan kapan sistem lain lebih tepat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,23 @@ final_route: "/artikel/epoxy-mortar-sistem-agregat.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Jika lantai pabrik sudah rusak atau harus menahan beban berat, pilihan yang sering muncul adalah “pakai epoxy yang lebih tebal saja”. Padahal lapisan tebal belum tentu epoxy mortar, dan mortar epoxy bukan jawaban otomatis untuk semua kerusakan beton.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”
-- **Reader and situation:** Industrial owner with damaged or heavily loaded floor
-- **Reader outcome:** Explain composition, build, repair uses, placement limits, and alternative systems
-- **Primary intent:** Evaluate epoxy mortar
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes concrete repair diagnosis owned by EPX-11-01
-- **Final public route:** `/artikel/epoxy-mortar-sistem-agregat.html`
-- **Appointed CMS date:** `2025-04-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sistem agregat tebal layak dipertimbangkan ketika permukaan membutuhkan lapisan resin berisi agregat untuk membentuk massa yang lebih padat, mengembalikan geometri lokal, dan menerima lalu lintas berat—dengan syarat kondisi beton, kelembapan, detail sambungan, dan data produk sudah diperiksa. Jika kerusakan menyangkut penyebab struktural atau gerakan retak, keputusan harus ditahan sampai diagnosis proyek tersedia. [NEEDS TOPIC-GATE: pastikan keluarga produk, susunan lapisan lengkap, dan bukti pemasok sebelum memilih sistem.]
 
-## Opening instructions
+Gambar di bawah hanya aset lokal, bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,138 +43,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-## Evidence packet
+## Apa yang dimaksud epoxy mortar dan batas pembahasannya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum membandingkan ketebalan, kita perlu menyamakan arti “mortar”. Di sini mortar epoxy berarti resin dan bahan pengeras (hardener) yang mengikat agregat terpilih menjadi massa padat, lalu ditempatkan sebagai bagian dari sistem lantai. Agregat dapat mengubah volume, tekstur, dan cara beban diteruskan; jadi istilah “epoxy” saja belum menjelaskan susunan atau kinerja sistem.
 
-### KR-02
+Bahan pengisi, pigmen, pelarut atau air, jenis substrat, persiapan benda uji, dan cara pengerasan (curing) dapat mengubah hasil yang diukur. Ringkasan metode ISO tentang resin epoksi menegaskan bahwa komposisi dan persiapan spesimen memengaruhi perilaku bahan, tetapi tidak menetapkan rasio campuran atau syarat lantai terpasang. [ISO 18280:2010](https://www.iso.org/standard/52877.html) karena itu berguna untuk memahami variasi bahan, bukan untuk mengambil angka aplikasi.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Artikel ini membantu menilai komposisi, susunan lapisan, kegunaan perbaikan permukaan, batas penempatan, dan pilihan alternatif. Ia tidak mendiagnosis penyebab kerusakan beton. Retak yang bergerak, penurunan, kelembapan dari bawah, atau masalah struktur memerlukan pemeriksaan tersendiri sebelum sistem resin dipilih.
 
-### KR-03
+## Bagaimana lapisan agregat tebal bekerja
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Bagian ini penting bila Anda sedang melihat lantai yang tampak tebal lalu bertanya apakah susunan agregatnya benar-benar menambah fungsi. Kita akan mengikuti alur dari persiapan beton sampai tonggak pengerasan, lalu menutupnya dengan catatan yang bisa Anda cocokkan pada dokumen produk.
 
-### KR-14
+Bayangkan lantai dengan cekungan lokal dan jalur forklift. Lapisan tipis terutama mengikuti bentuk permukaan; mortar epoxy menambah massa melalui agregat yang diikat resin. Setelah ditempatkan dan diratakan sesuai detail sistem, massa itu membentuk tubuh lapisan yang lebih tebal daripada cat atau pelapis tipis.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Urutannya tetap bergantung pada produk: beton disiapkan, lapisan dasar atau pengikat dipasang bila disyaratkan, campuran resin-agregat ditempatkan, lalu permukaan ditutup atau dilindungi oleh lapisan berikutnya. Setiap antarmuka harus kompatibel. ASTM C881 membahas sistem epoksi untuk pengikatan pada beton, tetapi halaman standarnya tidak boleh dibaca sebagai izin untuk mengubahnya menjadi resep mortar, injeksi, atau perbaikan struktur tanpa data lengkap. [ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)
 
-### KR-15
+“Kering disentuh” juga bukan tanda bahwa sistem siap menerima beban atau bahan kimia. Waktu pakai campuran (pot life), yaitu masa ketika campuran masih bisa dikerjakan, waktu bebas lengket, waktu lalu lintas ringan, dan pengerasan penuh (curing) adalah tonggak berbeda yang ditentukan formulasi dan kondisi. Pemindaian kalorimetri diferensial (differential scanning calorimetry atau DSC), yaitu pengujian perubahan panas saat bahan bereaksi, dapat membantu membedakan tahap pengerasan, bukan menggantikan lembar data produk di lokasi. [ISO 14322:2018](https://www.iso.org/standard/74606.html)
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Jadi, pemeriksa lapangan perlu mencatat suhu, kelembapan, kondisi permukaan, waktu pencampuran, dan batas pakai dari dokumen produk. Jangan meluluskan lantai hanya karena permukaannya tampak keras.
 
-## Evidence gates
+## Kondisi yang membuat sistem ini masuk akal
 
-- **TOPIC-GATE:** Current product family, complete layer system, and supplier evidence
+Bagian ini membantu Anda mengambil keputusan yang sering disamakan dengan memilih label “tugas berat”. Kita akan memilah beban, kelembapan, dan gerakan sambungan supaya jelas kapan mortar agregat layak dibandingkan dengan sistem lain, dan kapan keputusan harus ditahan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pertimbangan pertama adalah beban dan bentuk kerusakan yang terlihat, bukan ketebalan sebagai angka tunggal. Area dengan lalu lintas roda, benturan ringan berulang, atau kebutuhan membentuk kemiringan lokal mungkin membutuhkan massa agregat. Namun itu baru hipotesis pemilihan; kondisi beton di bawahnya tetap harus dibuktikan.
 
-## Internal-link plan
+Pertimbangan kedua adalah kelembapan dan kontaminasi. Minyak, lemak, debu halus, atau tekanan uap dari bawah dapat mengganggu ikatan. Jika lapisan dasar tidak melekat, agregat sebanyak apa pun hanya memperbesar bagian yang berisiko terlepas. Minta hasil pemeriksaan dan metode persiapan, bukan sekadar foto permukaan.
 
-### Existing local routes
+Pertimbangan ketiga adalah detail gerakan. Sambungan konstruksi, sambungan muai, atau retak dengan penyebab yang belum jelas tidak boleh ditutup begitu saja. Panduan desain dan pelaksanaan perbaikan ISO 16311 menempatkan penyebab, peran struktur, kondisi substrat, geometri, kompatibilitas, pemasangan, dan inspeksi sebagai bagian dari pemilihan. [ISO 16311-3:2024](https://www.iso.org/standard/79787.html) dan [ISO 16311-4:2024](https://www.iso.org/standard/79788.html) tidak memberi resep proyek Anda, tetapi mengingatkan mengapa keputusan harus berbasis data.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kawan Epoxy.co.id, jika pemasok hanya menyebut “tugas berat (heavy duty)” tanpa menjelaskan susunan lapisan, ukuran agregat, rentang ketebalan, jendela kerja, dan cara verifikasi, tahan dulu keputusan pembelian. Label pemasaran tidak menggantikan sistem yang dapat diperiksa.
 
-### Planned sibling articles
+## Contoh keputusan di lantai industri
 
-These are future routes. Do not link them as live until their HTML exists.
+Misalkan pemilik gudang melihat alur aus di depan pintu dan ingin memperbaikinya pada akhir pekan. Jika beton stabil, area sudah bebas minyak, lalu lintas dan benturan telah didefinisikan, sistem mortar dapat dibandingkan dengan pelapis kandungan tinggi dan lebih tebal (high-build) atau beton polimer berdasarkan kebutuhan bentuk, waktu henti, dan data pemasok. Keputusan akhirnya harus merujuk pada sistem lengkap, bukan nama resin.
 
-- `EPX-02-01` → `/artikel/jenis-epoxy-berdasarkan-formulasi.html` — Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi
-- `EPX-02-02` → `/artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.html` — Epoxy Coating Tipis vs High-Build vs Self-Leveling
-- `EPX-02-04` → `/artikel/epoxy-flake-metallic-dan-3d.html` — Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif
-- `EPX-02-05` → `/artikel/epoxy-transparan-vs-berpigmen.html` — Epoxy Transparan dan Berpigmen: Perbedaan Fungsi
+Sebaliknya, jika retak memanjang dan terus membuka, atau ada dugaan beton kehilangan daya dukung, jangan menganggap mortar sebagai “penambal kuat”. Diagnosis penyebab dan keputusan perbaikan berada di luar artikel ini. Mintalah insinyur (engineer) atau pihak kompeten menilai peran retak, gerakan, dan kebutuhan transfer beban sebelum kontraktor menutupnya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk area yang terutama membutuhkan tampilan halus dan ketebalan rendah, pelapis epoxy atau polyurethane mungkin lebih sesuai. Pembanding sistem dapat dimulai dari [format pelapis epoxy–polyurethane](/format-epoxy-pu-coating.html) dan [kategori sistem epoxy](/format-cat-epoxy.html), lalu kembali ke data produk yang benar-benar ditawarkan untuk proyek Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan “lebih tebal” dengan “lebih kuat”. Ketebalan menambah material, tetapi ikatan ke substrat, susunan agregat, pengerasan (curing), sambungan, dan beban aktual tetap menentukan hasil. Tanyakan bagian mana dari sistem yang memikul fungsi tersebut dan bukti apa yang memverifikasinya.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mencampur produk berdasarkan kebiasaan. Resin, hardener (bahan pengeras), pengisi, pembersih, dan hasil reaksinya dapat memiliki bahaya berbeda. CDC/NIOSH mengingatkan bahwa bau bukan indikator paparan yang andal; kompatibilitas sarung tangan dan ventilasi harus mengikuti produk serta tugasnya. [Panduan epoksi CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [ikhtisar paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/) mendukung pendekatan berbasis informasi produk, bukan penilaian dari hidung.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah membuka area sebelum tonggak pengerasan (curing) terpenuhi. Catat waktu mulai pencampuran, waktu penempatan, suhu, dan instruksi produsen untuk lalu lintas ringan maupun layanan penuh. Jika dokumen tidak menyebut kondisi proyek Anda, tandai [NEEDS PRODUCT EVIDENCE: data pemasok dan batas layanan belum tersedia] dan minta klarifikasi tertulis.
 
-## Required conclusion
+Gunakan pemeriksaan singkat berikut sebelum menyetujui pekerjaan: apakah penyebab kerusakan sudah dipisahkan dari pekerjaan pelapisan, apakah kelembapan dan kontaminan sudah dinilai, apakah susunan lapisan dan agregat tercantum, apakah detail sambungan dijelaskan, dan apakah metode inspeksi serta kriteria penerimaan disepakati. Satu jawaban “belum” pada pertanyaan pokok itu berarti keputusan belum siap dilepas.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Menjawab jalan pintas yang paling menggoda
 
-## Draft completion checklist
+Cara cepat yang sering dipilih adalah menambah agregat ke epoxy yang tersedia agar “menjadi mortar”. Cara ini dapat mengubah aliran, waktu kerja, pembasahan agregat, dan ikatan antarlapis tanpa ada data yang menjaminnya. Bahkan dua produk yang sama-sama disebut epoxy bisa memakai resin, pengeras, pengisi, dan kondisi pengerasan yang berbeda.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta sistem yang memang dirancang sebagai mortar, lengkap dengan lembar data teknis, instruksi pencampuran, rentang penempatan, persiapan substrat, detail sambungan, dan cara inspeksi. Bandingkan opsi itu dengan sistem pelapis lain berdasarkan fungsi lantai dan bukti proyek, bukan berdasarkan ketebalan yang terdengar paling besar.
+
+## Kesimpulan: kapan harus memilih agregat tebal
+
+Epoxy mortar beragregat tebal masuk akal ketika lantai membutuhkan tubuh lapisan yang padat untuk beban dan pembentukan lokal, sementara beton, kelembapan, sambungan, dan pengerasan (curing) dapat dikendalikan. Ia bukan pengganti diagnosis kerusakan beton, injeksi struktural, atau keputusan insinyur (engineer).
+
+Teman Epoxy.co.id, sebelum menyetujui penawaran, minta satu paket dokumen: susunan lapisan, jenis dan proporsi agregat, batas ketebalan, kondisi aplikasi, tonggak pengerasan, detail sambungan, metode inspeksi, serta sumber data pemasok. Jika salah satu bagian penting belum terbukti, pertahankan penanda kebutuhan bukti dan jangan menutup lantai hanya karena permukaannya tampak siap.

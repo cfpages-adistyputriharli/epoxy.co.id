@@ -2,8 +2,9 @@
 article_id: EPX-02-01
 title: "Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi"
 slug: "jenis-epoxy-berdasarkan-formulasi"
-description: "Map waterborne, solvent-borne, high-solids, and 100%-solids systems to constraints and evidence"
-status: outline
+description: "Panduan membandingkan epoxy berbasis air, pelarut, padatan tinggi, dan 100% padatan sesuai batasan proyek serta bukti teknisnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,44 +21,19 @@ sources:
   - "https://www.iso.org/standard/74606.html"
   - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat membuat daftar pendek material, Anda mungkin melihat label waterborne, solvent-borne, high-solids, dan 100% solids lalu menganggapnya sekadar pilihan kadar bau atau harga. Padahal, formulasi menentukan cara bahan dibawa ke permukaan, waktu kerja, kebutuhan ventilasi, dan bukti apa yang harus diminta sebelum memilih.
 
-- **Writer task:** Expand this file into one complete article answering: “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”
-- **Reader and situation:** Specifier making an initial shortlist
-- **Reader outcome:** Map waterborne, solvent-borne, high-solids, and 100%-solids systems to constraints and evidence
-- **Primary intent:** Compare formulation families
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes final project selection owned by EPX-06-01 and direct products owned by `/cat-epoxy`
-- **Final public route:** `/artikel/jenis-epoxy-berdasarkan-formulasi.html`
-- **Appointed CMS date:** `2025-04-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: petakan dulu kendala area—ventilasi, kelembapan, ketebalan, waktu henti, paparan kimia, dan metode aplikasi—baru bandingkan keluarga formulasi. Epoxy berbasis air dapat membantu mengelola pelarut pada kondisi tertentu; berbasis pelarut punya perilaku penguapan yang berbeda; padatan tinggi dan 100% padatan mengandalkan kandungan bahan non-menguap yang lebih besar. Tidak ada satu keluarga yang otomatis terbaik.
 
-## Opening instructions
+Peta ini membantu Anda menyusun daftar pendek awal, bukan menetapkan produk atau sistem akhir. Hasil akhirnya tetap bergantung pada produk aktual, susunan lapisan lengkap, kondisi beton, dan data pemasok. **[NEEDS TOPIC-GATE: pastikan keluarga produk, sistem lapisan, dan bukti pemasok sudah diverifikasi sebelum keputusan proyek.]**
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,136 +44,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Apa yang sebenarnya dibedakan oleh formulasi epoxy?
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Sebelum membandingkan label, pahami dulu objeknya. Epoxy bukan satu bahan seragam: resin, bahan pengeras, pigmen, pengisi, agregat, air atau pelarut, ketebalan film, substrat, dan proses curing (pengerasan melalui reaksi) dapat mengubah perilaku yang diukur. Ringkasan metode ISO tentang resin dan benda uji crosslinked menunjukkan bahwa komposisi serta persiapan spesimen memang memengaruhi hasil pengujian ([ISO 18280](https://www.iso.org/standard/52877.html), [ISO 7142](https://www.iso.org/standard/83331.html), [ISO 3673-2](https://www.iso.org/standard/59248.html)).
 
-### KR-03
+Artinya, dua kaleng bertuliskan “epoxy” belum tentu cocok untuk pekerjaan yang sama. Satu mungkin dirancang sebagai lapisan tipis, lainnya untuk build-up lebih tebal; satu memakai air sebagai pembawa, lainnya memakai pelarut; keduanya bisa memiliki jendela lapis ulang yang berbeda. Saat membaca lembar data teknis, cocokkan nama keluarga formulasi dengan tujuan lapisan dan metode aplikasi, bukan hanya kata “epoxy”.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+## Epoxy berbasis air (waterborne)
 
-### KR-14
+Epoxy berbasis air menggunakan air sebagai bagian penting media pembawa sebelum film mengering dan bereaksi. Daya tarik praktisnya adalah membantu mengurangi ketergantungan pada pelarut organik dalam kondisi yang sesuai, tetapi air bukan jaminan bahwa pekerjaan aman di setiap ruang atau bahwa lapisan akan cepat siap dipakai.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Mekanismenya melibatkan penguapan air sekaligus reaksi resin dan pengeras. Kelembapan, sirkulasi udara, suhu, dan kondisi beton dapat memengaruhi tahapan tersebut. Karena itu, “sudah tidak lengket” tidak sama dengan sudah mencapai curing penuh atau siap menerima bahan kimia; metode ISO untuk menilai crosslinking membedakan pemeriksaan reaksi dari sekadar tampilan permukaan ([ISO 14322](https://www.iso.org/standard/74606.html), [ISO 20368](https://www.iso.org/standard/67794.html)).
 
-### KR-15
+Contohnya, area dalam gedung yang tetap beroperasi mungkin meminta emisi pelarut lebih rendah, tetapi Anda tetap perlu memeriksa batas kelembapan, waktu pengeringan, dan ventilasi pada data produk. Tanyakan: apakah data pemasok menyebut substrat, suhu, kelembapan, ketebalan, dan waktu lapis ulang yang sama dengan kondisi Anda? Jika tidak, jangan mengubah angka dari produk lain menjadi janji proyek.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+## Epoxy berbasis pelarut (solvent-borne)
 
-## Evidence gates
+Pada sistem berbasis pelarut, sebagian pembawa menguap selama aplikasi dan pengeringan. Hal itu memengaruhi bau, kebutuhan ventilasi, cara bahan diratakan, dan perubahan volume film. Bau yang tercium tidak dapat dipakai sebagai alat ukur paparan yang aman; resin, pengeras, pelarut, pembersih, dan hasil reaksi bisa memiliki bahaya berbeda ([CDC/NIOSH tentang epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [panduan paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-- **TOPIC-GATE:** Current product family, complete layer system, and supplier evidence
+Konsekuensinya, keputusan bukan “bau atau tidak bau”, melainkan apakah pengendalian paparan, ventilasi, urutan kerja, dan akses orang di sekitar sudah sesuai penilaian tugas. Sarung tangan dan cara ventilasi harus dicocokkan dengan produk serta pekerjaan; jangan menyalin aturan dari merek lain atau menganggap hidung Anda sebagai detektor keselamatan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kawan Epoxy.co.id, bila proyek berlangsung di ruang aktif, catat siapa yang bekerja, bahan pembersih yang dipakai, kapan area diisolasi, dan bukti instruksi keselamatan produk. Bila data itu belum ada, tahan daftar pendek sampai pemasok melengkapinya.
 
-## Internal-link plan
+## Epoxy padatan tinggi (high-solids)
 
-### Existing local routes
+“Padatan tinggi” berarti porsi bahan yang tersisa menjadi film lebih besar dibanding sistem dengan pembawa yang lebih banyak menguap. Istilah ini membantu memperkirakan kecenderungan build-up, tetapi bukan angka ketebalan atau jaminan performa. Ketebalan aktual tetap dipengaruhi teknik aplikasi, substrat, suhu, dan data produk.
 
-- `/berita/jenis-epoxy-untuk-memperindah-lantai` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk membandingkannya, lihat konsumsi, ketebalan basah dan kering bila tersedia, waktu kerja, serta batas lapis ulang. Jangan menganggap satu sapuan high-solids pasti menggantikan susunan primer dan lapisan berikutnya. Jika lapisan terlalu tebal atau kondisi tidak sesuai, panas reaksi, aliran, atau waktu pengerasan dapat berubah; keputusan harus kembali ke lembar data dan mock-up yang disetujui.
 
-### Planned sibling articles
+## Epoxy 100% padatan (100%-solids)
 
-These are future routes. Do not link them as live until their HTML exists.
+Sistem 100% padatan dirancang agar kandungan non-menguapnya sangat tinggi, sehingga penguapan pembawa bukan cara utama membentuk film. Itu dapat mendukung target ketebalan tertentu, tetapi tidak menghapus kebutuhan mengendalikan substrat, pencampuran dua komponen, waktu kerja, dan kondisi curing.
 
-- `EPX-02-02` → `/artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.html` — Epoxy Coating Tipis vs High-Build vs Self-Leveling
-- `EPX-02-03` → `/artikel/epoxy-mortar-sistem-agregat.html` — Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan
+Perhatikan istilah “100%” sebagai klaim formulasi, bukan bukti bahwa pekerjaan pasti siap dipakai lebih cepat atau tahan semua bahan kimia. Pot life (waktu campuran masih dapat dikerjakan), waktu recoat, lalu lintas ringan, curing penuh, dan kesiapan layanan kimia adalah tonggak yang berbeda dan ditentukan produk serta kondisinya. Mintalah data tiap tonggak, bukan satu angka “kering”.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Teman Epoxy.co.id, bila target Anda ketebalan tinggi, tanyakan pula bagaimana produk diaplikasikan, alat apa yang diperlukan, dan bagaimana cacat atau sambungan akan ditangani. Untuk retak, tambalan, jangkar, injeksi, atau grout, jangan menganggap semua epoxy setara; penyebab retak, gerakan, peran struktur, kelembapan, beban, geometri, dan inspeksi memengaruhi pilihan perbaikan ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)).
 
-## Hasil akhir dan prasyarat
+## Cara menyusun daftar pendek tanpa mencampur label
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari batasan area, bukan dari nama keluarga. Catat apakah ruang berventilasi, apakah operasi harus tetap berjalan, apakah beton memiliki isu kelembapan, berapa ketebalan yang diminta, dan kapan area harus kembali digunakan. Lalu cocokkan batasan itu dengan lembar data produk yang menyebut kondisi uji dan metode aplikasi.
 
-## Langkah 1 — tetapkan scope
+Gunakan tabel sederhana dengan empat kolom: keluarga formulasi, pembawa yang menguap, cara aplikasi yang dinyatakan, dan bukti yang masih kurang. Tambahkan kolom terpisah untuk lapisan lengkap—primer, lapisan badan, agregat bila ada, dan pelapis akhir—karena nama satu produk tidak menjelaskan kompatibilitas seluruh sistem. Untuk langkah berikutnya, Anda dapat membaca penjelasan tentang [jenis epoxy untuk memperindah lantai](/berita/jenis-epoxy-untuk-memperindah-lantai) atau membandingkan [format cat epoxy](/format-cat-epoxy.html) bila pertanyaan Anda sudah bergeser ke bentuk aplikasi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Contoh: ruang gudang lembap dan beroperasi tidak boleh langsung diberi label “pakai 100% solids”. Periksa dulu kesiapan beton, ventilasi, waktu henti, ketebalan yang diperlukan, serta bukti curing pada kondisi serupa. Jika data pemasok hanya memuat angka laboratorium tanpa batas kondisi, catat sebagai kebutuhan verifikasi, bukan sebagai persetujuan.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Kapan pekerjaan harus berhenti sementara?
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti sebelum memilih atau mengaplikasikan bila keluarga formulasi tidak jelas, lapisan pasangannya tidak disebut, substrat belum dinilai, atau data curing tidak cocok dengan jadwal operasi. Permukaan yang tampak kering juga bukan bukti tunggal kesiapan layanan; minta kriteria produk untuk lapis ulang, lalu lintas, dan paparan yang direncanakan.
 
-## Langkah 3 — jalankan urutan kerja
+Berhenti pula jika ada klaim keselamatan yang hanya didasarkan pada bau, atau jika instruksi alat pelindung dan ventilasi tidak tersedia. Minta lembar data keselamatan dan petunjuk aplikasi yang berlaku untuk produk aktual. Ini bukan penetapan hukum Indonesia, melainkan disiplin untuk tidak menebak bahaya dari label singkat.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Verifikasi sebelum keputusan akhir
 
-## Hold point dan kondisi berhenti
+Sebelum daftar pendek diteruskan ke pemilik proyek atau aplikator, simpan nama produk dan revisi dokumen, keluarga formulasi, susunan lapisan, kondisi substrat, metode aplikasi, batas suhu dan kelembapan, waktu kerja, waktu lapis ulang, serta kriteria curing. Cocokkan semua item dengan sampel atau uji area yang disepakati bila data pemasok belum menjawab kondisi lapangan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika pekerjaan menyangkut perbaikan struktural, beban, atau paparan khusus, serahkan keputusan kepada dokumen proyek, instruksi pabrikan, dan insinyur yang berwenang. Artikel ini membantu memilah pertanyaan; ia bukan persetujuan desain atau pengganti pemeriksaan lapangan.
 
-## Verifikasi hasil dan handover
+## Jalan pintas yang sering menyesatkan
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang tampak praktis adalah memilih keluarga formulasi dari bau paling rendah atau persentase padatan paling tinggi, lalu mengabaikan susunan lapisan dan kondisi beton. Cara itu gagal karena performa terbentuk dari interaksi komposisi, substrat, ketebalan, curing, dan aplikasi—bukan satu label di kemasan.
 
-## Objection or shortcut to address
+Alternatifnya sederhana: buat matriks kendala dan bukti, tandai data yang belum ada, lalu minta pemasok menjawab pertanyaan spesifik untuk produk aktual. Jika satu jawaban berubah ketika suhu, kelembapan, atau ketebalan berubah, catat perubahan itu sebagai syarat keputusan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: pilih keluarga berdasarkan kendala dan bukti
 
-## Required conclusion
+Epoxy berbasis air, berbasis pelarut, padatan tinggi, dan 100% padatan berbeda terutama pada pembawa, kandungan bahan yang tersisa, cara aplikasi, serta tahapan curing. Tidak satu pun boleh dipilih hanya dari nama, bau, atau klaim ketebalan. Kawan Epoxy.co.id, langkah berikutnya adalah meminta lembar data teknis dan keselamatan produk aktual, memetakan kondisi area, lalu memeriksa apakah seluruh susunan lapisan dan bukti pemasok menjawab kendala tersebut.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Gunakan hasil pemetaan ini untuk daftar pendek awal saja. Keputusan akhir tetap memerlukan data proyek dan persetujuan profesional yang sesuai; bila bukti utama belum lengkap, tahan pekerjaan dan tandai kebutuhan verifikasi sebelum material dibeli atau diaplikasikan.

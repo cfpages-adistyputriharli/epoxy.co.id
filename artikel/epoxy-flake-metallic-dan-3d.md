@@ -2,8 +2,9 @@
 article_id: EPX-02-04
 title: "Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif"
 slug: "epoxy-flake-metallic-dan-3d"
-description: "Compare appearance, installation control, repair visibility, slip, UV, and evidence for samples"
-status: outline
+description: "Panduan membandingkan tampilan, kendali pemasangan, kemudahan perbaikan, selip, sinar ultraviolet, dan bukti sampel sebelum memilih finishing dekoratif."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,17 @@ final_route: "/artikel/epoxy-flake-metallic-dan-3d.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
+  - "https://store.astm.org/c0881_c0881m-20a.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Teman Epoxy.co.id! Saat memilih lantai dekoratif, pembeli sering terpikat foto flake yang ramai, kilau metallic, atau gambar 3D yang tampak dalam. Masalahnya, tampilan di layar belum menjawab apakah pemasangannya mudah dikendalikan, bekas perbaikan akan terlihat, permukaannya cukup aman dilalui, atau warnanya tahan terhadap cahaya.
 
 # Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif
 
-## Assignment lock
+Jawaban singkatnya: flake biasanya paling mudah menyamarkan variasi kecil dan bekas tambalan, metallic memberi efek aliran warna yang unik tetapi menuntut kendali aplikasi lebih ketat, sedangkan 3D paling bergantung pada kualitas gambar, lapisan bening, dan kerataan dasar. Pilihan yang masuk akal harus dibandingkan lewat sampel pada sistem lapisan yang sama, bukan dari nama gaya saja. [NEEDS TOPIC-GATE: minta bukti keluarga produk, susunan lapisan lengkap, dan data pemasok sebelum keputusan akhir.]
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”
-- **Reader and situation:** Commercial or residential design buyer
-- **Reader outcome:** Compare appearance, installation control, repair visibility, slip, UV, and evidence for samples
-- **Primary intent:** Compare decorative finishes
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes direct 3D service offer owned by `/epoxy-3d` and color planning owned by EPX-09-07
-- **Final public route:** `/artikel/epoxy-flake-metallic-dan-3d.html`
-- **Appointed CMS date:** `2025-04-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,138 +37,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Tiga tampilan, tiga cara mengendalikan hasil
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Bagian ini membantu Anda membedakan istilah yang sering dipakai seolah-olah hanya pilihan warna. Yang dibandingkan sebenarnya adalah cara pola terbentuk, seberapa mudah hasil diulang, dan bagaimana lantai dirawat setelah digunakan.
 
-### KR-03
+**Flake** adalah serpihan berwarna yang ditaburkan ke lapisan dasar lalu dikunci dengan lapisan bening. Polanya menyebar dan memecah pantulan, sehingga bintik debu atau noda kecil tidak selalu langsung menonjol. Itu kualifikasi tampilan, bukan bukti bahwa lantai lebih kuat atau bekas perbaikannya pasti tersamarkan. Ukuran serpihan, kepadatan taburan, warna dasar, dan ketebalan lapisan bening tetap perlu ditetapkan lewat panel contoh.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+**Metallic** memakai pigmen yang bergerak atau terarah di dalam resin sehingga muncul urat dan kedalaman visual. Gerakan alat, waktu kerja, suhu, dan cara menyambung bidang dapat mengubah pola. Jadi, dua bidang yang memakai warna sama belum tentu memiliki aliran yang sama; mintalah contoh bidang yang cukup luas, bukan hanya kartu kecil.
 
-### KR-14
+**3D** menempatkan gambar atau pola cetak di bawah lapisan bening. Efek ruang hanya terbaca jika gambar, sambungan, pencahayaan, kerataan dasar, dan lapisan pelindung bekerja bersama. Artikel ini tidak menawarkan jasa gambar 3D atau merancang palet warna; keputusan visual tersebut perlu mengikuti kebutuhan desain dan pemilik proyek.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+## Bahan yang sama namanya belum tentu berperilaku sama
 
-### KR-15
+Istilah “epoxy” menunjuk keluarga bahan, bukan satu formula tunggal. Resin, bahan pengeras, pigmen, pengisi, agregat, pelarut atau air, ketebalan film, dasar lantai, dan cara pengujian dapat mengubah perilaku yang diukur; ringkasan metode ISO sendiri membedakan persiapan benda uji dan sifat yang diamati. [ISO 18280:2010](https://www.iso.org/standard/52877.html)
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Akibatnya, klaim “lebih kuat”, “anti-selip”, atau “tahan sinar ultraviolet (UV)” tidak boleh dipindahkan dari satu produk ke produk lain tanpa data yang sesuai. Minta lembar teknis dan contoh lapisan lengkap: dasar, lapisan dekoratif, agregat atau gambar bila ada, serta lapisan pelindung. Jika pemasok hanya menunjukkan warna permukaan, bukti untuk keputusan sistem belum cukup.
 
-## Evidence gates
+Untuk pembaca yang ingin memahami susunan layanan lebih dulu, halaman [format pelapisan epoxy dan PU](/format-epoxy-pu-coating.html) dapat menjadi titik awal. Gunakan informasi itu sebagai orientasi, bukan pengganti data produk yang akan dipasang.
 
-- **TOPIC-GATE:** Current product family, complete layer system, and supplier evidence
+## Urutan pemasangan menentukan rupa dan umur pakai
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pola dekoratif tidak berdiri sendiri. Dasar harus diperiksa, dibersihkan, dan disiapkan; kemudian lapisan dasar, flake atau metallic atau gambar 3D, lalu lapisan bening diterapkan sesuai jendela kerja produk. Waktu kerja, waktu bebas lengket, waktu pelapisan ulang, boleh diinjak, dan siap menerima layanan kimia adalah tonggak yang berbeda. Jangan menetapkan tonggak itu dari rasa kering atau kalender saja; cocokkan dengan lembar teknis produk dan kondisi aplikasi yang benar-benar terjadi.
 
-## Internal-link plan
+Pada flake, kendali utama adalah kepadatan taburan dan penguncian serpihan agar tepi tidak mudah terangkat. Pada metallic, bekas berhenti atau sambungan kerja bisa menjadi bagian dari pola yang terlihat. Pada 3D, tonjolan kecil atau sambungan gambar dapat membesar secara visual setelah tertutup lapisan bening. Karena itu, tetapkan urutan bidang, titik sambungan, dan cara pemeriksaan sebelum pekerjaan dimulai.
 
-### Existing local routes
+## Bandingkan risiko yang benar-benar Anda hadapi
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Teman Epoxy.co.id, pilih berdasarkan penggunaan ruang, bukan tren. Di area komersial dengan lalu lintas tinggi, tanyakan bagaimana pola menyamarkan kotoran, bagaimana permukaan dibersihkan, dan bagaimana perbaikan lokal akan disatukan. Flake sering membantu penyamaran visual, tetapi bukan jaminan bahwa sambungan perbaikan tidak terlihat.
 
-### Planned sibling articles
+Di ruang yang terkena matahari, jangan menjadikan istilah “tahan sinar ultraviolet (UV)” sebagai kesimpulan otomatis. Minta data produk dan batas penggunaannya. Di area basah atau berkontur, minta bukti sistem permukaan dan metode pembersihan yang dimaksud; tampilan mengilap saja tidak memberi angka keselamatan berjalan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Bahan juga memiliki risiko kerja yang berbeda. Resin, pengeras, pelarut, pengisi, pigmen, pembersih, dan hasil reaksi dapat memiliki bahaya yang berbeda; bau bukan indikator paparan yang andal. Ventilasi dan sarung tangan harus dicocokkan dengan produk serta pekerjaan yang sebenarnya, mengikuti informasi pemasok dan penilaian yang kompeten. [CDC/NIOSH tentang epoksi dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)
 
-- `EPX-02-02` → `/artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.html` — Epoxy Coating Tipis vs High-Build vs Self-Leveling
-- `EPX-02-03` → `/artikel/epoxy-mortar-sistem-agregat.html` — Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan
-- `EPX-02-05` → `/artikel/epoxy-transparan-vs-berpigmen.html` — Epoxy Transparan dan Berpigmen: Perbedaan Fungsi
-- `EPX-02-06` → `/artikel/epoxy-antistatic-conductive-esd.html` — Epoxy Anti-Static, Conductive, dan ESD
+## Contoh keputusan untuk pembeli rumah dan ruang usaha
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Bayangkan dua pilihan untuk lobi kecil. Jika prioritasnya pola yang konsisten dan kemungkinan tambalan terlihat lebih rendah, mulai dengan panel flake yang menunjukkan kepadatan tabur dan jenis lapisan bening. Jika prioritasnya satu bidang artistik yang tidak ada duanya, metallic dapat dipertimbangkan, tetapi mintalah panel berukuran cukup dan jelaskan batas variasi yang dapat diterima.
 
-## Jawaban singkat dan salah paham utama
+Untuk gambar 3D, tanyakan siapa yang menyetujui file gambar, bagaimana sambungan dicocokkan, dan apa yang terjadi bila bagian dasar perlu diperbaiki. Jangan menyetujui hanya dari satu sudut foto. Kawan Epoxy.co.id, keputusan yang baik adalah keputusan yang masih masuk akal ketika Anda melihat sampel dari jarak berjalan dan setelah membayangkan satu titik perbaikan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk kebutuhan dasar mengenai pilihan cat dan pelapis, Anda bisa membaca [format cat epoxy](/format-cat-epoxy.html). Saat beralih ke lantai nyata, kembali cocokkan rekomendasi itu dengan lembar teknis dan kondisi dasar di lokasi.
 
-## Definisi dan batas objek
+## Kesalahan yang sering membuat sampel menipu
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap kartu warna sebagai bukti lantai terpasang. Kartu tidak menunjukkan kerataan dasar, sambungan, pantulan cahaya ruang, atau perilaku lapisan bening. Minta panel yang memakai susunan lapisan dan alat aplikasi yang akan dipakai.
 
-## Cara kerjanya
+Kesalahan kedua adalah memilih campuran termurah lalu mengharapkan perbaikan tidak terlihat. Untuk pekerjaan perbaikan, penyebab retak atau gerak, kelembapan, suhu, beban, geometri, kecocokan bahan, pemasangan, dan inspeksi ikut menentukan pilihan; rujukan sistem pengikat dan desain perbaikan tidak otomatis menjadi resep untuk setiap lantai dekoratif. [ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah memakai kalender sebagai tanda siap pakai. Sentuhan kering atau bau yang berkurang tidak membuktikan pengerasan penuh. Catat produk, kondisi ruang, tonggak pengerasan dari data pemasok, serta siapa yang berwenang menyatakan bidang boleh dipakai.
 
-## Faktor yang mengubah hasil
+## Langkah akhir sebelum memilih gaya
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Singkatnya, flake cocok sebagai titik awal bila Anda menghargai pola yang membantu menyamarkan variasi; metallic cocok bila Anda menerima variasi aplikasi demi karakter visual; 3D cocok bila gambar, kerataan, sambungan, dan lapisan bening dapat dikendalikan bersama. Tidak ada satu gaya yang otomatis paling aman, awet, atau mudah diperbaiki.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum menyetujui pekerjaan, simpan panel sampel, susunan lapisan, lembar teknis, batas variasi visual, rencana sambungan, dan aturan pembersihan. Tanyakan juga bukti untuk selip, UV, serta prosedur perbaikan yang benar-benar berlaku pada produk tersebut. Jika bukti keluarga produk dan sistem lengkap belum ada, tahan keputusan dan minta pemeriksaan teknis yang sesuai. Aturan operasinya sederhana: pilih tampilan setelah Anda dapat menjelaskan bagaimana hasil itu dibuat, diperiksa, dan diperbaiki.

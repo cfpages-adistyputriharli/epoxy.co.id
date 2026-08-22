@@ -2,8 +2,9 @@
 article_id: EPX-02-05
 title: "Epoxy Transparan dan Berpigmen: Perbedaan Fungsi"
 slug: "epoxy-transparan-vs-berpigmen"
-description: "Explain color, substrate visibility, yellowing, film build, and suitable evidence"
-status: outline
+description: "Panduan memilih epoxy transparan atau berpigmen berdasarkan warna, tampilan substrat, perubahan warna, ketebalan lapisan, dan bukti yang perlu diminta."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,18 @@ final_route: "/artikel/epoxy-transparan-vs-berpigmen.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy Transparan dan Berpigmen: Perbedaan Fungsi
 
-## Assignment lock
+Halo, Teman Epoxy.co.id! Anda mungkin sedang memegang dua penawaran: resin transparan yang mempertahankan tampilan lantai atau benda di bawahnya, dan resin berpigmen yang menutupinya dengan warna. Keduanya sama-sama disebut epoxy, tetapi fungsi visual dan cara memeriksanya tidak sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”
-- **Reader and situation:** Designer or fabricator considering clear resin
-- **Reader outcome:** Explain color, substrate visibility, yellowing, film build, and suitable evidence
-- **Primary intent:** Choose optical finish
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes UV exposure design owned by EPX-10-06
-- **Final public route:** `/artikel/epoxy-transparan-vs-berpigmen.html`
-- **Appointed CMS date:** `2025-04-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih transparan bila tekstur atau warna substrat memang ingin ditampilkan dan kondisinya sudah layak dilihat; pilih berpigmen bila Anda membutuhkan warna yang lebih seragam atau perlu menyamarkan perbedaan dasar. Keputusan itu dapat berubah setelah Anda memeriksa warna dasar, ketebalan lapisan, kondisi pengerasan, dan data produk yang benar-benar dipakai.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Transparan dan Berpigmen: Perbedaan Fungsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,138 +38,84 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Masalahnya bukan sekadar memilih bening atau berwarna
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Sebelum membandingkan dua pilihan, bagian ini membantu Anda melihat mengapa keputusan visual sering meleset: lapisan bening memperlihatkan apa pun yang ada di bawahnya, sedangkan pigmen menyamarkan sebagian perbedaan tetapi menambah komponen dan tuntutan pencampuran.
 
-### KR-03
+Jika dasar lantai memiliki noda, tambalan, atau warna yang tidak rata, epoxy transparan tidak akan menghapusnya. Ia justru membuat keadaan dasar menjadi bagian dari hasil akhir. Sebaliknya, epoxy berpigmen dapat membuat permukaan tampak lebih seragam, tetapi warna yang keluar tetap dipengaruhi warna dasar, jumlah lapisan, dan pencahayaan.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Bayangkan meja beton yang sudah memiliki pola tambalan. Transparan masuk akal bila pola itu memang tujuan desain dan Anda siap menerima variasinya. Berpigmen lebih masuk akal bila meja harus tampak satu warna untuk dipadukan dengan elemen interior lain.
 
-### KR-14
+Biar tidak salah langkah, tuliskan dahulu kalimat keputusan: “Saya ingin dasar terlihat” atau “Saya ingin warna akhir mendominasi.” Jika kalimat itu belum jelas, jangan meminta pemasang menghitung kebutuhan material dulu.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+## Bedakan bahan, tampilan, dan sistem lapisannya
 
-### KR-15
+Istilah transparan dan berpigmen menggambarkan tampilan, bukan jaminan bahwa semua produk di dalam kelompok itu identik. Resin, bahan pengeras, pengubah sifat, pigmen, pengisi, pelarut, air, dan tebal lapisan dapat mengubah perilaku bahan serta hasil uji. Ringkasan metode ISO tentang resin epoksi dan spesimen silang menunjukkan bahwa komposisi dan persiapan spesimen merupakan bagian dari konteks pengujian, bukan detail yang boleh diabaikan ([ISO 18280](https://www.iso.org/standard/52877.html)).
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Epoxy transparan biasanya dipilih agar substrat tetap terbaca. Itu tidak berarti hasilnya selalu seperti kaca: permukaan, gelembung, bekas perbaikan, dan ketebalan tetap menentukan apa yang terlihat. Epoxy berpigmen memasukkan warna ke dalam sistem, sehingga perhatian berpindah ke kecocokan warna, daya tutup, dan konsistensi antarbagian.
 
-## Evidence gates
+Film build, atau tebal total lapisan, juga bukan angka dekoratif. Lapisan yang lebih tipis dapat memperlihatkan dasar dengan lebih kuat; lapisan tambahan dapat mengubah kedalaman tampilan, tetapi tidak otomatis memperbaiki dasar yang lembap atau kotor. Karena itu, minta lembar data produk yang menyebutkan sistem lengkap dan cara aplikasinya, bukan hanya nama warna.
 
-- **TOPIC-GATE:** Current product family, complete layer system, and supplier evidence
+## Lima kriteria yang benar-benar mengubah pilihan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Bagian ini mengubah perbandingan abstrak menjadi pertanyaan lapangan. Anda tidak perlu menghafal semua istilah; cukup cocokkan setiap pertanyaan dengan apa yang akan dilihat, dikerjakan, dan dibuktikan.
 
-## Internal-link plan
+Pertama, tanyakan seberapa penting substrat terlihat. Untuk lantai dekoratif dengan pola dasar yang sengaja dipertahankan, transparan memberi ruang bagi pola itu. Untuk area yang memerlukan warna seragam, pigmen mengurangi ketergantungan pada variasi dasar, tetapi contoh panel tetap perlu diperiksa di lokasi.
 
-### Existing local routes
+Kedua, periksa warna dasar dan potensi perubahan tampilan. Warna transparan dapat tampak berbeda ketika dasar lebih gelap atau lebih terang. Jangan menjanjikan bahwa hasil akan tetap sama sepanjang waktu hanya dari kata “bening”; data perubahan warna dan kondisi pemakaian harus berasal dari produk serta sistem yang dipilih.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ketiga, cocokkan tebal lapisan dengan tujuan. Ketebalan, waktu kerja, dan tahapan pengerasan saling terkait. Metode ISO untuk mengamati keterikatan silang menegaskan bahwa pengujian laboratorium memiliki kondisi dan spesimen tertentu; permukaan yang tidak lagi lengket belum membuktikan bahwa seluruh sistem siap menerima beban atau bahan kimia ([ISO 14322](https://www.iso.org/standard/74606.html)). Jadi, ikuti jendela pelapisan ulang dan waktu pakai dari lembar data produk, bukan patokan bau atau hitungan hari dari produk lain.
 
-### Planned sibling articles
+Keempat, lihat antarmuka dengan dasar. Kelembapan, retak, tambalan, dan kebersihan tetap menjadi persoalan pada kedua pilihan. Pigmen tidak mengubah sebab retak, dan transparan tidak membuat dasar yang rapuh menjadi stabil. Bila ada perbaikan struktural atau retak bergerak, keputusan itu memerlukan data proyek dan tenaga berwenang; artikel ini tidak menggantikan rancangan perbaikan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Kelima, pastikan bukti identitasnya. Minta nama produk, nomor batch bila tersedia, lembar data teknis, contoh warna, serta keterangan sistem lapis yang akan dipakai. Jangan menyamakan hasil uji resin di laboratorium dengan kinerja lantai terpasang tanpa dokumen produk dan kondisi aplikasi yang cocok.
 
-- `EPX-02-03` → `/artikel/epoxy-mortar-sistem-agregat.html` — Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan
-- `EPX-02-04` → `/artikel/epoxy-flake-metallic-dan-3d.html` — Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif
-- `EPX-02-06` → `/artikel/epoxy-antistatic-conductive-esd.html` — Epoxy Anti-Static, Conductive, dan ESD
-- `EPX-02-07` → `/artikel/water-based-vs-solvent-based-vs-100-solids-epoxy.html` — Water-Based vs Solvent-Based vs 100% Solids Epoxy
+## Kapan transparan lebih masuk akal, dan kapan berpigmen?
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Skenario berikut membantu Anda mengambil keputusan bersyarat, bukan mencari pemenang universal. Teman Epoxy.co.id, gunakan contoh ini sebagai cara bertanya kepada pemasang, bukan sebagai persetujuan otomatis untuk suatu merek.
 
-## Masalah keputusan yang sebenarnya
+Transparan lebih masuk akal ketika substrat sudah disiapkan rapi, pola atau agregat memang bagian dari desain, dan variasi kecil dapat diterima. Contohnya, permukaan dengan serpihan dekoratif yang ingin terlihat dari atas. Anda tetap perlu panel contoh karena warna dasar dan pencahayaan setempat dapat mengubah persepsi.
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berpigmen lebih masuk akal ketika target utamanya warna rata, dasar memiliki variasi yang tidak ingin ditonjolkan, atau identitas visual ruangan perlu konsisten. Contohnya, area kerja yang harus mengikuti palet warna tertentu. Panel uji tetap penting agar warna di bawah lampu nyata tidak mengejutkan setelah aplikasi.
 
-## Bedakan objek sebelum membandingkan
+Ada situasi campuran: lapisan dasar berpigmen untuk merapikan warna, lalu lapisan transparan sebagai pelindung tampilan. Jangan menganggap susunan ini otomatis sesuai; periksa kompatibilitas antarproduk, interval pelapisan, dan batas sistem pada lembar data. Jika data produk yang lengkap belum ada, tandai keputusan sebagai [NEEDS PRODUCT EVIDENCE: minta lembar data dan contoh panel dari sistem yang benar-benar akan dipakai].
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Tiga asumsi yang sering membuat hasil mengecewakan
 
-## Kriteria perbandingan yang relevan
+Asumsi pertama adalah “transparan pasti menyembunyikan cacat.” Mekanismenya justru berlawanan: karena cahaya melewati lapisan, noda dan perbedaan warna dasar dapat terbaca. Cara memeriksanya sederhana—lihat panel contoh dari jarak dan pencahayaan yang sama dengan lokasi, lalu putuskan apakah variasi itu dapat diterima.
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Asumsi kedua adalah “warna di katalog akan sama persis di lantai.” Warna dasar, tebal lapisan, pencampuran, dan cahaya mengubah tampilan akhir. Minta panel dengan produk dan cara aplikasi yang sama, bukan gambar layar saja.
 
-## Kapan masing-masing pilihan masuk akal
+Asumsi ketiga adalah “permukaan tidak lengket berarti sudah aman dipakai.” Tahapan seperti waktu kerja, tidak lengket saat disentuh, pelapisan ulang, lalu pengerasan penuh adalah tonggak berbeda. Catat tonggak yang ditetapkan produsen dan tahan penggunaan sampai syarat yang relevan terpenuhi.
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Asumsi keempat adalah “bau menentukan aman atau tidak.” Panduan CDC/NIOSH menjelaskan bahwa resin, bahan pengeras, pelarut, pengisi, pigmen, pembersih, dan hasil reaksi dapat memiliki bahaya berbeda; bau bukan pengukur paparan yang andal ([CDC/NIOSH tentang epoksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Ikuti lembar data keselamatan produk, kecocokan sarung tangan, dan pengaturan ventilasi yang spesifik untuk pekerjaan. Panduan tersebut bukan pengganti aturan atau penilaian keselamatan di lokasi Indonesia; jangan menebak perlindungan hanya dari ada atau tidaknya bau ([CDC/NIOSH paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-## Kesalahan perbandingan yang sering terjadi
+## Bukti yang perlu ada sebelum warna diputuskan
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada titik ini, keputusan terbaik bukan “pesan transparan” atau “pesan putih”, melainkan memastikan dokumen yang mengikat hasil akhir sudah tersedia. Kawan Epoxy.co.id, susun permintaan berikut dalam satu catatan agar tidak ada pihak yang mengingat spesifikasi secara berbeda.
 
-## Bukti yang perlu diminta sebelum memilih
+- Nama produk dan sistem lapis lengkap, termasuk apakah transparan atau berpigmen.
+- Contoh panel dengan substrat, tebal, pencahayaan, dan metode aplikasi yang mendekati lokasi.
+- Lembar data teknis serta petunjuk pencampuran, waktu kerja, pelapisan ulang, dan pengerasan.
+- Catatan kondisi dasar: kelembapan, tambalan, retak, dan persiapan permukaan yang disetujui.
+- Penanggung jawab yang menyetujui warna, batas variasi, dan kapan area boleh dipakai.
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Transparan dan Berpigmen: Perbedaan Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk membaca pilihan layanan dan contoh konteks pekerjaan tanpa menganggapnya sebagai bukti performa sistem Anda, Anda dapat mulai dari [panduan format epoxy dan pelapis](/format-epoxy-pu-coating.html) lalu melihat [kategori epoxy](/format-cat-epoxy.html). Rute itu membantu orientasi; keputusan akhir tetap harus mengacu pada produk, kondisi dasar, dan persetujuan proyek Anda.
 
-## Objection or shortcut to address
+## Jika ingin memilih cepat, tahan satu langkah dulu
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Keinginan memilih cepat biasanya muncul karena warna katalog terlihat meyakinkan. Masalahnya, katalog tidak memperlihatkan kondisi substrat, ketebalan nyata, atau jendela pengerasan di lokasi. Memilih tanpa panel dan data produk dapat menghasilkan warna yang tidak sesuai sekaligus membuat masalah dasar baru terlihat setelah lapisan terpasang.
 
-## Required conclusion
+Alternatif yang lebih aman adalah meminta satu panel pembanding: transparan pada dasar yang sudah disiapkan dan berpigmen pada dasar yang sama. Bandingkan dari jarak pandang, pencahayaan, dan sudut yang akan dipakai sehari-hari; catat juga kapan panel dianggap siap diperiksa. Bila hasilnya tetap ambigu, tahan keputusan dan minta peninjauan teknis proyek.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan: pilih fungsi visual, lalu buktikan sistemnya
 
-## Draft completion checklist
+Epoxy transparan dipilih untuk mempertahankan keterbacaan substrat, sedangkan epoxy berpigmen dipilih untuk mengarahkan hasil ke warna yang lebih seragam. Tidak ada pemenang universal karena warna dasar, kondisi permukaan, tebal lapisan, pengerasan, dan bukti produk ikut menentukan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memberi persetujuan, minta lembar data sistem lengkap dan panel contoh yang dibuat dengan kondisi serupa. Jika keputusan menyentuh rancangan paparan luar ruang, ketahanan terhadap sinar ultraviolet, atau perbaikan struktural, itu berada di luar bahasan artikel ini dan memerlukan dokumen serta tenaga ahli yang sesuai. Aturan praktisnya sederhana: jangan memilih berdasarkan kata “bening” atau contoh warna saja; pilih setelah tampilan, mekanisme, dan bukti sistem yang akan dipakai sudah cocok.
