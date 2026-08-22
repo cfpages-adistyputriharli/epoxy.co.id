@@ -2,8 +2,9 @@
 article_id: EPX-01-05
 title: "Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm"
 slug: "exotherm-campuran-epoxy"
-description: "Explain exotherm, mass effect, container geometry, warning signs, and stop conditions"
-status: outline
+description: "Memahami mengapa campuran epoxy menghangat, faktor yang mempercepat panas, tanda peringatan, dan kapan harus berhenti."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-03-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,45 +17,24 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
   - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm
 
-## Assignment lock
+Halo, Sobat Epoxy.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”
-- **Reader and situation:** DIY reader or applicator mixing a batch
-- **Reader outcome:** Explain exotherm, mass effect, container geometry, warning signs, and stop conditions
-- **Primary intent:** Understand heat hazard
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes PPE and emergency response owned by EPX-14-01 and batch procedure owned by EPX-07-02
-- **Final public route:** `/artikel/exotherm-campuran-epoxy.html`
-- **Appointed CMS date:** `2025-03-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat resin dan pengeras baru dicampur, wadahnya bisa terasa hangat. Banyak orang mengira panas itu sekadar tanda campuran bekerja, lalu membiarkannya tetap menumpuk di gelas. Padahal kenaikan suhu yang cepat dapat memperpendek waktu kerja, membuat campuran makin cepat mengeras, dan merusak wadah atau permukaan di sekitarnya.
 
-## Opening instructions
+Jawaban singkatnya: panas itu disebut **eksoterm**, yaitu panas yang dilepas oleh reaksi pengikatan resin dan pengeras. Semakin banyak campuran terkumpul dan semakin sulit panas keluar dari wadah, semakin tinggi peluang suhunya melonjak. Artikel ini membantu Anda membaca pengaruh jumlah campuran, bentuk wadah, dan tanda bahaya; ini bukan panduan takaran atau prosedur pencampuran, yang memiliki pembahasan tersendiri.
 
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
 
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,131 +45,52 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Eksoterm bukan sekadar campuran yang terasa hangat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Istilah ini penting karena rasa hangat biasa dan kenaikan suhu yang tidak terkendali menuntut keputusan berbeda. Bagian ini meluruskan anggapan bahwa permukaan yang mulai mengeras selalu berarti seluruh isi wadah aman dibiarkan.
 
-### KR-02
+Eksoterm berarti reaksi kimia melepaskan energi sebagai panas. Ketika bagian resin bereaksi dengan pengeras, ikatan baru terbentuk dan sebagian energi itu keluar sebagai panas. Jika panas tersebut cepat dibuang ke udara atau wadah, suhu tetap lebih rendah; jika tertahan, suhu campuran naik dan reaksi dapat berlangsung lebih cepat. [NEEDS TECHNICAL REVIEW: formulasi, rasio, dan batas suhu produk tertentu harus diperiksa pada lembar data teknis dan lembar data keselamatan.]
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Jadi, jangan memakai sentuhan tangan atau bau sebagai alat ukur keselamatan. NIOSH mengingatkan bahwa komponen resin, pengeras, pelarut, pengisi, dan hasil reaksi dapat memiliki bahaya berbeda, sedangkan bau bukan penanda paparan yang andal ([panduan NIOSH tentang epoksi dan resin](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Pertanyaan yang lebih berguna adalah: apakah suhu terus meningkat, apakah wadah berubah bentuk, dan apakah dokumen produk memberi batas yang sudah diverifikasi?
 
-### KR-03
+## Mengapa jumlah dan bentuk wadah mengubah panas
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Setelah memahami sumber panasnya, kita perlu melihat mengapa dua campuran dengan bahan sama dapat berperilaku berbeda. Ini mencegah kesimpulan keliru bahwa “epoxy selalu panas pada suhu yang sama”.
 
-### KR-15
+Pada jumlah kecil, panas dari bagian dalam lebih mudah mencapai permukaan dan lepas ke udara. Saat jumlah campuran bertambah, panas yang dihasilkan bertambah di seluruh volume, sementara luas permukaan pelepas panas tidak bertambah sebanding. Inilah yang sering disebut **efek massa**: tumpukan besar menyimpan panas lebih lama daripada lapisan tipis.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Bentuk wadah ikut menentukan. Gelas tinggi dan sempit menahan lebih banyak campuran di pusat yang jauh dari udara; baki lebar dan dangkal memberi jalur pelepasan panas lebih pendek. Ini bukan izin untuk mengganti prosedur produk secara sembarang—cara membagi batch, alat, dan batas volumenya harus berasal dari dokumen produk atau penanggung jawab teknis. Standar ISO menunjukkan bahwa komposisi, pengisi, pigmen, pelarut, dan cara menyiapkan benda uji dapat mengubah hasil pengujian epoksi ([ISO 18280](https://www.iso.org/standard/52877.html) dan [ISO 7142](https://www.iso.org/standard/83331.html)).
 
-## Evidence gates
+Contoh sederhananya begini: dua wadah berisi total campuran sama. Wadah A tinggi dan penuh, Wadah B lebih rendah dan menyebar. Jika A mulai jauh lebih panas, yang perlu dicatat bukan hanya suhu awal, melainkan volume per wadah, tinggi tumpukan, waktu sejak pencampuran, dan kondisi ruangan. Catatan itu menjadi bahan keputusan, bukan tebakan dari warna atau kekentalan.
 
-- **TOPIC-GATE:** Exact formulation/TDS/SDS and qualified chemistry/HSE review
+## Tanda panas sedang berakselerasi
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pembaca biasanya baru menyadari masalah ketika campuran sudah mengental. Bagian ini mengubah pengamatan tersebut menjadi pemeriksaan berurutan agar Anda tidak menunggu sampai wadah terlalu panas.
 
-## Internal-link plan
+Perhatikan perubahan yang terjadi lebih cepat dari perkiraan dokumen produk: suhu wadah meningkat terus, campuran mengental mendadak, permukaan berasap atau mengeluarkan gelembung yang tidak direncanakan, atau wadah terasa lunak dan berubah bentuk. Satu tanda saja belum membuktikan penyebabnya, tetapi gabungan beberapa tanda adalah alasan untuk menghentikan pekerjaan dan menjauhkan orang dari area tersebut sesuai rencana keselamatan setempat.
 
-### Existing local routes
+Jangan menyimpulkan “sudah kering” dari permukaan yang tidak lengket. Metode pengujian pengikatan silang seperti kalorimetri pemindaian diferensial (DSC, pengukuran perubahan panas) dan spektroskopi inframerah transformasi Fourier (FTIR, pengamatan perubahan ikatan kimia) menunjukkan bahwa tingkat pengikatan adalah hal berbeda dari sekadar permukaan terasa kering ([ISO 14322](https://www.iso.org/standard/74606.html)). Untuk batch yang sedang memanas, kebutuhan utamanya adalah keputusan berhenti dan rujukan dokumen produk, bukan uji improvisasi.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Keputusan praktis saat batch mulai terlalu panas
 
-### Planned sibling articles
+Di titik ini, pembaca membutuhkan aturan yang dapat dipakai tanpa mengarang batas angka. Kita akan membedakan keadaan yang masih dapat dipantau dari keadaan yang harus dihentikan, sambil tetap menghormati batas artikel ini.
 
-These are future routes. Do not link them as live until their HTML exists.
+Jika suhu stabil, tidak ada perubahan wadah, dan dokumen produk menyatakan kondisi tersebut masih dalam rentang kerja, catat waktu, suhu, jumlah campuran, serta bentuk wadah lalu lanjutkan hanya sesuai instruksi produk. Jika suhu terus naik, campuran mengeras jauh lebih cepat, atau wadah berubah, hentikan penambahan dan pekerjaan pada batch itu; jangan mencoba menutupinya dengan menambah pelarut atau bahan lain yang tidak ditentukan.
 
-- `EPX-01-03` → `/artikel/cara-kerja-curing-epoxy.html` — Cara Kerja Reaksi Curing Epoxy
-- `EPX-01-04` → `/artikel/pot-life-working-time-recoat-full-cure.html` — Pot Life, Working Time, Recoat, dan Full Cure
-- `EPX-01-06` → `/artikel/epoxy-vs-polyester-polyurethane-acrylic.html` — Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama
-- `EPX-01-07` → `/artikel/sejarah-epoxy-dan-sistem-berlapis.html` — Sejarah Singkat Epoxy dan Mengapa Sistem Modern Berlapis
+Sobat Epoxy.co.id, “memecah batch” bukan resep universal. Keputusan itu bergantung pada formulasi, rasio, volume, wadah, ventilasi, dan instruksi pabrikan. Bila data tersebut tidak tersedia, tandai [NEEDS PRODUCT DATA: TDS/SDS dan batas volume atau suhu belum diverifikasi] lalu minta penilaian penanggung jawab teknis. Artikel ini tidak menggantikan panduan alat pelindung diri, respons darurat, atau prosedur pencampuran.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan yang membuat panas sulit dikendalikan
 
-## Jawaban singkat dan salah paham utama
+Kesalahan paling umum bukan selalu salah hitung, melainkan mengabaikan hubungan antara jumlah, bentuk, dan waktu. Bagian ini membantu Anda memeriksa shortcut yang tampak praktis tetapi dapat menghapus informasi penting.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Membiarkan sisa campuran menumpuk di satu gelas membuat pusat massa menyimpan panas. Mengandalkan bau untuk menentukan aman juga keliru karena tidak semua bahaya tercium ([ringkasan paparan kulit NIOSH](https://www.cdc.gov/niosh/skin-exposure/about/)). Mengukur hanya permukaan membuat bagian dalam yang lebih panas tidak terlihat. Dan memakai angka dari merek lain mengabaikan bahwa resin, pengeras, pengisi, serta persiapan benda uji memang memengaruhi perilaku material.
 
-## Definisi dan batas objek
+Sebelum memulai batch berikutnya, ajukan empat pertanyaan: berapa volume maksimum yang diizinkan dokumen produk, wadah seperti apa yang digunakan, bagaimana suhu akan dipantau tanpa menyentuh campuran, dan siapa yang mengambil keputusan berhenti? Jika satu jawaban tidak ada, jangan menebak. Untuk memahami konteks sistem pelapis setelah masalah panas ditangani, Anda dapat membaca penjelasan tentang [format epoxy–PU coating](/format-epoxy-pu-coating.html) dan [format cat epoxy](/format-cat-epoxy.html) sebagai tujuan internal yang relevan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: panas adalah sinyal untuk memeriksa, bukan untuk ditebak
 
-## Cara kerjanya
+Campuran epoxy bisa panas karena reaksi curing melepaskan panas; jumlah besar dan wadah yang menahan panas dapat membuat kenaikannya semakin cepat. Tanda seperti suhu yang terus naik, pengentalan mendadak, asap, gelembung tidak biasa, atau wadah berubah bentuk harus diperlakukan sebagai sinyal berhenti dan memeriksa dokumen, bukan sebagai ukuran keberhasilan curing.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Epoxy.co.id, simpan catatan volume, bentuk wadah, waktu, dan pengamatan suhu untuk setiap kejadian. Cocokkan dengan TDS/SDS produk dan minta tinjauan teknis bila formulasi atau batas suhu belum jelas. Aturan operasionalnya sederhana: bila mekanisme panas, data produk, atau kondisi wadah tidak dapat Anda jelaskan, tunda keputusan dan jangan mengandalkan sentuhan atau bau.

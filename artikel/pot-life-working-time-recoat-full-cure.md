@@ -2,8 +2,9 @@
 article_id: EPX-01-04
 title: "Pot Life, Working Time, Recoat, dan Full Cure"
 slug: "pot-life-working-time-recoat-full-cure"
-description: "Distinguish time windows and show how product, batch, and conditions change them"
-status: outline
+description: "Panduan membedakan pot life, working time, recoat, dan full cure agar penjadwalan epoxy mengikuti produk, batch, dan kondisi lapangan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-03-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,37 +25,87 @@ sources:
   - "https://stacks.cdc.gov/view/cdc/135632"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Pot Life, Working Time, Recoat, dan Full Cure
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Pot Life, Working Time, Recoat, dan Full Cure”
-- **Reader and situation:** Project planner scheduling work
-- **Reader outcome:** Distinguish time windows and show how product, batch, and conditions change them
-- **Primary intent:** Interpret time terms
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes project downtime planning owned by EPX-15-04 and application sequence owned by EPX-07-01
-- **Final public route:** `/artikel/pot-life-working-time-recoat-full-cure.html`
-- **Appointed CMS date:** `2025-03-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat menyusun jadwal pekerjaan epoxy, Anda mungkin melihat empat istilah waktu di lembar data: pot life, working time, recoat, dan full cure. Sekilas semuanya tampak seperti “waktu tunggu”, sehingga lapisan berikutnya sering dijadwalkan hanya berdasarkan jam sejak pencampuran.
 
-## Opening instructions
+Jawaban singkatnya: keempat istilah itu menunjuk pada kejadian yang berbeda. Pot life membatasi berapa lama campuran di wadah masih layak dipakai, working time membatasi waktu mengolahnya di permukaan, recoat menunjukkan kapan lapisan berikutnya boleh diterapkan, sedangkan full cure berarti pengerasan menyeluruh sesuai syarat produk—bukan sekadar permukaan terasa kering. Nilai yang benar harus diambil dari lembar data produk dan kondisi batch yang sedang dipakai, bukan dari pengalaman pada merek lain.
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pot Life, Working Time, Recoat, dan Full Cure**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Artikel ini membantu planner mencocokkan istilah dengan keputusan jadwal. Pembahasan tidak menggantikan rencana downtime proyek atau urutan aplikasi; fokusnya adalah membaca jendela waktu dan mengenali kapan [NEEDS TECHNICAL REVIEW: TDS/SDS produk, rasio campur, dan kondisi lapangan belum tersedia untuk menetapkan angka].
 
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
+
+## Empat istilah waktu menjawab empat pertanyaan berbeda
+
+Bagian ini memisahkan istilah yang sering ditaruh berdampingan di tabel produk. Dengan memisahkannya, Anda tidak akan memakai satu angka untuk memutuskan semua kegiatan di lapangan.
+
+Pot life adalah lama campuran resin dan bahan pengeras tetap dapat digunakan setelah kedua komponen bertemu di wadah. Reaksi mulai berlangsung di seluruh volume campuran; panas yang terakumulasi dan perubahan viskositas dapat membuat campuran makin sulit diratakan. Jadi, angka pot life bukan janji bahwa lapisan di lantai sudah siap disentuh.
+
+Working time adalah waktu praktis untuk menyebarkan, meratakan, atau mengolah campuran pada bidang kerja sebelum perilakunya berubah terlalu jauh. Lapisan yang masih bisa dituangkan belum tentu masih nyaman dikerjakan dengan alat. Jika planner mengalokasikan waktu hanya dari pot life, tahap penghamparan terakhir bisa berlangsung ketika campuran sudah menarik atau meninggalkan bekas alat.
+
+Recoat window adalah jendela kapan lapisan baru dapat menempel pada lapisan sebelumnya menurut syarat produk. Terlalu dini bisa mengganggu lapisan yang belum cukup stabil; terlalu lambat dapat menuntut persiapan permukaan tambahan. “Boleh dilapis ulang” juga tidak otomatis berarti lantai boleh menerima beban penuh.
+
+Full cure berarti jaringan bahan telah mencapai tingkat pengerasan yang ditentukan sistem dan kondisi pengujian produk. Metode seperti pengujian kalorimetri pemindaian diferensial (differential scanning calorimetry/DSC) dan spektroskopi inframerah transformasi Fourier (Fourier-transform infrared/FTIR) dipakai untuk mempelajari pembentukan ikatan silang; keduanya menunjukkan mengapa kering sentuh tidak boleh disamakan dengan cure penuh ([ISO 14322:2018](https://www.iso.org/standard/74606.html); [ISO 20368:2017](https://www.iso.org/standard/67794.html)). Untuk keputusan proyek, minta kriteria dan kondisi dari dokumen produk yang tepat.
+
+## Mengapa angka berubah setelah resin dan pengeras dicampur
+
+Setelah istilahnya jelas, pertanyaan berikutnya adalah mengapa angka pada dua produk epoxy tidak boleh dipertukarkan. Perbedaan bahan dan cara uji mengubah laju reaksi, sehingga planner perlu membaca angka bersama konteksnya.
+
+Epoxy bukan satu bahan dengan perilaku tunggal. Resin, bahan pengeras, pengubah sifat, pigmen, pengisi, agregat, pelarut atau air, tebal film, substrat, dan cara menyiapkan benda uji dapat mengubah perilaku yang terukur. Ringkasan metode uji resin epoxy dan pengikat cat dari [ISO 18280:2010](https://www.iso.org/standard/52877.html), [ISO 7142:2023](https://www.iso.org/standard/83331.html), dan [ISO 3673-2:2012](https://www.iso.org/standard/59248.html) berguna untuk memahami variasi itu, tetapi tidak menetapkan rasio campur atau waktu siap pakai untuk lantai proyek Anda.
+
+Batch yang lebih besar juga mengubah keadaan panas. Campuran yang sama di wadah tinggi dan sempit menahan panas berbeda dari campuran tipis yang segera dipindahkan ke lantai; akibatnya waktu kerja yang dirasakan bisa memendek. Ini alasan planner perlu mencatat ukuran batch, bentuk wadah, waktu mulai campur, dan kondisi ruang ketika membandingkan kejadian antarhari.
+
+Contohnya, catatan “campur pukul 09.00, recoat pukul 14.00” belum cukup untuk mengulang hasil. Anda masih perlu tahu produk dan versinya, rasio komponen, suhu serta kelembapan yang dinyatakan TDS, ketebalan lapisan, dan apakah permukaan memenuhi syarat. Tanpa itu, angka tersebut hanya catatan satu kejadian, bukan batas universal.
+
+## Faktor lapangan yang paling sering menggeser jendela waktu
+
+Planner biasanya melihat jam, padahal lapisan mengalami lingkungan dan perlakuan yang berubah. Bagian ini membantu Anda menghubungkan perubahan kondisi dengan perubahan keputusan, tanpa mengubahnya menjadi angka tebakan.
+
+Suhu memengaruhi kecepatan reaksi dan kekentalan. Suhu yang lebih rendah dapat memperlambat perkembangan cure, sedangkan kondisi lebih hangat dapat mempercepat reaksi dan memperpendek waktu kerja; pengaruh akhirnya tetap bergantung pada formulasi. Kelembapan dan kondisi permukaan juga dapat memengaruhi hasil, sehingga angka pada TDS harus dibaca bersama rentang kondisi yang dinyatakan produsennya.
+
+Ketebalan dan geometri bukan detail kosmetik. Lapisan lebih tebal atau tumpukan campuran dalam wadah dapat menahan panas lebih banyak, sementara bidang tipis menyebarkan panas lebih cepat. Bila rencana berubah dari batch kecil menjadi batch besar, ulangi penilaian waktu—jangan sekadar mengalikan luas dengan waktu pada contoh lama.
+
+Bahan kimia dan kebersihan kerja memiliki sisi keselamatan yang terpisah dari jadwal. Resin, pengeras, pelarut, pengisi, pigmen, pembersih, dan produk samping reaksi dapat memiliki bahaya berbeda; bau bukan indikator paparan yang andal menurut panduan [CDC/NIOSH tentang epoxy dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/). [Catatan bahaya NIOSH](https://stacks.cdc.gov/view/cdc/135632) juga tidak dapat diubah menjadi resep APD umum. Cocokkan SDS, kompatibilitas sarung tangan, ventilasi, dan penilaian HSE untuk produk serta tugas yang nyata.
+
+## Contoh keputusan planner tanpa menebak angka
+
+Setelah mekanismenya dipahami, planner bisa membuat keputusan yang dapat diaudit meski belum memiliki semua angka. Contoh berikut sengaja bersyarat agar tidak dianggap sebagai jadwal proyek tertentu.
+
+Jika TDS menyebut pot life 30 menit pada kondisi tertentu, catat itu sebagai batas campuran di wadah pada kondisi uji tersebut. Jangan langsung memberi tim 30 menit untuk seluruh penghamparan; cari keterangan working time dan sesuaikan ukuran batch, alat, serta jarak angkut.
+
+Jika recoat window tertulis “setelah lapisan kering dan sebelum batas maksimum”, tulis dua pemeriksaan: bukti waktu minimum tercapai dan bukti permukaan masih memenuhi syarat untuk lapisan berikutnya. Bila batas maksimum terlewati, hentikan asumsi “tinggal lapis” dan minta metode persiapan ulang dari dokumen produk atau penanggung jawab teknis.
+
+Jika permukaan terasa keras pada pagi hari, perlakukan itu sebagai observasi, bukan bukti full cure. Tanyakan kriteria penerimaan yang dimaksud—misalnya kesiapan untuk aktivitas tertentu—dan siapa yang berwenang menyetujuinya. Sederhananya, planner menjadwalkan berdasarkan milestone yang didefinisikan, bukan berdasarkan sentuhan jari.
+
+## Kesalahan jalan pintas dan cara memeriksanya
+
+Jalan pintas yang paling menggoda adalah memakai satu tabel generik: pot life dianggap sama dengan working time, lalu recoat dianggap sama dengan full cure. Cara ini gagal karena setiap istilah memiliki objek, mekanisme, dan risiko keputusan yang berbeda.
+
+Sebelum mengunci jadwal, Kawan Epoxy.co.id dapat meminta lembar pemeriksaan singkat berikut:
+
+- Apakah nama produk, komponen, nomor batch, rasio campur, dan versi TDS/SDS sudah tercatat?
+- Apakah pot life dan working time dijelaskan terpisah, termasuk kondisi pengujiannya?
+- Apakah recoat window menyebut syarat permukaan dan tindakan bila jendela terlewati?
+- Apakah full cure dibedakan dari kering sentuh, boleh diinjak ringan, atau siap menerima paparan kimia?
+- Apakah perubahan suhu, kelembapan, ketebalan, ukuran batch, dan ventilasi dicatat pada log pekerjaan?
+
+Jika salah satu jawaban belum ada, keputusan yang aman adalah menahan kepastian pada bagian itu dan meminta klarifikasi teknis. Jangan mengisi kolom kosong dengan angka dari produk lain.
+
+## Langkah berikutnya untuk mengubah istilah menjadi jadwal yang dapat dipertanggungjawabkan
+
+Kini kembali ke situasi awal: Anda perlu memilih waktu mulai lapisan berikutnya dan waktu pemeriksaan. Mulailah dengan menyalin istilah serta kondisi persis dari TDS produk yang akan dipakai, kemudian cocokkan dengan batch dan catatan lingkungan aktual.
+
+Untuk pertanyaan umum tentang perusahaan dan layanan, Anda dapat mulai dari [halaman utama Epoxy.co.id](/). Namun halaman itu tidak menggantikan TDS, SDS, catatan kondisi, atau persetujuan teknis untuk produk tertentu.
+
+Jadi, pot life menjawab “sampai kapan campuran di wadah masih layak”, working time menjawab “sampai kapan campuran masih bisa diolah”, recoat menjawab “kapan lapisan berikutnya boleh diterapkan”, dan full cure menjawab “kapan pengerasan sistem memenuhi kriteria yang ditetapkan”. Teman Epoxy.co.id, jadikan empat kolom itu terpisah dalam log dan tulis kondisi yang menyertainya.
+
+Aturan operasionalnya sederhana: jangan mengubah milestone satu menjadi milestone lain tanpa bukti produk dan pemeriksaan lapangan. Bila TDS/SDS, kondisi batch, atau kriteria penerimaan belum jelas, tandai kebutuhan [NEEDS TECHNICAL REVIEW: konfirmasi dokumen produk dan persetujuan penanggung jawab teknis sebelum jadwal final]—itulah batas jujur yang mencegah kalender terlihat rapi tetapi tidak dapat dipertanggungjawabkan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -65,126 +116,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact formulation/TDS/SDS and qualified chemistry/HSE review
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-01-02` → `/artikel/glosarium-epoxy-indonesia.html` — Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar
-- `EPX-01-03` → `/artikel/cara-kerja-curing-epoxy.html` — Cara Kerja Reaksi Curing Epoxy
-- `EPX-01-05` → `/artikel/exotherm-campuran-epoxy.html` — Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm
-- `EPX-01-06` → `/artikel/epoxy-vs-polyester-polyurethane-acrylic.html` — Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pot Life, Working Time, Recoat, dan Full Cure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

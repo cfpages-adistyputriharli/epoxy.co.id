@@ -2,8 +2,9 @@
 article_id: EPX-01-06
 title: "Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama"
 slug: "epoxy-vs-polyester-polyurethane-acrylic"
-description: "Compare cure, flexibility, UV, use, and evidence needed without declaring a universal winner"
-status: outline
+description: "Membandingkan curing, kelenturan, UV, penggunaan, dan bukti yang perlu dicek tanpa menganggap ada satu bahan terbaik untuk semua proyek"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-03-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,40 +22,9 @@ sources:
   - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”
-- **Reader and situation:** Buyer comparing loosely used product names
-- **Reader outcome:** Compare cure, flexibility, UV, use, and evidence needed without declaring a universal winner
-- **Primary intent:** Distinguish resin families
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes flooring-system choice owned by EPX-06-02 and individual epoxy formulations owned by EPX-02-01
-- **Final public route:** `/artikel/epoxy-vs-polyester-polyurethane-acrylic.html`
-- **Appointed CMS date:** `2025-03-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,131 +35,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+# Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Halo, Kawan Epoxy.co.id! Saat membeli bahan pelapis, Anda mungkin mendengar penjual menyebut epoxy, polyester, polyurethane, atau acrylic seolah-olah semuanya hanya variasi nama untuk benda yang sama. Padahal, nama keluarga resin memberi petunjuk awal tentang cara bahan mengeras, seberapa lentur lapisannya, dan bagaimana ia menghadapi cahaya matahari—bukan jaminan hasil akhir.
 
-### KR-03
+Jawaban praktisnya: tidak ada satu bahan yang otomatis paling unggul. Pilihan harus dicocokkan dengan beban, paparan ultraviolet (UV), gerakan permukaan, waktu pengerjaan, dan bukti dari produk tertentu. Dua produk dengan nama resin sama bisa berperilaku berbeda karena resin, bahan pengeras, pengubah, pigmen, pengisi, pelarut, ketebalan, dan kondisi curing-nya tidak sama. ISO menjelaskan bahwa komposisi serta persiapan benda uji memengaruhi hasil pengujian resin dan bahan pengikat ([ISO 18280](https://www.iso.org/standard/52877.html); [ISO 7142](https://www.iso.org/standard/83331.html)).
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Jadi, sebelum menyetujui “yang paling kuat”, minta lembar data teknis (TDS) dan lembar data keselamatan (SDS) produk yang benar-benar akan dipakai. Artikel ini membantu Anda membandingkan arah perilaku empat keluarga resin, bukan menggantikan pemilihan sistem lantai atau persetujuan formulasi individual.
 
-### KR-15
+## Apa yang sebenarnya dibandingkan?
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Bagian ini penting karena istilah dagang sering mencampur bahan dasar dengan sistem lengkap. Epoxy biasanya mengeras melalui reaksi resin dan bahan pengeras; polyester memakai resin tak jenuh dengan pemicu; polyurethane terbentuk dari reaksi komponen yang menghasilkan ikatan urethane; sedangkan acrylic merujuk pada keluarga polimer berbasis akrilat yang dapat hadir dalam formula dan cara curing berbeda. Penjelasan ini adalah peta konsep, bukan resep pencampuran.
 
-## Evidence gates
+Yang dibandingkan di sini adalah kecenderungan curing, kelenturan, perubahan akibat UV, dan konteks penggunaan. Yang tidak dibahas adalah memilih sistem lantai tertentu atau menetapkan formulasi epoxy individual. Jika penawaran hanya menulis “resin premium” tanpa identitas produk, data uji, dan kondisi pemakaian, tandai sebagai `[NEEDS FORMULATION/TDS/SDS: identitas dan bukti produk belum tersedia]`.
 
-- **TOPIC-GATE:** Exact formulation/TDS/SDS and qualified chemistry/HSE review
+## Cara curing mengubah waktu dan hasil
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pembeli sering menganggap permukaan yang sudah tidak lengket berarti siap dipakai. Curing adalah proses reaksi yang membentuk jaringan polimer; permukaan bisa terasa kering sementara bagian dalam masih berkembang. ISO menyediakan metode kalorimetri pemindaian diferensial (DSC) dan spektroskopi inframerah transformasi Fourier (FTIR) untuk mempelajari perkembangan ikatan silang, tetapi abstraknya tidak memberi waktu siap-pakai untuk produk Anda ([ISO 14322](https://www.iso.org/standard/74606.html); [ISO 20368](https://www.iso.org/standard/67794.html)).
 
-## Internal-link plan
+Karena itu, bedakan masa pakai campuran (*pot life*), waktu kerja, waktu bebas sentuh, jendela pelapisan ulang, boleh diinjak ringan, curing penuh, dan siap menerima bahan kimia. Masing-masing dipengaruhi suhu, kelembapan, tebal film, ventilasi, dan substrat. Contohnya, lapisan yang tampak kering pagi hari belum otomatis boleh menerima roda berat atau cairan pembersih; keputusan harus mengikuti data produk dan pemeriksaan kondisi lapangan.
 
-### Existing local routes
+## Kelenturan, kekakuan, dan gerakan permukaan
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kelenturan bukan lawan langsung dari kekuatan. Lapisan yang lebih kaku bisa membantu menahan goresan pada kondisi tertentu, tetapi gerakan atau getaran substrat dapat menuntut kemampuan mengikuti deformasi. Modifikasi formula, pengisi, ketebalan, dan ikatan ke permukaan ikut menentukan hasil, sehingga label “polyurethane pasti lentur” atau “epoxy pasti retak” terlalu menyederhanakan.
 
-### Planned sibling articles
+Kawan Epoxy.co.id, ubah pertanyaan dari “mana paling kuat?” menjadi “gerakan apa yang harus diikuti, dan bukti uji apa yang mengukurnya?”. Minta metode uji, benda uji, dan kondisi pengujian; hasil pada film tipis di laboratorium tidak otomatis mewakili lapisan tebal di lantai.
 
-These are future routes. Do not link them as live until their HTML exists.
+## UV dan penggunaan: lihat paparan, bukan nama saja
 
-- `EPX-01-04` → `/artikel/pot-life-working-time-recoat-full-cure.html` — Pot Life, Working Time, Recoat, dan Full Cure
-- `EPX-01-05` → `/artikel/exotherm-campuran-epoxy.html` — Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm
-- `EPX-01-07` → `/artikel/sejarah-epoxy-dan-sistem-berlapis.html` — Sejarah Singkat Epoxy dan Mengapa Sistem Modern Berlapis
-- `EPX-01-08` → `/artikel/kelebihan-dan-keterbatasan-epoxy.html` — Kelebihan dan Keterbatasan Epoxy Tanpa Klaim Berlebihan
+Paparan ultraviolet dapat mengubah warna atau kilap dan bisa mempercepat penuaan pada sebagian formula. Acrylic atau polyurethane tertentu mungkin dipilih ketika tampilan luar dan paparan matahari menjadi pertimbangan, sedangkan epoxy sering dinilai dari adhesi dan ketahanan kimia dalam kondisi yang sesuai. Namun, pernyataan tersebut hanya kecenderungan; pigmen, penstabil, lapisan pelindung, dan lingkungan nyata tetap menentukan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk area luar, tanyakan data perubahan warna dan batas paparan yang memang diuji. Untuk area dalam dengan tumpahan kimia, tanyakan daftar bahan kimia, suhu, durasi kontak, dan prosedur pembersihan. Jangan menyimpulkan “tahan UV” atau “tahan kimia” dari nama keluarga resin saja.
 
-## Jawaban singkat dan salah paham utama
+## Contoh keputusan saat membandingkan penawaran
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda membandingkan dua penawaran untuk ruang yang mendapat matahari sore dan sesekali terkena cairan pembersih. Penawaran A hanya menyebut “epoxy high performance”; penawaran B menyebut keluarga resin, ketebalan, jendela pelapisan, data UV, dan cara verifikasi curing. Penawaran B belum tentu lebih baik, tetapi lebih dapat diperiksa karena klaimnya memiliki kondisi dan bukti.
 
-## Definisi dan batas objek
+Gunakan tabel pertanyaan sederhana: apa substratnya, apakah bergerak, kapan area harus digunakan, paparan UV dan kimianya apa, lalu data mana yang menjawab tiap pertanyaan. Bila jawaban berhenti pada brosur umum, tahan keputusan dan minta tinjauan teknis. Anda juga dapat membaca [format cat epoxy](/format-cat-epoxy.html) untuk memahami informasi produk yang perlu dicatat, lalu membandingkannya dengan [format epoxy-PU coating](/format-epoxy-pu-coating.html) bila penawaran menggabungkan lebih dari satu lapisan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum yang membuat perbandingan menyesatkan
 
-## Cara kerjanya
+Kesalahan pertama adalah menyamakan harga per kilogram dengan kinerja. Kepadatan, kandungan padatan, konsumsi, dan ketebalan membuat angka itu tidak sebanding. Periksa biaya dan cakupan pada satuan sistem yang sama, bukan hanya nama resin.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah memakai tes sentuh atau bau sebagai bukti keamanan dan curing. CDC/NIOSH mengingatkan bahwa resin, bahan pengeras, pelarut, pengisi, pembersih, dan produk reaksi dapat memiliki bahaya berbeda; bau bukan indikator paparan yang andal ([panduan resin](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html); [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Ikuti lembar data keselamatan produk dan kendali paparan yang ditinjau petugas berwenang, tanpa menganggap panduan AS sebagai hukum Indonesia.
 
-## Faktor yang mengubah hasil
+Kesalahan ketiga adalah mengutip angka uji tanpa menanyakan benda uji dan kondisi. ISO 3673-2 membahas spesimen epoxy berikatan silang, tetapi itu tidak menetapkan persyaratan lantai terpasang ([ISO 3673-2](https://www.iso.org/standard/59248.html)). Minta metode dan konteksnya; jika tidak tersedia, tulis `[NEEDS TEST CONTEXT: metode, benda uji, dan kondisi layanan belum dikonfirmasi]`.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: pilih berdasarkan bukti yang cocok dengan paparan
 
-## Contoh keputusan praktis
+Sobat Epoxy.co.id, epoxy, polyester, polyurethane, dan acrylic bukan bahan yang sama, tetapi juga tidak bisa diperingkat dengan satu pemenang universal. Perbedaan curing, kelenturan, dan respons UV baru bermakna setelah dikaitkan dengan substrat, penggunaan, lingkungan, serta data produk yang spesifik.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum membeli, minta TDS dan SDS versi produk yang akan dikirim, cocokkan klaim dengan kondisi proyek, dan mintakan tinjauan kimia atau HSE yang kompeten bila paparan dan konsekuensinya tinggi. Aturan operasionalnya sederhana: jangan memilih dari nama resin; pilih hanya setelah mekanisme, batas penggunaan, dan bukti uji dapat diperiksa.
