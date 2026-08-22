@@ -2,8 +2,9 @@
 article_id: EPX-01-01
 title: "Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing"
 slug: "apa-itu-epoxy-resin-hardener-curing"
-description: "Explain components, cure, thermoset behavior, and common uses in one sourced primer"
-status: outline
+description: "Panduan dasar untuk memahami resin, hardener, proses curing, dan batas penggunaan epoxy sebelum memilih atau mengaplikasikannya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-03-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,40 +22,18 @@ sources:
   - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing
 
-## Assignment lock
+Halo, Sobat Epoxy.co.id! Saat mendengar “epoxy”, Anda mungkin membayangkan cairan yang dicampur lalu menjadi lapisan keras. Kebingungan muncul ketika label menyebut resin, hardener, curing, atau “sudah kering”, padahal istilah itu menunjuk komponen dan tahap berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”
-- **Reader and situation:** Beginner encountering epoxy terminology
-- **Reader outcome:** Explain components, cure, thermoset behavior, and common uses in one sourced primer
-- **Primary intent:** Understand epoxy basics
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes formulation comparison owned by EPX-02-01 and buying owned by `/cat-epoxy`
-- **Final public route:** `/artikel/apa-itu-epoxy-resin-hardener-curing.html`
-- **Appointed CMS date:** `2025-03-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: epoxy adalah sistem berbasis resin yang bereaksi dengan hardener (bahan pengeras) sehingga membentuk jaringan polimer permanen. Resin saja belum menjadi sistem siap pakai; hasil akhirnya bergantung pada pasangan bahan, kondisi, substrat, dan waktu reaksi. Artikel ini membantu Anda memahami komponen, proses curing, sifat termoset, dan pertanyaan pemeriksaan sebelum melangkah. Perbandingan formulasi serta pembelian bukan bahasan di sini.
 
-## Opening instructions
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
+Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,129 +44,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Resin, hardener, dan hasil akhirnya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Bagian ini meluruskan apa yang sebenarnya Anda lihat ketika kemasan menyebut epoxy, supaya istilah tidak langsung dianggap sebagai jaminan hasil.
 
-### KR-02
+### Resin bukan epoxy yang sudah jadi
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Resin adalah bagian bahan yang menyediakan gugus kimia untuk bereaksi. Hardener adalah pasangan reaktif yang memicu pengikatan antarrantai. Setelah keduanya bertemu, campuran berubah menjadi jaringan yang lebih permanen. Jadi, satu kaleng bertuliskan “epoxy” belum cukup untuk mengetahui perilakunya tanpa melihat pasangan dan petunjuk produk.
 
-### KR-03
+Standar pengujian epoxy membedakan resin, bahan pengeras, pengubah, pigmen, pengisi, agregat, pelarut atau air, substrat, serta cara menyiapkan benda uji. Perbedaan itu dapat mengubah hasil terukur, sehingga satu contoh tidak boleh dianggap mewakili semua epoxy ([ISO 18280:2010](https://www.iso.org/standard/52877.html), [ISO 7142:2023](https://www.iso.org/standard/83331.html), dan [ISO 3673-2:2012](https://www.iso.org/standard/59248.html)).
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Contohnya, dua produk sama-sama bertuliskan epoxy tetapi memiliki hardener dan pengisi berbeda. Anda tidak dapat menentukan waktu siap pakai atau kecocokan permukaan hanya dari kata epoxy. Periksa lembar data teknis dan lembar data keselamatan produk yang benar-benar digunakan.
 
-### KR-15
+### Curing berarti reaksi membentuk jaringan
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Curing (pematangan) bukan sekadar air menguap. Bagian reaktif saling mengikat hingga terbentuk jaringan polimer, sehingga permukaan bisa terasa tidak lengket sementara bagian dalam masih bereaksi. Metode DSC dan FTIR menilai perubahan pengikatan silang pada spesimen; keduanya mengingatkan bahwa “terasa kering” bukan bukti universal seluruh sistem sudah matang ([ISO 14322:2018](https://www.iso.org/standard/74606.html) dan [ISO 20368:2017](https://www.iso.org/standard/67794.html)).
 
-## Evidence gates
+Lihat curing sebagai rangkaian tonggak: masa pakai campuran, waktu kerja, bebas lengket, boleh diinjak ringan, matang penuh, lalu siap menerima layanan kimia. Nama dan batas tiap tonggak ditentukan produk serta kondisi aktualnya. Jika area hendak dibuka untuk lalu lintas, cocokkan keputusan dengan data produk, bukan sentuhan atau bau.
 
-- **TOPIC-GATE:** Exact formulation/TDS/SDS and qualified chemistry/HSE review
+## Mengapa epoxy disebut termoset?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Istilah ini menjelaskan mengapa hasil curing tidak diperlakukan seperti plastik yang dapat dilelehkan dan dibentuk ulang berkali-kali.
 
-## Internal-link plan
+### Jaringan yang sudah mengikat tidak kembali ke cairan awal
 
-### Existing local routes
+Pada bahan termoset, reaksi membangun jaringan silang. Setelah jaringan terbentuk, pemanasan tidak sekadar melelehkan ulang bahan menjadi resin dan hardener terpisah; panas berlebih dapat merusak jaringan. Perbaikan biasanya dilakukan dengan menilai lapisan, menyiapkan permukaan, lalu memilih sistem perbaikan yang sesuai.
 
-- `/berita/apa-itu-epoxy` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-jasa-floor-hardener.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/floor-hardener-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/floor-hardener-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kawan Epoxy.co.id, anggap termoset sebagai pengingat batas, bukan klaim bahwa semua lapisan tahan pada kondisi apa pun. Jenis resin, pengisi, ketebalan, substrat, dan lingkungan memengaruhi perilaku yang diukur. Untuk keputusan terkait beban atau paparan tertentu, minta data produk dan peninjauan teknis.
 
-### Planned sibling articles
+## Faktor yang membuat hasil curing berbeda
 
-These are future routes. Do not link them as live until their HTML exists.
+Bagian ini membantu Anda memahami mengapa kalender atau sentuhan saja sering menyesatkan ketika menilai kesiapan lapisan.
 
-- `EPX-01-02` → `/artikel/glosarium-epoxy-indonesia.html` — Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar
-- `EPX-01-03` → `/artikel/cara-kerja-curing-epoxy.html` — Cara Kerja Reaksi Curing Epoxy
+### Bahan dan substrat
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Komponen berbeda memberi reaksi dan sifat berbeda. Substrat—permukaan tempat sistem ditempelkan—juga memengaruhi ikatan serta perpindahan panas atau kelembapan. Permukaan yang belum dipastikan kondisinya tidak setara dengan benda uji laboratorium. Catat jenis permukaan, kebersihan, dan dokumen produk sebelum menyimpulkan.
 
-## Jawaban singkat dan salah paham utama
+### Suhu, kelembapan, dan ketebalan
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi lingkungan dapat mengubah laju reaksi dan jendela antar-lapis. Lapisan tebal juga dapat memiliki dinamika berbeda dari film tipis. Waktu kerja atau lapis berikutnya harus mengikuti petunjuk produk yang dipakai, bukan angka dari merek lain. Bila data proyek tidak tersedia, tandai [NEEDS PROJECT EVIDENCE: verifikasi TDS, SDS, dan tinjauan teknis diperlukan sebelum menetapkan waktu layanan].
 
-## Definisi dan batas objek
+### Paparan bahan saat pekerjaan
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Resin, hardener, pelarut, pengisi, pigmen, pembersih, dan produk samping reaksi dapat memiliki bahaya berbeda. CDC/NIOSH menyatakan bau bukan indikator paparan yang andal dan kecocokan sarung tangan maupun ventilasi bergantung pada produk serta tugasnya ([panduan epoxy dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [gambaran paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Bacalah SDS yang tepat dan minta penilaian HSE setempat; jangan menerjemahkan panduan Amerika Serikat menjadi kewajiban hukum Indonesia.
 
-## Cara kerjanya
+## Contoh keputusan praktis sebelum menyebut “sudah curing”
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Skenario ini menunjukkan cara memakai konsep tanpa mengarang angka atau pengalaman proyek.
 
-## Faktor yang mengubah hasil
+Misalnya, sebuah area terasa tidak lengket pada permukaan. Pertanyaan pertama bukan “berapa jam sudah lewat?”, melainkan “tonggak apa yang dinyatakan TDS produk ini pada kondisi yang tercatat?”. Cocokkan jenis resin-hardener, suhu dan kelembapan saat aplikasi, ketebalan, serta status substrat dengan dokumen tersebut.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika kebutuhan hanya inspeksi visual, hasil bebas lengket mungkin cukup untuk tahap itu. Jika area akan menerima lalu lintas, beban, atau bahan kimia, keputusan harus menunggu tonggak layanan yang dinyatakan produk dan, bila data tidak lengkap, [NEEDS PROJECT EVIDENCE: persetujuan teknis atas kesiapan penggunaan]. Jangan menjadikan satu uji sentuh sebagai pengganti verifikasi.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk konteks sistem lantai yang berbeda, Anda dapat membaca penjelasan [apa itu epoxy secara umum](/berita/apa-itu-epoxy). Tautan itu membantu konteks, bukan pengganti TDS atau persetujuan proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling sering adalah menganggap dua komponen boleh ditakar dengan perkiraan, atau menganggap permukaan tanpa bau berarti aman. Perkiraan dapat mengubah keseimbangan reaksi, sedangkan bau bukan alat ukur paparan. Periksa identitas produk, rasio dan kondisi pada dokumen resminya, lalu pastikan pengendalian paparan ditinjau pihak kompeten.
 
-## Objection or shortcut to address
+Kesalahan lain adalah memindahkan angka “kering dalam sekian jam” dari produk lain. Waktu pot life, bebas lengket, lapis ulang, dan matang penuh bukan sinonim. Jika dokumen tidak menyatakan kondisi yang Anda hadapi, tahan keputusan dan minta klarifikasi pemasok atau tenaga teknis.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Teman Epoxy.co.id, bila proyek memerlukan fungsi lantai berbeda, jangan memaksa label epoxy menjadi jawaban. Informasi tentang [floor hardener di Yogyakarta](/floor-hardener-yogyakarta.html) dapat membantu membedakan topik sistem lantai, tetapi kecocokan tetap perlu ditentukan dari kebutuhan dan bukti proyek.
 
-## Required conclusion
+## Kesimpulan: aturan kerja yang aman
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Epoxy adalah sistem resin dan hardener yang membentuk jaringan termoset melalui curing; hasilnya bukan ditentukan nama epoxy saja. Komponen, substrat, kondisi, ketebalan, dan tonggak layanan harus dibaca bersama dokumen produk. Sebelum menyebut lapisan siap dipakai, cocokkan TDS dan SDS produk aktual dengan kondisi tercatat, lalu minta peninjauan teknis bila ada data hilang. Bila bukti belum ada, tahan klaim dan tandai kebutuhan verifikasi—jangan menebak.

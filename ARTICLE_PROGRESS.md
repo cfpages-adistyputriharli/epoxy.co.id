@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
+Last updated: **2026-08-23 02:02:37 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -17,8 +17,8 @@ Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 | Prepared articles | 128 |
 | Accepted and pushed | 0 |
 | Remaining | 128 |
-| Repository status | 📝 Prepared outline; drafting not started |
-| Open correction/re-review flags | 0 |
+| Repository status | ⚠️ One patient-reader calibration draft retained with an exact correction note; no article is accepted or pushed |
+| Open correction/re-review flags | 1 |
 
 ## Legend
 
@@ -46,7 +46,7 @@ Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 
 | No. | ID | Topic | Working title | Article file | Status | Review/correction note | Last review |
 |---:|---|---|---|---|---|---|---|
-| 1 | `EPX-01-01` | `EPX-01` | Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing | `artikel/apa-itu-epoxy-resin-hardener-curing.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 1 | `EPX-01-01` | `EPX-01` | Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing | `artikel/apa-itu-epoxy-resin-hardener-curing.md` | ⚠️ Needs correction | Luna patient-reader calibration passed the native receipt and validator (`errors=0`, one expected `[NEEDS ...]` warning). Primary sample found beginner-facing compression: expand `DSC`, `FTIR`, `TDS`, and `SDS` at first use, and add a concrete example/check in the substrate explanation. Per Syamsul's calibration instruction, retain this draft unchanged; the reusable writer contract was hardened for later leaves. | 2026-08-23 |
 | 2 | `EPX-01-02` | `EPX-01` | Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar | `artikel/glosarium-epoxy-indonesia.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 3 | `EPX-01-03` | `EPX-01` | Cara Kerja Reaksi Curing Epoxy | `artikel/cara-kerja-curing-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 4 | `EPX-01-04` | `EPX-01` | Pot Life, Working Time, Recoat, dan Full Cure | `artikel/pot-life-working-time-recoat-full-cure.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
