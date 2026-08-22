@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 02:02:37 (Asia/Jakarta)**
+Last updated: **2026-08-23 05:07:18 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 02:02:37 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 0 |
-| Remaining | 128 |
-| Repository status | ⚠️ One patient-reader calibration draft retained with an exact correction note; no article is accepted or pushed |
+| Accepted and pushed | 6 |
+| Remaining | 122 |
+| Repository status | ✍️ Batch 01 accepted and pushed at `5ee38d98`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -47,12 +47,12 @@ Last updated: **2026-08-23 02:02:37 (Asia/Jakarta)**
 | No. | ID | Topic | Working title | Article file | Status | Review/correction note | Last review |
 |---:|---|---|---|---|---|---|---|
 | 1 | `EPX-01-01` | `EPX-01` | Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing | `artikel/apa-itu-epoxy-resin-hardener-curing.md` | ⚠️ Needs correction | Luna patient-reader calibration passed the native receipt and validator (`errors=0`, one expected `[NEEDS ...]` warning). Primary sample found beginner-facing compression: expand `DSC`, `FTIR`, `TDS`, and `SDS` at first use, and add a concrete example/check in the substrate explanation. Per Syamsul's calibration instruction, retain this draft unchanged; the reusable writer contract was hardened for later leaves. | 2026-08-23 |
-| 2 | `EPX-01-02` | `EPX-01` | Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar | `artikel/glosarium-epoxy-indonesia.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 3 | `EPX-01-03` | `EPX-01` | Cara Kerja Reaksi Curing Epoxy | `artikel/cara-kerja-curing-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 4 | `EPX-01-04` | `EPX-01` | Pot Life, Working Time, Recoat, dan Full Cure | `artikel/pot-life-working-time-recoat-full-cure.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 5 | `EPX-01-05` | `EPX-01` | Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm | `artikel/exotherm-campuran-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 6 | `EPX-01-06` | `EPX-01` | Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama | `artikel/epoxy-vs-polyester-polyurethane-acrylic.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 7 | `EPX-01-07` | `EPX-01` | Sejarah Singkat Epoxy dan Mengapa Sistem Modern Berlapis | `artikel/sejarah-epoxy-dan-sistem-berlapis.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 2 | `EPX-01-02` | `EPX-01` | Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar | `artikel/glosarium-epoxy-indonesia.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed fresh Luna writer/repair/re-review receipts and leased-checkout validation, including explicit local-image disclosure; remote parity `5ee38d98`. | 2026-08-23 |
+| 3 | `EPX-01-03` | `EPX-01` | Cara Kerja Reaksi Curing Epoxy | `artikel/cara-kerja-curing-epoxy.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
+| 4 | `EPX-01-04` | `EPX-01` | Pot Life, Working Time, Recoat, dan Full Cure | `artikel/pot-life-working-time-recoat-full-cure.md` | ✅ Accepted and pushed | Batch 01 bounded repair passed a fresh independent re-review and remote parity `5ee38d98`. | 2026-08-23 |
+| 5 | `EPX-01-05` | `EPX-01` | Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm | `artikel/exotherm-campuran-epoxy.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
+| 6 | `EPX-01-06` | `EPX-01` | Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama | `artikel/epoxy-vs-polyester-polyurethane-acrylic.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
+| 7 | `EPX-01-07` | `EPX-01` | Sejarah Singkat Epoxy dan Mengapa Sistem Modern Berlapis | `artikel/sejarah-epoxy-dan-sistem-berlapis.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
 | 8 | `EPX-01-08` | `EPX-01` | Kelebihan dan Keterbatasan Epoxy Tanpa Klaim Berlebihan | `artikel/kelebihan-dan-keterbatasan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 9 | `EPX-02-01` | `EPX-02` | Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi | `artikel/jenis-epoxy-berdasarkan-formulasi.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 10 | `EPX-02-02` | `EPX-02` | Epoxy Coating Tipis vs High-Build vs Self-Leveling | `artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
