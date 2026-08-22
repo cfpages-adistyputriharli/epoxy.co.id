@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 05:07:18 (Asia/Jakarta)**
+Last updated: **2026-08-23 06:34:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 05:07:18 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 6 |
-| Remaining | 122 |
-| Repository status | ✍️ Batch 01 accepted and pushed at `5ee38d98`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 12 |
+| Remaining | 116 |
+| Repository status | ✍️ Batches 01–02 accepted and pushed; Batch 02 article parity is `d5df8a40`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -53,12 +53,12 @@ Last updated: **2026-08-23 05:07:18 (Asia/Jakarta)**
 | 5 | `EPX-01-05` | `EPX-01` | Mengapa Campuran Epoxy Bisa Panas? Memahami Exotherm | `artikel/exotherm-campuran-epoxy.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
 | 6 | `EPX-01-06` | `EPX-01` | Epoxy, Polyester, Polyurethane, dan Acrylic: Bukan Bahan yang Sama | `artikel/epoxy-vs-polyester-polyurethane-acrylic.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
 | 7 | `EPX-01-07` | `EPX-01` | Sejarah Singkat Epoxy dan Mengapa Sistem Modern Berlapis | `artikel/sejarah-epoxy-dan-sistem-berlapis.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
-| 8 | `EPX-01-08` | `EPX-01` | Kelebihan dan Keterbatasan Epoxy Tanpa Klaim Berlebihan | `artikel/kelebihan-dan-keterbatasan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 9 | `EPX-02-01` | `EPX-02` | Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi | `artikel/jenis-epoxy-berdasarkan-formulasi.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 10 | `EPX-02-02` | `EPX-02` | Epoxy Coating Tipis vs High-Build vs Self-Leveling | `artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 11 | `EPX-02-03` | `EPX-02` | Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan | `artikel/epoxy-mortar-sistem-agregat.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 12 | `EPX-02-04` | `EPX-02` | Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif | `artikel/epoxy-flake-metallic-dan-3d.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 13 | `EPX-02-05` | `EPX-02` | Epoxy Transparan dan Berpigmen: Perbedaan Fungsi | `artikel/epoxy-transparan-vs-berpigmen.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 8 | `EPX-01-08` | `EPX-01` | Kelebihan dan Keterbatasan Epoxy Tanpa Klaim Berlebihan | `artikel/kelebihan-dan-keterbatasan-epoxy.md` | ✅ Accepted and pushed | Batch 02 patient-reader draft passed bounded repair, fresh independent re-review, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
+| 9 | `EPX-02-01` | `EPX-02` | Jenis Epoxy Berdasarkan Formulasi dan Cara Aplikasi | `artikel/jenis-epoxy-berdasarkan-formulasi.md` | ✅ Accepted and pushed | Batch 02 patient-reader draft passed independent current-SHA semantic acceptance, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
+| 10 | `EPX-02-02` | `EPX-02` | Epoxy Coating Tipis vs High-Build vs Self-Leveling | `artikel/epoxy-coating-tipis-vs-high-build-vs-self-leveling.md` | ✅ Accepted and pushed | Batch 02 bounded repair passed fresh independent re-review, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
+| 11 | `EPX-02-03` | `EPX-02` | Epoxy Mortar: Kapan Sistem Agregat Tebal Dibutuhkan | `artikel/epoxy-mortar-sistem-agregat.md` | ✅ Accepted and pushed | Batch 02 bounded repair passed fresh independent re-review, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
+| 12 | `EPX-02-04` | `EPX-02` | Epoxy Flake, Metallic, dan 3D untuk Finishing Dekoratif | `artikel/epoxy-flake-metallic-dan-3d.md` | ✅ Accepted and pushed | Batch 02 bounded repair passed fresh independent re-review, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
+| 13 | `EPX-02-05` | `EPX-02` | Epoxy Transparan dan Berpigmen: Perbedaan Fungsi | `artikel/epoxy-transparan-vs-berpigmen.md` | ✅ Accepted and pushed | Batch 02 patient-reader draft passed independent current-SHA semantic acceptance, leased-checkout validation, and remote parity `d5df8a40`. | 2026-08-23 |
 | 14 | `EPX-02-06` | `EPX-02` | Epoxy Anti-Static, Conductive, dan ESD | `artikel/epoxy-antistatic-conductive-esd.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 15 | `EPX-02-07` | `EPX-02` | Water-Based vs Solvent-Based vs 100% Solids Epoxy | `artikel/water-based-vs-solvent-based-vs-100-solids-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 16 | `EPX-02-08` | `EPX-02` | Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis | `artikel/fungsi-lapisan-sistem-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
