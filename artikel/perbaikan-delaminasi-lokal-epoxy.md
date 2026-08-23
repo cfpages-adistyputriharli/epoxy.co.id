@@ -2,8 +2,9 @@
 article_id: EPX-11-06
 title: "Memperbaiki Delaminasi Lokal pada Lantai Epoxy"
 slug: "perbaikan-delaminasi-lokal-epoxy"
-description: "Explain mapping, cut boundaries, root-cause checks, substrate prep, rebuild, and color tolerance"
-status: outline
+description: "Panduan memetakan area kopong, memeriksa penyebab, menyiapkan dasar, membangun ulang tambalan, dan menilai toleransi warna pada perbaikan delaminasi lokal."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,24 @@ final_route: "/artikel/perbaikan-delaminasi-lokal-epoxy.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memperbaiki Delaminasi Lokal pada Lantai Epoxy
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat satu petak lantai epoxy terdengar kopong atau terasa terangkat, menambalnya langsung sering tampak sebagai jalan tercepat. Jawaban singkatnya: delaminasi lokal bisa diperbaiki setempat hanya setelah batas area dan penyebabnya dipetakan; jika lapisan di sekelilingnya ikut lepas, lembap dari bawah terus masuk, atau ada gerakan struktural, tambalan kosmetik justru menunda masalah.
 
-- **Writer task:** Expand this file into one complete article answering: “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”
-- **Reader and situation:** Maintenance team with isolated hollow or loose area
-- **Reader outcome:** Explain mapping, cut boundaries, root-cause checks, substrate prep, rebuild, and color tolerance
-- **Primary intent:** Plan local repair
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes widespread replace/recoat decision owned by EPX-12-08
-- **Final public route:** `/artikel/perbaikan-delaminasi-lokal-epoxy.html`
-- **Appointed CMS date:** `2026-02-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan menandai seluruh area yang suaranya berbeda, membuka tepi sampai bahan yang benar-benar melekat, lalu memeriksa beton, kelembapan, kontaminasi, dan riwayat beban. Bentuk tambalan, bahan pengisi, waktu pengerasan, dan toleransi warna baru bisa diputuskan setelah data itu ada. [NEEDS TOPIC-GATE: diagnosis, klasifikasi produk, desain perbaikan, dan pemeriksaan akhir harus disahkan penanggung jawab yang kompeten.]
 
-## Opening instructions
+![Ilustrasi epoxy lantai 3d](/wp-content/uploads/2021/02/epoxy-lantai-3d.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memperbaiki Delaminasi Lokal pada Lantai Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-015`
@@ -68,145 +44,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy lantai 3d` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud delaminasi lokal dan kapan perbaikan setempat masuk akal
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Istilah delaminasi berarti lapisan epoxy kehilangan ikatan pada antarmuka tertentu sehingga sebagian permukaan tidak lagi bekerja sebagai satu sistem dengan dasar beton atau lapisan di bawahnya. Di lapangan, gejalanya dapat berupa bunyi kopong saat diketuk ringan, tepi yang terangkat, retak mengelilingi satu petak, atau serpihan yang mudah dicungkil. Satu gejala belum memberi tahu bidang lepas yang sebenarnya, jadi jangan menganggap ukuran noda sama dengan ukuran kerusakan.
 
-### KR-04
+Perbaikan setempat masuk akal bila pemetaan menunjukkan area terisolasi, batasnya dapat dipotong rapi, dan lapisan di luar batas tetap melekat serta tidak memiliki sumber masalah yang sama. Sebaliknya, pola lepas yang menyebar, kelembapan yang berulang, retak bergerak, atau beton yang rapuh mengubah keputusan menjadi penanganan yang lebih luas. Artikel ini tidak membahas keputusan mengganti atau melapisi ulang seluruh lantai; keputusan itu berada di luar batas perbaikan lokal.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+Pemilihan sistem perbaikan tidak boleh hanya berdasarkan kata “epoxy”. Data seperti penyebab retak atau lepas, peran struktur, kelembapan, suhu, beban, kondisi dasar, geometri, kecocokan bahan, cara pemasangan, dan pemeriksaan memengaruhi pilihan perbaikan, sebagaimana ruang lingkup umum desain dan pelaksanaan perbaikan pada [ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3](https://www.iso.org/standard/79787.html), dan [ISO 16311-4](https://www.iso.org/standard/79788.html). Halaman standar itu bukan pengganti dokumen lengkap, data proyek, atau persetujuan ahli.
 
-### KR-14
+## Memetakan batas sebelum memotong lantai
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Anggap bunyi kopong sebagai petunjuk untuk diperiksa, bukan garis potong. Bersihkan permukaan, tandai titik-titik yang berbeda dengan pola yang konsisten, dan gambar peta sederhana yang memuat tanggal, lokasi, ukuran, serta foto pembanding. Ketika beberapa titik berdekatan membentuk satu zona, sambungkan hasil pemetaan itu sebelum menentukan bentuk bukaan.
 
-### KR-16
+Setelah peta terbaca, buat batas potong yang mudah dikontrol, biasanya mengikuti garis yang jelas dan tidak meninggalkan ujung lapisan menggantung. Bukaan yang terlalu kecil meninggalkan bagian lepas di bawah tepi; bukaan yang terlalu besar mengubah pekerjaan lokal menjadi pembongkaran yang tidak perlu. Ukuran akhir harus mengikuti area yang benar-benar terbuka setelah lapisan rapuh dilepas, bukan ukuran perkiraan awal.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Kawan Epoxy.co.id, simpan peta sebelum dan sesudah pembukaan. Catatan itu menjawab pertanyaan sederhana tetapi penting: apakah area kopong berhenti di batas yang dipilih, atau justru berlanjut ke bawah lapisan yang terlihat baik? Jika jawabannya belum jelas, tahan pekerjaan dan minta pemeriksaan lanjutan.
 
-### KR-17
+## Urutan pemeriksaan penyebab dan persiapan dasar
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Sesudah lapisan terkelupas, periksa dasar yang terbuka secara visual dan dengan cara yang disetujui penanggung jawab. Cari kelembapan, debu yang terperangkap, minyak atau bahan lain, rongga, beton rapuh, retak, serta tanda bahwa lapisan lama tidak pernah mendapatkan persiapan yang memadai. Jangan menutup temuan itu hanya karena permukaan tampak kering selama beberapa jam; sumber air dan sejarah pemakaian dapat bekerja lebih lama.
 
-### KR-21
+Penyebab menentukan tindakan. Kontaminasi memerlukan pembersihan dan verifikasi yang sesuai, beton rapuh memerlukan penanganan dasar yang berbeda, sedangkan retak bergerak atau sambungan yang memang harus bergerak tidak boleh dikunci dengan tambalan kaku tanpa desain. Untuk perbaikan yang menyentuh fungsi struktur, penjangkaran, injeksi, atau pemindahan beban, tinggalkan [NEEDS TOPIC-GATE: diagnosis dan desain profesional belum tersedia] dan jangan mengubah artikel ini menjadi instruksi DIY.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Persiapan dasar berarti menghilangkan bahan lepas, membentuk tepi yang kokoh, mengendalikan debu, dan mencapai kondisi permukaan yang cocok dengan bahan perbaikan. Metode, tingkat kekasaran, batas kelembapan, dan waktu menunggu harus mengikuti petunjuk produk yang benar-benar dipilih. Foto setelah persiapan saja tidak membuktikan dasar sudah diterima; catat pemeriksaan, kondisi lingkungan, dan siapa yang memberi persetujuan.
 
-## Evidence gates
+Pekerjaan di area aktif juga membawa debu, kebisingan, bahan kimia, panas, dan risiko ergonomi. Pengendalian harus berasal dari penilaian tugas dan kondisi tempat kerja, bukan dari klaim umum pada label. [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018) menjadi salah satu rujukan kerangka lingkungan kerja; gunakan dokumen lengkap dan penilaian aktual untuk menentukan pengendalian, bukan menebak batas paparan dari halaman metadata.
 
-- **TOPIC-GATE:** Qualified structural/repair design, exact product classification, and inspection
+## Membangun ulang tambalan dan menghubungkannya dengan lapisan lama
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Tambalan yang baik menyatukan tiga hal: dasar yang stabil, bahan yang kompatibel, dan sambungan tepi yang dapat diperiksa. Ikuti urutan pencampuran, rasio, waktu pakai, ketebalan, dan pengerasan dari petunjuk produk yang disetujui. Jangan mencampur sisa bahan lama dengan produk baru hanya karena warnanya tampak serupa; identitas, batch, dan kecocokan sistem harus bisa ditelusuri.
 
-## Internal-link plan
+Isi bukaan tanpa menjebak udara dan bentuk permukaannya agar tidak membuat genangan atau tonjolan. Setelah bahan mencapai kondisi yang dipersyaratkan, sambungan dengan lapisan lama perlu diperiksa dari kelekatan, tepi, dan perubahan tekstur. Catat waktu aplikasi dan perlindungan dari lalu lintas. Foto akhir dan kuitansi bahan tidak membuktikan bahwa dasar disetujui, campuran benar, lapisan cukup, atau cacat sudah tertutup; rangkaian catatan pekerjaan dan pemeriksaanlah yang menjawab itu, sejalan dengan prinsip pengawasan pelaksanaan pada [ISO 16311-4](https://www.iso.org/standard/79788.html).
 
-### Existing local routes
+Warna tambalan boleh memiliki toleransi yang terlihat. Perbedaan kilap, usia lapisan lama, paparan cahaya, dan variasi batch membuat pencocokan sempurna tidak selalu realistis. Sepakati sejak awal apakah targetnya fungsi dan keselamatan operasi, atau juga keseragaman visual; jangan menjanjikan “tidak terlihat” tanpa sampel dan persetujuan. Untuk konteks bangunan, lapisan lantai tetap bagian dari sistem bangunan yang lebih besar—bukan pengganti persyaratan substrat, aksesibilitas, kebakaran, kebersihan, operasi, atau persetujuan lokal sebagaimana diingatkan kerangka [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021).
 
-- `/epoxy-lantai-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan saat area rusak sudah terbuka
 
-### Planned sibling articles
+Bayangkan tim pemeliharaan menemukan satu zona kecil di dekat jalur troli. Pemetaan memperlihatkan bunyi berbeda berhenti pada batas tertentu, beton di bawahnya padat, dan tidak ada tanda lembap atau retak bergerak. Dalam kondisi seperti ini, tim dapat mengusulkan perbaikan lokal: dokumentasikan peta, potong sampai tepi melekat, bersihkan dan verifikasi dasar, lalu bangun ulang dengan sistem yang disetujui.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sekarang bayangkan setelah dibuka ternyata lapisan terlepas lebih jauh, dasar basah, dan retak memanjang melewati zona awal. Keputusan berubah: hentikan tambalan, perluas pemeriksaan, dan minta diagnosis penyebab serta rencana perbaikan. Jangan memakai contoh pertama sebagai pembenaran untuk kondisi kedua.
 
-- `EPX-11-04` → `/artikel/chemical-anchor-epoxy.html` — Chemical Anchor Epoxy: Data yang Wajib Dicek
-- `EPX-11-05` → `/artikel/epoxy-grout-untuk-baseplate.html` — Epoxy Grout untuk Baseplate dan Mesin
-- `EPX-11-07` → `/artikel/memilih-produk-repair-epoxy.html` — Memilih Epoxy Putty, Paste, Mortar, atau Injection Resin
-- `EPX-11-08` → `/artikel/checklist-qc-perbaikan-beton-epoxy.html` — Checklist QC Perbaikan Beton dengan Epoxy
+Teman Epoxy.co.id, gunakan pertanyaan keputusan berikut saat rapat singkat: “Apa bukti area ini benar-benar terisolasi? Apa sumber lembap atau gerak sudah diperiksa? Siapa yang menyetujui bahan dan batas penerimaan?” Jika satu jawaban belum ada, statusnya bukan siap ditutup, melainkan menunggu bukti.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum yang membuat delaminasi cepat kembali
 
-## Jawaban singkat dan salah paham utama
+Kesalahan pertama adalah mengecat di atas permukaan yang hanya tampak bersih. Debu halus, minyak, atau lapisan rapuh dapat memutus ikatan baru; periksa dasar setelah persiapan, bukan hanya sebelum pekerjaan. Kesalahan kedua adalah membuat potongan mengikuti bentuk noda tanpa memeriksa area kopong di sekelilingnya; peta bunyi dan hasil pembukaan harus menjadi dasar batas.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah memakai sisa produk yang tidak jelas identitasnya. Catat nama sistem, komponen, batch, dan petunjuk yang berlaku. Kesalahan keempat adalah membuka area lalu membiarkannya menerima lalu lintas sebelum pengerasan yang disyaratkan; lindungi area dan catat kapan pembatas dilepas.
 
-## Definisi dan batas objek
+Kesalahan kelima adalah membuang semua sisa sebagai sampah biasa. Komponen yang belum terpakai, bahan campur yang mengeras, kain penyerap terkontaminasi, debu atau lumpur gerinda, lapisan lama, cairan pencuci, kemasan, dan puing dapat memerlukan rute berbeda. [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html) memberi kerangka umum pengelolaan lingkungan; klasifikasi dan rute lokal harus ditentukan dari karakterisasi serta penilaian yang berlaku, bukan dari dugaan kimia resin.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jika ada dorongan untuk “tambal cepat”
 
-## Cara kerjanya
+Tambal cepat menggoda karena area kecil tampak tidak sebanding dengan pemeriksaan. Masalahnya, tambalan menutup bukti penyebab dan memindahkan kegagalan ke bawah lapisan baru. Alternatif yang lebih aman adalah menetapkan titik tahan: pekerjaan berhenti setelah pemetaan, setelah dasar dibuka, dan sebelum bahan ditutup sampai temuan serta persetujuan tercatat.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk memeriksa mutu tanpa menebak, minta metode kerja yang disetujui, catatan kondisi lingkungan, identitas bahan, urutan persiapan, foto sebelum dan sesudah, hasil pemeriksaan tepi, serta kriteria kapan area boleh kembali dipakai. Rute tentang layanan lantai seperti [epoxy lantai Tegal](/epoxy-lantai-tegal) dapat membantu Anda membandingkan kebutuhan komunikasi pekerjaan, tetapi tidak menggantikan diagnosis area Anda. Bila lokasi Anda berada di Tebing Tinggi, halaman [epoxy lantai Tebing Tinggi](/epoxy-lantai-tebingtinggi) juga hanya menjadi rujukan layanan; keputusan teknis tetap memerlukan data proyek.
 
-## Faktor yang mengubah hasil
+## Kesimpulan: perbaikan lokal dimulai dari bukti, bukan dari bahan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Delaminasi lokal pada lantai epoxy dapat ditangani setempat bila pemetaan membuktikan kerusakan benar-benar terisolasi, tepi dipotong sampai lapisan yang melekat, penyebab dasar diperiksa, dan sistem pengganti dipilih serta dipasang dengan catatan yang dapat diaudit. Jika area melebar, lembap, bergerak, atau menyentuh fungsi struktur, tahan tambalan dan naikkan ke diagnosis serta desain yang kompeten.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memperbaiki Delaminasi Lokal pada Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah menyusun peta cacat bertanggal, meminta rencana persiapan dan bahan yang identitasnya jelas, lalu menyepakati kriteria pemeriksaan sebelum area ditutup. Jangan menyimpulkan lantai sudah aman atau siap beroperasi hanya dari warna yang rata dan foto akhir; Kawan Epoxy.co.id, aturan kerjanya sederhana: tidak ada bukti batas dan penyebab, tidak ada keputusan perbaikan lokal.

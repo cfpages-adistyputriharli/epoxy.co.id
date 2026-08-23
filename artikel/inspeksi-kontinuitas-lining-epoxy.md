@@ -2,8 +2,9 @@
 article_id: EPX-10-07
 title: "Inspeksi Holiday, Pinhole, dan Kontinuitas Lining"
 slug: "inspeksi-kontinuitas-lining-epoxy"
-description: "Explain defect types, method selection, substrate/film constraints, records, and repair loop"
-status: outline
+description: "Panduan memeriksa cacat dan kesinambungan lining epoxy pada tangki atau area penahanan, memilih metode uji, mencatat bukti, dan menutup perbaikan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,7 +18,6 @@ sources:
   - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
   - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/64837.html"
@@ -32,37 +32,15 @@ sources:
   - "https://www.iso.org/standard/79788.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Inspeksi Holiday, Pinhole, dan Kontinuitas Lining
 
-## Assignment lock
+Bagian ini membantu Anda membaca hasil inspeksi pada tangki atau area penahanan sebelum memutuskan apakah lining boleh dipakai, perlu diperbaiki, atau harus ditahan.
 
-- **Writer task:** Expand this file into one complete article answering: “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”
-- **Reader and situation:** QA inspector on tank or containment work
-- **Reader outcome:** Explain defect types, method selection, substrate/film constraints, records, and repair loop
-- **Primary intent:** Plan lining inspection
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes floor pinhole diagnosis owned by EPX-12-03
-- **Final public route:** `/artikel/inspeksi-kontinuitas-lining-epoxy.html`
-- **Appointed CMS date:** `2026-01-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Sobat Epoxy.co.id! Pada tangki atau area penahanan, permukaan yang tampak mulus belum otomatis kedap. Satu lubang kecil, retak rambut, atau bagian film yang tidak menyambung dapat memberi jalan bagi cairan ke substrat. Karena itu, inspeksi holiday (titik tembus pada lapisan), pinhole (lubang sangat kecil), dan kesinambungan lining harus menjawab tiga hal: cacatnya apa, metode pemeriksaannya cocok atau tidak, dan apa yang terjadi setelah temuan dicatat.
 
-## Opening instructions
+Jawaban singkatnya: pisahkan pemeriksaan visual, pengukuran ketebalan, dan uji kontinuitas sesuai kondisi substrat, ketebalan film, serta jenis layanan. Jangan menyatakan lining lulus hanya karena hasil satu alat negatif. Hasil uji harus terikat pada spesifikasi proyek, metode produsen, kondisi permukaan, dan catatan perbaikan. Untuk inspeksi tangki atau containment, artikel ini membantu Anda memilih bukti dan menutup lingkaran temuan; diagnosis pinhole pada lantai berada di luar bahasan ini.
 
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Holiday, Pinhole, dan Kontinuitas Lining**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -73,158 +51,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-09
+## Tentukan objek, kondisi, dan tahap pemeriksaan
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+Sebelum membawa alat, pastikan apa yang sedang diperiksa: lining di baja, beton, sambungan, sudut, penetrasi, atau area yang akan terendam. Setiap objek memiliki jalur kegagalan berbeda. Catat fungsi containment, cairan yang mungkin kontak, kondisi basah atau kering, akses, dan apakah lining masih baru, sedang diperbaiki, atau sudah dipakai.
 
-### KR-11
+Istilah holiday berarti bagian lapisan yang tidak menutup substrat secara utuh. Pinhole adalah bentuknya yang sangat kecil; mata mungkin tidak melihatnya, tetapi alat atau cairan uji dapat menemukannya. Kontinuitas berarti film menyambung tanpa jalur terbuka pada area yang disyaratkan. Ketiganya bukan label mutu yang berdiri sendiri: arti temuan bergantung pada sistem lapisan, ketebalan, dan konsekuensi kebocoran.
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Sederhananya, buat peta objek sebelum membuat keputusan. Tandai pelat, las, sudut dalam, baut, drain, dan penetrasi. Lining yang terlihat sama rata di bidang luas bisa memiliki risiko lebih tinggi di tepi atau celah. Kerangka ISO 12944 menjelaskan bahwa lingkungan, geometri, persiapan, sistem lapisan, ketebalan, akses, dan perbaikan perlu dipertimbangkan bersama; halaman standarnya bukan bukti bahwa kategori tersebut otomatis menjadi persyaratan lantai atau tangki Anda ([ISO 12944-1](https://www.iso.org/standard/64833.html), [ISO 12944-3](https://www.iso.org/standard/64835.html), [ISO 12944-4](https://www.iso.org/standard/64836.html)).
 
-### KR-12
+## Mengapa cacat kecil dapat mengubah keputusan
 
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
+Holiday atau pinhole bukan sekadar noda. Jika substrat di bawahnya terpapar cairan, air, atau uap, jalur itu dapat menjadi awal korosi, kehilangan adhesi, atau kontaminasi yang sulit dibersihkan. Namun, tidak setiap sinyal alat berarti mekanisme yang sama. Permukaan lembap, kotoran, bentuk tepi, atau ketebalan film dapat mengubah respons alat.
 
-### KR-13
+Karena itu, jangan mengubah istilah “tahan abrasi” atau “tahan kimia” menjadi jaminan umur layanan. Metode abrasi ASTM D4060 memiliki variabel seperti bahan penggosok, beban, jumlah putaran, benda uji, ketebalan, dan kondisi curing. ASTM D1308 juga membedakan bahan kimia, konsentrasi, waktu, suhu, pembersihan, dan kriteria penilaian. Katalog metode ASTM membantu mengenali ruang lingkup uji, bukan membuktikan lining Anda aman untuk semua cairan ([ASTM D4060](https://store.astm.org/d4060-19.html), [ASTM D1308](https://store.astm.org/standards/d1308), [ASTM D01](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf)).
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Contohnya, sinyal berulang di sekitar las mungkin menuntun Anda memeriksa geometri dan persiapan, bukan langsung menambal titik itu. Bila sinyal muncul di seluruh area, pertanyaan berubah: apakah alat sesuai, film cukup kering, atau sistem lapisannya memang belum memenuhi syarat? Tahan keputusan lulus sampai penyebab yang masuk akal dan batas metode tercatat.
 
-### KR-16
+## Pilih metode uji sesuai substrat dan film
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Mulailah dengan inspeksi visual memakai pencahayaan yang memadai. Cari lubang, gelembung, retak, kerutan, perubahan warna, tepi terangkat, dan bagian yang tertutup debu. Visual memberi peta awal, tetapi tidak dapat membuktikan lubang mikroskopis atau ketebalan.
 
-### KR-17
+Ukur ketebalan film kering bila spesifikasi memintanya, dan cocokkan alat dengan substrat. Ketebalan yang terlalu tipis dapat membuat perlindungan tidak cukup; terlalu tebal dapat menyembunyikan masalah curing atau tegangan. Nilai angka hanya berarti jika alat terkalibrasi, titik ukur ditentukan, dan batas penerimaan berasal dari spesifikasi sistem yang berlaku.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Uji kontinuitas listrik atau metode deteksi holiday dipilih setelah mengetahui apakah substrat konduktif, film cukup kering, dan rentang ketebalan sesuai alat. Tegangan yang keliru dapat memberi sinyal palsu atau merusak film. Maka catat tipe alat, pengaturan, kondisi permukaan, pola lintasan, dan cara mengonfirmasi sinyal. Jangan menyalin angka dari proyek lain; [NEEDS SPESIFIKASI: tetapkan metode, pengaturan alat, dan kriteria penerimaan dari spesifikasi lining serta instruksi produsen yang berlaku].
 
-### KR-21
-
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Substrate/exposure-specific full coating specification and competent inspection
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-10-05` → `/artikel/epoxy-lingkungan-pantai-dan-korosif.html` — Epoxy Coating untuk Lingkungan Pantai dan Korosif
-- `EPX-10-06` → `/artikel/topcoat-uv-untuk-epoxy.html` — Mengatasi Keterbatasan UV Epoxy dengan Topcoat
-- `EPX-10-08` → `/artikel/kapan-epoxy-bukan-pilihan-coating.html` — Kapan Epoxy Bukan Pilihan untuk Coating atau Lining
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Tentukan objek, kondisi, dan tahap siklus hidup
-
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk area yang akan bersentuhan dengan bahan kimia, paparan, suhu, waktu kontak, dan cara pembersihan harus dicocokkan dengan dokumen sistem. ISO 12944-5 dan ISO 12944-6 dapat membantu memahami hubungan lingkungan dan pengujian laboratorium, tetapi halaman ringkasnya bukan pengganti spesifikasi proyek atau adopsi Indonesia ([ISO 12944-5](https://www.iso.org/standard/77795.html), [ISO 12944-6](https://www.iso.org/standard/51378.html)). Jika Anda perlu menyusun pilihan sistem sebelum inspeksi, lihat [format sistem epoxy dan PU](/format-epoxy-pu-coating.html) lalu cocokkan dengan dokumen proyek, bukan menjadikannya pengganti spesifikasi.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catatan yang baik membuat temuan dapat ditemukan kembali. Buat nomor area, tanggal, kondisi cuaca atau ventilasi yang relevan, status curing, alat dan identitas kalibrasinya, titik ukur, foto dengan penanda lokasi, serta hasil sebelum dan sesudah perbaikan. Untuk tangki, simpan peta yang membedakan bidang, las, sudut, penetrasi, dan sambungan.
 
-## Pilihan perawatan atau intervensi
+Tambahkan riwayat material dan pekerjaan: nomor batch, urutan lapisan, waktu pencampuran, kondisi substrat, dan siapa yang memeriksa. Persetujuan material saja tidak membuktikan substrat siap, proporsi benar, pencampuran, kondisi aplikasi, perlindungan curing, atau pemeriksaan akhir. Prinsip pelaksanaan dan pengawasan pada ISO 12944-7 serta penyusunan spesifikasi pada ISO 12944-8 menekankan perlunya metode yang disetujui dan rekaman pemeriksaan; abstraknya tetap bukan pengganti instruksi produk dan spesifikasi proyek ([ISO 12944-7](https://www.iso.org/standard/64837.html), [ISO 12944-8](https://www.iso.org/standard/64838.html)).
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Epoxy.co.id, pisahkan fakta dari tafsiran. “Sinyal terdengar pada koordinat B-14” adalah fakta. “Penyebabnya porositas beton” adalah dugaan yang baru boleh dipakai setelah bukti pendukung tersedia. Tulis juga area yang tidak dapat diperiksa karena akses atau keselamatan; ketiadaan data bukan bukti tidak adanya cacat.
 
-## Cara menentukan prioritas
+## Tutup temuan dengan perbaikan yang dapat diuji ulang
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setiap temuan perlu jalur: tandai, tahan area bila perlu, cari sebab yang dapat dibuktikan, pilih bahan dan cara perbaikan yang kompatibel, lalu uji ulang setelah kondisi pengeringan dan curing memenuhi syarat. Jangan menutup pinhole dengan sapuan tipis tanpa memeriksa apakah tepi cacat bersih dan lapisan baru menyatu.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Untuk cacat berulang, perbaikan lokal mungkin tidak cukup. Pertimbangkan pengupasan dan pelapisan ulang hanya setelah penyebab, batas area, metode persiapan, dan urutan lapisan disetujui. Pada cacat yang menyentuh sambungan, retak, atau pergerakan, minta diagnosis dan rancangan pihak berwenang; inspeksi lining tidak menggantikan keputusan struktur.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Holiday, Pinhole, dan Kontinuitas Lining”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika pekerjaan menghasilkan debu, sisa komponen, cairan pembersih, kemasan tercemar, atau lapisan lama yang dilepas, pisahkan dan identifikasi alirannya. Peraturan Indonesia tentang lingkungan hidup dan pengelolaan limbah tidak dapat disimpulkan hanya dari nama resin. Rute penanganan perlu merujuk pada karakterisasi, SDS, aturan yang berlaku, dan penilaian lingkungan yang kompeten ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf)).
 
-## Objection or shortcut to address
+## Cara menentukan prioritas temuan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Prioritaskan temuan berdasarkan konsekuensi cairan yang ditahan, kemungkinan paparan, lokasi cacat, luas dan pengulangan sinyal, akses perbaikan, serta otoritas yang harus menyetujui keputusan. Sebuah titik di dekat penetrasi kritis dapat lebih mendesak daripada banyak titik kosmetik di area kering, tetapi urutannya tetap harus mengikuti spesifikasi dan penilaian proyek.
 
-## Required conclusion
+Buat tiga keputusan terpisah: bolehkah area tetap terlindungi sementara, apakah perbaikan wajib sebelum dipakai, dan bukti apa yang diperlukan untuk menyatakan selesai. Jika salah satu jawabannya belum jelas, tahan status selesai dan minta peninjauan teknis. [NEEDS GATE: kriteria penerimaan akhir harus berasal dari spesifikasi coating atau lining untuk substrat dan paparan proyek ini, bukan dari angka umum]. Untuk membandingkan format cat yang mungkin dipakai, [format cat epoxy](/format-cat-epoxy.html) dapat menjadi pintu baca awal; keputusan akhir tetap memerlukan sistem dan persetujuan proyek.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Rekaman, serah terima, dan pemeriksaan ulang
 
-## Draft completion checklist
+Berkas akhir sebaiknya berisi peta inspeksi, metode dan pengaturan alat, bukti kalibrasi, foto, daftar temuan, keputusan perbaikan, catatan material, hasil uji ulang, serta batas penggunaan dan perawatan. Foto penyelesaian atau faktur material saja tidak membuktikan substrat disetujui, ketebalan tercapai, hasil uji sah, atau cacat sudah tertutup. Kerangka ISO 16311-4 menempatkan pelaksanaan perbaikan dan pengendalian mutu dalam proses yang perlu bukti proyek; gunakan standar lengkap dan persetujuan yang berlaku, bukan abstraknya saja ([ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pemeriksaan ulang dipicu oleh perubahan cairan, suhu, pola penggunaan, kebocoran, perbaikan, atau temuan baru. Untuk pekerjaan di tempat kerja aktif, penilaian bahaya kimia, debu, bising, panas, ventilasi, ergonomi, dan housekeeping perlu dilakukan sesuai kondisi nyata. Permenaker No. 5 Tahun 2018 dapat menjadi rujukan status peraturan, tetapi metadata tidak menetapkan batas paparan, strategi sampling, atau kesimpulan kepatuhan untuk proyek tertentu ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [peraturan.go.id](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018)).
+
+## Jangan menganggap satu lintasan alat sudah cukup
+
+Jalan pintas yang sering dipilih adalah menjalankan detektor sekali, tidak menemukan bunyi, lalu langsung membuka tangki untuk operasi. Cara itu bisa gagal bila jalur lintasan melewati film yang belum sesuai, permukaan basah, sudut terlewat, atau pengaturan alat tidak cocok. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan area dan pola lintasan, mendokumentasikan kondisi uji, mengonfirmasi sinyal, memperbaiki, lalu menguji ulang dengan kriteria yang sama atau lebih tepat.
+
+Teman Epoxy.co.id, bertanya “alat sudah lewat semua?” belum sama dengan “bukti kontinuitas sudah lengkap”. Tanyakan juga apakah substrat, ketebalan, curing, akses, dan spesifikasi penerimaan telah cocok. Jika belum, nyatakan batas inspeksi secara terbuka dan jangan mengubah kekosongan data menjadi klaim lulus.
+
+## Kesimpulan: inspeksi adalah rangkaian bukti, bukan satu angka
+
+Inspeksi holiday, pinhole, dan kontinuitas lining yang dapat dipercaya dimulai dari peta objek dan paparan, memilih metode sesuai substrat serta film, mencatat kondisi dan alat, lalu menutup setiap temuan melalui perbaikan yang dapat diuji ulang. Hasil laboratorium atau satu sinyal alat hanya menjawab ruang lingkupnya; hasil itu tidak otomatis menjamin umur layanan, kebersihan, ketahanan benturan, atau seluruh tangki.
+
+Sebelum area dinyatakan siap, minta spesifikasi sistem yang disetujui, catatan inspeksi lengkap, bukti curing dan kalibrasi, keputusan atas setiap cacat, serta hasil pemeriksaan ulang. Jika kriteria, penyebab, atau kewenangan perbaikannya belum jelas, pertahankan status terbuka dan minta peninjauan kompeten. Aturan operasinya sederhana: tidak ada status selesai tanpa lokasi, metode, bukti, dan keputusan yang bisa ditelusuri.

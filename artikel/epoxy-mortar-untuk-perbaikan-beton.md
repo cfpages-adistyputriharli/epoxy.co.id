@@ -2,8 +2,9 @@
 article_id: EPX-11-01
 title: "Epoxy Mortar untuk Patch dan Perbaikan Beton"
 slug: "epoxy-mortar-untuk-perbaikan-beton"
-description: "Explain defect removal, geometry, substrate, mortar choice, placement, cure, and limits"
-status: outline
+description: "Panduan memilih epoxy mortar untuk perbaikan lokal beton, mulai dari membuang bagian rusak sampai memeriksa dasar, pemasangan, dan batas penggunaannya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,19 @@ reader_address: "Teman Epoxy.co.id"
 final_route: "/artikel/epoxy-mortar-untuk-perbaikan-beton.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy Mortar untuk Patch dan Perbaikan Beton
 
-## Assignment lock
+Halo, Teman Epoxy.co.id! Tim pemeliharaan biasanya menemukan lubang kecil, sudut beton yang rompal, atau permukaan yang mengelupas lalu bertanya, “Apakah cukup ditutup epoxy mortar?” Jawaban singkatnya: bisa untuk kerusakan lokal yang sudah dipastikan penyebabnya, bagian rapuhnya dibuang, dan dasar betonnya siap menerima bahan. Epoxy mortar bukan obat untuk semua retak dan bukan pengganti keputusan struktur.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Mortar untuk Patch dan Perbaikan Beton”
-- **Reader and situation:** Maintenance team with local concrete damage
-- **Reader outcome:** Explain defect removal, geometry, substrate, mortar choice, placement, cure, and limits
-- **Primary intent:** Choose patch repair
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes structural capacity assessment and floor coating taxonomy EPX-02-03
-- **Final public route:** `/artikel/epoxy-mortar-untuk-perbaikan-beton.html`
-- **Appointed CMS date:** `2026-01-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Yang perlu dipilih bukan merek yang terlihat paling kuat, melainkan urutan keputusan: seberapa jauh beton rusak, bagaimana bentuk rongganya, apakah ada air atau pergerakan, lalu apakah mortar yang ditawarkan memang cocok dengan dasar dan cara pakainya. Artikel ini membantu Anda memeriksa urutan itu sebelum meminta metode dan persetujuan proyek.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Mortar untuk Patch dan Perbaikan Beton**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,143 +38,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-04
+## Perbaikan lokal seperti apa yang cocok
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+Bagian ini penting karena kata “perbaikan beton” sering dipakai untuk masalah yang berbeda. Epoxy mortar adalah campuran resin dan agregat yang setelah tercampur ditempatkan untuk mengisi dan membentuk kembali bagian beton yang hilang. Ia masuk akal ketika kerusakan benar-benar setempat dan batasnya dapat dipetakan.
 
-### KR-14
+Retak yang terus bergerak, sambungan, kebocoran aktif, beton yang kehilangan peran menahan beban, atau kerusakan yang meluas memerlukan diagnosis lain. Standar desain dan pelaksanaan perbaikan menekankan bahwa penyebab retak atau gerak, kondisi dasar, geometri, kecocokan bahan, dan pemeriksaan pelaksanaan memengaruhi pilihan perbaikan ([ISO 16311-3:2024](https://www.iso.org/standard/79787.html); [ISO 16311-4:2024](https://www.iso.org/standard/79788.html)). Jadi, jangan menyamakan menambal sudut dengan injeksi retak atau pengangkuran.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Batas artikel ini jelas: penilaian kapasitas struktur tidak dibahas. Klasifikasi sistem pelapis lantai juga bukan tujuan halaman ini. Jika kerusakan menyentuh tulangan, berubah cepat, atau menimbulkan konsekuensi struktur, beri tanda **[NEEDS TECHNICAL REVIEW: kapasitas dan penyebab kerusakan belum ditetapkan]** dan minta pemeriksaan pihak yang berwenang.
 
-### KR-16
+## Dari beton rusak menjadi dasar yang siap
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Sebelum memilih mortar, ketuk dan amati area di sekitar cacat. Beton yang terdengar kopong, mudah rontok, atau masih tertutup minyak dan debu bukan dasar yang siap, meskipun lubangnya sudah tampak bersih. Buang bagian lemah sampai batas material yang benar-benar kokoh; bentuk tepi dan kedalaman rongga harus dicatat agar jumlah dan metode tidak sekadar perkiraan.
 
-### KR-17
+Permukaan kemudian dibersihkan dari debu, lumpur, minyak, dan sisa lapisan yang menghalangi ikatan. Air yang datang dari bawah, rembesan, atau kondensasi perlu dicari sumbernya karena mortar yang bagus tetap dapat gagal bila antarmukanya tidak sesuai. Catat kondisi ini sebagai temuan, bukan sebagai asumsi bahwa produk tertentu selalu tahan lembap.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Mintalah data teknis yang menyebutkan jenis dasar, batas kelembapan, ketebalan penempatan, waktu kerja, dan cara persiapannya. Rujukan ASTM C881/C881M membahas sistem epoksi untuk merekatkan beton; halaman standarnya membantu memastikan identitas dan lingkup metode, tetapi tidak otomatis membuktikan bahwa suatu produk atau tambalan di proyek Anda lulus ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)). Bukti tetap harus datang dari data produk dan kondisi proyek yang tepat.
 
-### KR-21
+## Memilih mortar tanpa tertipu nama bahan
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Mortar perbaikan bukan hanya “epoxy yang dicampur pasir”. Ukuran dan kebersihan agregat, perbandingan komponen, cara pencampuran, dan ketebalan tiap penempatan mengubah perilaku bahan. Bandingkan lembar data teknis dan lembar data keselamatan yang masih berlaku: identitas produk, komponen, batas suhu, waktu pakai, waktu pengerasan, dan kompatibilitas harus jelas.
 
-## Evidence gates
+Sobat Epoxy.co.id, bila pemasok hanya memberi foto kemasan dan janji “lebih kuat”, tahan dulu keputusan. Tanyakan apakah sistem itu memang ditujukan untuk patch beton, apakah perlu lapisan pengikat, bagaimana tepi rongga dibentuk, dan apa kriteria penerimaannya. Jangan mengubah mortar patch menjadi bahan pengisi sambungan bergerak hanya karena warnanya sama.
 
-- **TOPIC-GATE:** Qualified structural/repair design, exact product classification, and inspection
+## Urutan penempatan dan pemeriksaan awal
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Setelah dasar disetujui, siapkan alat, komponen, dan area kerja agar pencampuran tidak berhenti di tengah. Ikuti takaran dan urutan yang tertulis pada metode produk; jangan menambah pelarut atau agregat untuk mengejar waktu kerja. Campuran yang mulai mengental bukan berarti boleh diencerkan kembali.
 
-## Internal-link plan
+Tempatkan mortar dengan tekanan yang cukup untuk mengisi sudut dan mengurangi rongga, lalu bentuk permukaan sesuai geometri beton di sekitarnya. Sambungan antara tambalan dan beton lama harus diperiksa dari tepi yang terangkat, lubang, atau bagian yang tertinggal. Catat nomor batch, waktu pencampuran, suhu dan kelembapan yang diizinkan, serta siapa yang menyetujui tiap tahap.
 
-### Existing local routes
+Pengerasan tidak sama dengan siap dipakai. Lindungi tambalan dari air, debu, getaran, dan lalu lintas sampai waktu dan kondisi yang ditentukan tercapai. Jika metode, data lingkungan, atau kriteria pelepasan belum tersedia, sisakan **[NEEDS METHOD: batas cure dan izin kembali dipakai belum dibuktikan oleh data produk/proyek]**.
 
-- `/berita/proses-pengecatan-epoxy-pada-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kondisi yang dapat mengubah keputusan
 
-### Planned sibling articles
+Bentuk cacat adalah petunjuk pertama. Lubang dangkal dengan tepi stabil berbeda dari rongga dalam yang memperlihatkan tulangan. Retak yang memanjang dari tambalan, pergerakan harian, atau air yang terus masuk menunjukkan bahwa pengisian permukaan saja mungkin tidak menyelesaikan penyebab.
 
-These are future routes. Do not link them as live until their HTML exists.
+Lingkungan kerja juga mengubah cara pelaksanaan. Debu penggerindaan, kebisingan, panas, bahan kimia, ventilasi buruk, dan pekerjaan di ruang yang tetap dihuni perlu dinilai dalam rencana keselamatan kerja. Permenaker No. 5 Tahun 2018 dapat menjadi rujukan kerangka lingkungan kerja, tetapi halaman metadata peraturan tidak memberi batas paparan atau daftar alat pelindung untuk tugas spesifik ([Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)). Susun pengendalian berdasarkan penilaian risiko aktual, lembar data keselamatan, dan aturan setempat.
 
-- `EPX-11-02` → `/artikel/injeksi-retak-epoxy.html` — Injeksi Retak Epoxy: Retak Mana yang Cocok?
-- `EPX-11-03` → `/artikel/epoxy-bonding-agent-beton.html` — Epoxy Bonding Agent untuk Beton Lama dan Baru
+Sisa resin, kain penyerap, debu atau lumpur, kemasan, dan material lama juga jangan dicampur begitu saja. Identifikasi setiap aliran dan tentukan rute penanganannya berdasarkan aturan lingkungan yang berlaku serta penilaian pihak yang kompeten. Artikel ini tidak menetapkan klasifikasi limbah atau cara pembuangan tertentu.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh keputusan di area pemeliharaan
 
-## Jawaban singkat dan salah paham utama
+Bayangkan tim menemukan sudut balok lantai terkelupas di area servis. Mereka memetakan panjang dan kedalaman kerusakan, mengetuk area sekitar, memastikan tidak ada retak aktif atau tulangan yang terlibat, lalu menghentikan sumber air. Setelah bagian rapuh dibuang dan dasar dinyatakan siap, mereka membandingkan data mortar patch yang mencantumkan persiapan, ketebalan, waktu kerja, dan cure.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika pemeriksaan justru menemukan beton kopong meluas atau retak mengikuti garis beban, keputusan berubah: hentikan penambalan kosmetik dan minta diagnosis. Jika dasar siap tetapi data produk tidak menyebut kondisi lingkungan yang ada, tahan pembelian sampai pemasok memberi dokumen yang dapat diverifikasi. Kawan Epoxy.co.id, keputusan “belum cukup bukti” sering lebih aman daripada mengunci metode yang sulit dibongkar.
 
-## Definisi dan batas objek
+Untuk langkah berikutnya setelah diagnosis, Anda dapat membaca [proses pengecatan epoxy pada beton](/berita/proses-pengecatan-epoxy-pada-beton) bila kebutuhan sebenarnya adalah sistem pelapis, bukan patch. Bila temuan mengarah ke retak dan perlu penanganan khusus, lihat contoh layanan [injeksi beton di Yogyakarta](/injeksi-beton-yogyakarta.html) tanpa menganggap rute itu sebagai pengganti desain proyek Anda.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering menghabiskan waktu
 
-## Cara kerjanya
+Kesalahan pertama adalah menutup beton yang masih rapuh karena lubangnya terlihat kecil. Akibatnya, tambalan menempel pada lapisan yang akan lepas berikutnya. Pemeriksaannya sederhana: petakan area lemah, perluas pembuangan sampai batas kokoh, dan dokumentasikan sebelum bahan datang.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah memilih berdasarkan angka kuat tekan atau foto hasil akhir saja. Angka suatu benda uji tidak membuktikan kecocokan seluruh sistem pada dasar, cuaca, dan geometri proyek. Minta metode lengkap, catatan batch dan lingkungan, serta kriteria penerimaan yang disetujui.
 
-## Faktor yang mengubah hasil
+Kesalahan ketiga adalah menganggap permukaan keras berarti pekerjaan selesai. Periksa tepi, rongga, kondisi cure, kebersihan, dan perlindungan sebelum area dibuka. Foto dan invoice membantu arsip, tetapi tidak menggantikan catatan persiapan, pemeriksaan, dan persetujuan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jadi, kapan epoxy mortar dipilih?
 
-## Contoh keputusan praktis
+Epoxy mortar layak dipertimbangkan untuk patch beton lokal setelah bagian rusak dibuang, geometri dan kondisi dasar dipahami, penyebab air atau gerak ditangani, serta data produk dan metode cocok dengan proyek. Ia bukan jawaban otomatis untuk retak bergerak, kerusakan struktur, atau semua jenis pelapis.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar untuk Patch dan Perbaikan Beton”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mulailah dengan peta cacat, foto sebelum perbaikan, catatan kelembapan dan kontaminasi, lalu minta lembar data teknis dan keselamatan yang berlaku. Cocokkan setiap langkah pemasangan dan waktu cure dengan dokumen yang disetujui. Jika kapasitas struktur, retak, sambungan, lingkungan kerja, atau limbah belum jelas, berhenti pada batas bukti dan minta pemeriksaan profesional. Operasi yang baik bukan yang paling cepat menutup lubang, melainkan yang dapat menjelaskan mengapa tambalan itu dipilih dan bagaimana hasilnya diperiksa.
