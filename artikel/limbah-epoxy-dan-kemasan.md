@@ -2,8 +2,9 @@
 article_id: EPX-14-07
 title: "Limbah Epoxy, Kemasan, dan Material Sisa"
 slug: "limbah-epoxy-dan-kemasan"
-description: "Explain uncured/cured distinction, segregation, spills, containers, records, and need to verify local rules"
-status: outline
+description: "Panduan memilah epoxy yang belum dan sudah mengeras, menangani tumpahan, menyimpan kemasan, serta menyiapkan catatan sebelum memeriksa aturan setempat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,13 @@ reader_address: "Sobat Epoxy.co.id"
 final_route: "/artikel/limbah-epoxy-dan-kemasan.html"
 technical_review: required
 sources:
-  - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
+  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Limbah Epoxy, Kemasan, dan Material Sisa
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Limbah Epoxy, Kemasan, dan Material Sisa”
-- **Reader and situation:** Contractor or owner closing a job
-- **Reader outcome:** Explain uncured/cured distinction, segregation, spills, containers, records, and need to verify local rules
-- **Primary intent:** Plan waste handling
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes declaring legal classification without current Indonesian regulator evidence
-- **Final public route:** `/artikel/limbah-epoxy-dan-kemasan.html`
-- **Appointed CMS date:** `2026-05-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Limbah Epoxy, Kemasan, dan Material Sisa**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,144 +32,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Limbah Epoxy, Kemasan, dan Material Sisa
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Epoxy.co.id! Saat pekerjaan lantai selesai, sisa resin, pengeras, kaleng, kain lap, dan debu sering dianggap bisa dicampur lalu dibuang bersama. Keputusan yang lebih aman adalah memisahkan bahan yang masih cair atau lengket dari bahan yang sudah benar-benar mengeras, menahan tumpahan, dan mencatat asal setiap wadah sebelum mencari jalur penanganan yang diizinkan.
 
-### KR-07
+Pemisahan itu bukan penetapan klasifikasi hukum. Resin, pengeras, pelarut, pengisi, pigmen, pembersih, dan produk reaksinya dapat memiliki bahaya berbeda; bau juga bukan alat ukur paparan yang dapat diandalkan. [NEEDS TOPIC-GATE: Konfirmasi SDS/label produk yang dipakai, penilaian K3 dan lingkungan di Indonesia, serta rencana keadaan darurat sebelum menetapkan klasifikasi atau tujuan pembuangan.]
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-### KR-15
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+## Mulai dari membedakan bahan cair dan bahan yang sudah mengeras
 
-### KR-16
+Bagian ini membantu Anda mengenali apa yang sebenarnya ada di area penutupan pekerjaan, supaya keputusan berikutnya tidak dibuat hanya dari warna atau bau.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Bahan belum tercampur, campuran yang masih mengalir, sisa pembersih, dan kain yang basah resin harus diperlakukan sebagai kelompok tersendiri. Material yang sudah mengeras menjadi bongkah atau serpihan adalah kelompok lain, tetapi status itu tetap perlu dicocokkan dengan SDS, label, dan aturan setempat. Jangan menganggap “sudah kering di permukaan” berarti seluruh isi wadah aman dipindahkan.
 
-### KR-17
+Mekanismenya sederhana: komponen yang belum bereaksi masih dapat menempel pada kulit atau menyebar melalui tumpahan, sedangkan bahan yang mengeras tidak lagi berperilaku sama seperti campuran cair. Karena tiap formulasi berbeda, catat nama produk, nomor batch bila ada, waktu pencampuran, dan kondisi wadah. NIOSH menjelaskan bahwa resin, pengeras, pelarut, pengisi, dan pigmen dapat membawa bahaya yang berbeda, sehingga pemeriksaan produk lebih berguna daripada menebak dari penampakan. [Sumber: CDC/NIOSH tentang epoksi dan resin](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+## Pisahkan, tahan, dan beri tanda sejak sisa pertama muncul
 
-### KR-19
+Di lapangan, pemisahan yang efektif berarti orang berikutnya bisa tahu isi wadah tanpa membuka atau mencium isinya. Sediakan wadah yang kompatibel dan tertutup untuk bahan cair, wadah terpisah untuk kemasan terkontaminasi, serta tempat lain untuk serpihan yang sudah mengeras. Beri tanda isi, sumber pekerjaan, tanggal, dan penanggung jawab; jangan memakai botol minuman atau wadah tanpa label.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Jika terjadi tumpahan, hentikan sumbernya hanya bila tindakan itu aman, jauhkan orang yang tidak berkepentingan, lalu gunakan bahan penyerap dan alat yang disebutkan SDS. Jangan menyiram tumpahan ke saluran air dan jangan mencampur cairan pembersih dengan sisa komponen tanpa petunjuk produk. NIOSH menekankan bahwa paparan kulit perlu dicegah dengan pengendalian sesuai tugas dan kompatibilitas sarung tangan; sarung tangan “apa saja” bukan jaminan. [Sumber: CDC/NIOSH tentang paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)
 
-## Evidence gates
+Sobat Epoxy.co.id, anggap setiap wadah yang tidak jelas sebagai “belum teridentifikasi”. Tahan sementara, foto labelnya untuk catatan internal, dan minta penanggung jawab K3 atau lingkungan menentukan langkah berikutnya.
 
-- **TOPIC-GATE:** Current SDS/label, Indonesian K3/environmental assessment, and emergency plan
+## Kemasan, kain lap, dan debu tidak otomatis menjadi sampah biasa
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kaleng kosong, tutup, kuas, kain lap, sarung tangan sekali pakai, dan kemasan penyerap dapat masih membawa residu. Debu hasil pengamplasan atau penggerindaan lapisan epoxy dapat membawa partikel dan sisa material yang kembali terhirup atau menempel ketika area dibersihkan. Perlakukan debu dan lumpur bilasan sebagai aliran terpisah sampai metode pengumpulan, pembersihan, dan pengendaliannya ditetapkan dari SDS serta penilaian pekerjaan; jangan menganggapnya sama dengan debu biasa atau meniupnya dengan udara bertekanan.
 
-## Internal-link plan
+Karena itu, masukkan kemasan terkontaminasi ke kelompok yang jelas dan tutup rapat. Gunakan metode pengumpulan debu yang ditentukan oleh penilaian pekerjaan, bukan meniupnya dengan udara bertekanan. Untuk serpihan lapisan lama, lumpur bilasan, atau cairan bekas pembersihan, simpan keterangan proses dan bahan yang mungkin ikut terbawa. Jangan menyamakan semuanya dengan sisa kardus yang bersih.
 
-### Existing local routes
+## Catatan sederhana membuat serah terima dapat ditelusuri
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Saat pekerjaan ditutup, buat satu daftar yang menghubungkan wadah dengan kegiatannya. Tulis jenis bahan atau kemasan, bentuknya (cair, lengket, padat, debu, atau cairan bilasan), perkiraan jumlah tanpa mengarang angka, tanggal, lokasi penyimpanan sementara, kondisi penutup, dan siapa yang memeriksa. Lampirkan SDS atau foto label sebagai rujukan, bukan sebagai pengganti penilaian.
 
-### Planned sibling articles
+Catatan ini berguna ketika pemilik, kontraktor, dan pengelola lingkungan menanyakan asal suatu wadah beberapa minggu kemudian. Halaman PP No. 22 Tahun 2021 tidak memberi dasar untuk mengklasifikasikan setiap sisa epoxy hanya dari nama bahan; cocokkan kerangka peraturan dengan kondisi kegiatan dan aturan setempat. [Sumber: PP No. 22 Tahun 2021 pada basis data BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan ketika penutupan proyek dilakukan sore hari
 
-- `EPX-14-05` → `/artikel/klaim-food-grade-healthcare-potable-water-epoxy.html` — Klaim Food Grade, Healthcare, dan Potable Water pada Epoxy
-- `EPX-14-06` → `/artikel/bahaya-slip-lantai-resin.html` — Bahaya Slip pada Lantai Resin dan Cara Mengelolanya
-- `EPX-14-08` → `/artikel/menilai-klaim-lingkungan-epoxy.html` — Menilai Klaim Low-VOC, Solvent-Free, dan Ramah Lingkungan
+Bayangkan dua kaleng sisa: satu masih berisi campuran yang dapat mengalir, satu berisi bongkah yang telah mengeras, dan beberapa kain lap yang lengket. Keputusan praktisnya bukan menuang kaleng pertama ke kaleng kedua. Tutup dan tandai kaleng cair, pisahkan bongkah, masukkan kain lap ke wadah yang mencegah kebocoran, lalu minta konfirmasi SDS dan jalur lokal sebelum ada pengangkutan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika lantai baru saja digerinda dan debu bercampur air bilasan, simpan sebagai aliran tersendiri sampai penanggung jawab memastikan cara pengelolaannya. Bila label hilang atau cairan tercampur, hentikan asumsi “jumlahnya sedikit berarti tidak masalah”. Kawan Epoxy.co.id, menahan satu wadah lebih mudah dikoreksi daripada memulihkan limbah yang sudah tercampur.
 
-## Jawaban singkat dan salah paham utama
+## Kesalahan yang terlihat praktis tetapi memperbesar risiko
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menilai keamanan dari bau. Produk yang tidak berbau kuat tetap dapat memerlukan pengendalian khusus, sehingga keputusan harus mengikuti informasi produk dan penilaian tugas, bukan hidung. Kesalahan kedua adalah membakar, mengubur, atau menuang sisa ke tanah dan saluran karena ingin mengosongkan area dengan cepat; jalur seperti itu tidak boleh diputuskan tanpa aturan lokal dan kompetensi yang relevan.
 
-## Definisi dan batas objek
+Kesalahan ketiga adalah memberi label “kosong” pada kemasan yang masih berlapis resin. Periksa bagian dalam secara aman, pertahankan label asli, dan catat bila wadah rusak atau bocor. Untuk pekerjaan berikutnya, Anda dapat mempelajari karakter lapisan melalui [format cat epoxy](/format-cat-epoxy.html) atau melihat pilihan [format epoxy dan pelapis poliuretan](/format-epoxy-pu-coating.html); tautan itu membantu memahami material, bukan menetapkan rute pembuangan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jangan mengambil keputusan hukum dari nama bahan saja
 
-## Cara kerjanya
+Sebagian orang ingin satu aturan cepat: semua epoxy dianggap limbah biasa atau semua kemasan dianggap berbahaya. Keduanya dapat gagal karena komposisi, kondisi tercampur, residu, proses pekerjaan, dan yurisdiksi setempat berbeda. Halaman status Permenaker No. 5 Tahun 2018 hanya menjadi rujukan status regulasi yang ditampilkan, bukan bukti penilaian risiko atau ketentuan pengelolaan lingkungan untuk proyek Anda. [Sumber: status Permenaker No. 5 Tahun 2018](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018)
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jadi, minta penanggung jawab yang berwenang memeriksa SDS/label, kondisi aktual, persyaratan pengangkutan, dan fasilitas penerima sebelum material keluar dari lokasi. Bila bukti itu belum ada, pertahankan tanda [NEEDS TOPIC-GATE] dan status “ditahan untuk verifikasi” di catatan serah terima.
 
-## Faktor yang mengubah hasil
+## Langkah penutupan yang dapat Anda jalankan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum meninggalkan proyek, cocokkan jumlah wadah dengan daftar, pastikan tidak ada tumpahan terbuka, pisahkan cairan dari padatan dan kemasan terkontaminasi, lalu simpan foto label serta SDS di berkas pekerjaan. Tanyakan: “Siapa yang menyetujui klasifikasi dan tujuan setiap kelompok limbah berdasarkan aturan Indonesia yang berlaku saat ini?”
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Limbah Epoxy, Kemasan, dan Material Sisa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Epoxy.co.id, limbah epoxy, kemasan, dan material sisa sebaiknya dikelola sebagai aliran yang teridentifikasi, bukan satu karung tanpa cerita. Anda boleh menutup pekerjaan secara administratif, tetapi jangan menghapus jejak bahan atau menetapkan status hukum sebelum penilaian K3, lingkungan, dan aturan lokal benar-benar dikonfirmasi.

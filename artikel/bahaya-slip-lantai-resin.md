@@ -2,8 +2,9 @@
 article_id: EPX-14-06
 title: "Bahaya Slip pada Lantai Resin dan Cara Mengelolanya"
 slug: "bahaya-slip-lantai-resin"
-description: "Combine texture, contaminants, drainage, footwear, cleaning, testing, signs, and incident review"
-status: outline
+description: "Panduan mengenali penyebab lantai resin licin, mengendalikan kontaminan, dan menyiapkan pemeriksaan yang aman."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,24 @@ final_route: "/artikel/bahaya-slip-lantai-resin.html"
 technical_review: required
 sources:
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
   - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Bahaya Slip pada Lantai Resin dan Cara Mengelolanya
 
-## Assignment lock
+Halo, Teman Epoxy.co.id! Lantai resin yang terlihat rapi belum tentu aman saat terkena air, minyak, bubuk, atau sisa bahan pembersih. Kesalahan yang sering terjadi adalah langsung menyalahkan tekstur atau mengganti lapisan, padahal sumber slip bisa berasal dari kontaminan, aliran air, sepatu, cara membersihkan, atau perubahan kondisi kerja.
 
-- **Writer task:** Expand this file into one complete article answering: “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”
-- **Reader and situation:** Public or industrial facility owner
-- **Reader outcome:** Combine texture, contaminants, drainage, footwear, cleaning, testing, signs, and incident review
-- **Primary intent:** Manage slip risk
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes choosing texture owned by EPX-06-04
-- **Final public route:** `/artikel/bahaya-slip-lantai-resin.html`
-- **Appointed CMS date:** `2026-05-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kelola slip sebagai rangkaian kondisi, bukan sifat tetap resin. Catat kapan dan di mana orang kehilangan pijakan, kendalikan sumber cairan dan debu, cocokkan alas kaki serta pembersihan, lalu minta pengujian yang sesuai sebelum memutuskan perbaikan. Pilihan tekstur spesifik bukan ruang lingkup artikel ini; hal itu perlu keputusan tersendiri pada EPX-06-04. [NEEDS TOPIC-GATE: sebelum menyimpulkan tingkat risiko, cocokkan SDS/label sistem dengan penilaian K3 dan rencana darurat lokasi.]
 
-## Opening instructions
+![Ilustrasi epoxy lantai 3d](/wp-content/uploads/2021/02/epoxy-lantai-3d.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bahaya Slip pada Lantai Resin dan Cara Mengelolanya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-015`
@@ -68,145 +44,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy lantai 3d` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-015]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Hasil yang ingin dicapai sebelum menyentuh lapisan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Tujuannya bukan membuat janji bahwa lantai selalu kesat, melainkan mengurangi kejutan di area yang dilalui orang dan memastikan setiap perubahan punya alasan yang tercatat. Mulailah dengan peta area basah, pintu masuk, jalur troli, titik pencucian, tempat bahan dituang, dan lokasi insiden. Tandai waktu kejadian, bahan yang terlihat, penerangan, jenis sepatu, serta aktivitas.
 
-### KR-07
+Siapkan dokumen produk, lembar data keselamatan (SDS), metode pembersihan, dan penanggung jawab yang boleh menghentikan pekerjaan. Resin, pengeras, pelarut, pengisi, pigmen, dan pembersih dapat memiliki bahaya berbeda; bau bukan ukuran aman atau tidaknya paparan. CDC/NIOSH meminta penilaian mengikuti bahan dan tugas, termasuk kecocokan sarung tangan serta ventilasi, bukan mengandalkan hidung ([CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+## Kenali penyebab slip tanpa buru-buru mengganti tekstur
 
-### KR-15
+Saat telapak sepatu dan lantai dipisahkan lapisan air atau minyak, gesekan berkurang. Debu halus, tepung, serpihan, atau sisa detergen juga menjadi lapisan pemisah. Air yang tidak mengalir membentuk film; minyak menyebar tipis; sol aus membawa bahan dari area lain; bilasan yang kurang meninggalkan residu. Jika beberapa hal terjadi bersamaan, perubahan lapisan saja belum tentu menghilangkan bahaya.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Contohnya, operator melaporkan slip dekat pintu setelah hujan. Sebelum mengubah lantai, cocokkan jejak air, arah masuk, keset, drainase, dan jenis sepatu. Jika insiden hanya muncul saat pencucian, periksa urutan semprot, sikat, bilas, dan pengeringan. Catatan itu mengubah dugaan menjadi pertanyaan yang dapat dijawab.
 
-### KR-16
+## Cocokkan kontaminan, drainase, dan alas kaki
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Teman Epoxy.co.id, mulai dari sumber cairan: tahan kebocoran, arahkan aliran ke saluran, pasang penghalang sementara saat pembersihan, dan jangan biarkan jalur pejalan kaki memotong area basah. Kain pel tidak menyelesaikan genangan jika air terus masuk dari proses atau pipa.
 
-### KR-17
+Periksa alas kaki yang benar-benar dipakai, bukan hanya yang tertulis di prosedur. Sol aus, tersumbat, atau membawa minyak mengubah hasil lapangan. Catat model dan kondisi sol saat inspeksi, lalu bandingkan dengan pola insiden. Pembersihan harus cocok dengan resin dan kotoran; tanah, bahan kimia, konsentrasi, lama kontak, suhu, alat gosok, pembilasan, frekuensi, tekstur, dan keausan memengaruhi hasil. Tidak ada cairan universal. Prinsip ISO 12944-8 menekankan pencocokan kondisi paparan dengan rencana perawatan ([ISO 12944-8](https://www.iso.org/standard/64838.html)).
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+## Urutan pemeriksaan yang aman dan dapat diulang
 
-### KR-19
+Amankan situasi lebih dulu: batasi jalur, beri tanda terlihat, dan hentikan aktivitas yang menambah cairan atau debu. Amati tanpa menggosok atau mencampur bahan sembarangan. Catat lokasi, waktu, proses, kontaminan, dan apakah permukaan sudah dibilas.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Cocokkan temuan dengan SDS, petunjuk produk, serta penilaian K3 setempat. Menggerinda atau mengikis dapat menghasilkan debu dan slurry; bahayanya dipengaruhi material, alat, durasi, pengungkung, perawatan, dan pembersihan. OSHA mengingatkan debu kering atau slurry yang mengering dapat menjadi paparan sekunder, tetapi panduan Amerika Serikat itu bukan batas kepatuhan Indonesia ([OSHA](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)).
 
-## Evidence gates
+Bila perlu pengujian, minta pihak kompeten menjelaskan metode, lokasi, kondisi basah atau kering, alat, dan cara membaca hasil. Angka dari satu titik atau satu jenis sepatu tidak otomatis mewakili seluruh area. Tahan pelapisan ulang sampai bukti cocok dengan kejadian.
 
-- **TOPIC-GATE:** Current SDS/label, Indonesian K3/environmental assessment, and emergency plan
+## Tanda berhenti dan keputusan yang perlu dinaikkan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Hentikan pekerjaan dan minta review apabila insiden berulang, tumpahan belum teridentifikasi, bahan pembersih berubah, lapisan mengelupas, permukaan berubah setelah penggerindaan, atau orang bekerja di area yang belum dinyatakan aman. Jangan mencampur sisa resin, pelarut, kain penyerap, debu, slurry, dan kemasan dalam satu wadah.
 
-## Internal-link plan
+Aturan limbah bergantung pada identifikasi dan rute setempat. PP No. 22 Tahun 2021 perlu dibaca bersama kondisi material aktual dan penilaian lingkungan; nama kimia umum tidak cukup menetapkan klasifikasi atau pembuangan ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)). Untuk lingkungan kerja, Permenaker No. 5 Tahun 2018 menjadi pintu masuk pemeriksaan faktor kimia, fisik, ventilasi, ergonomi, dan housekeeping, bukan kesimpulan kepatuhan otomatis ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-### Existing local routes
+## Verifikasi hasil, tanda, dan catatan insiden
 
-- `/epoxy-lantai-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ulangi pemeriksaan pada kondisi pemicu: setelah hujan, pencucian, troli lewat, atau tumpahan. Pastikan tanda terlihat dari arah kedatangan dan dilepas hanya setelah area diperiksa. Catat pemeriksa, waktu, kondisi permukaan, tindakan sementara, serta keputusan lanjutan.
 
-### Planned sibling articles
+Gunakan pertanyaan yang sama: apa yang membuat telapak dan lantai kehilangan kontak, dari mana bahan datang, siapa yang terpapar, apa yang berubah, dan bukti apa yang kurang? Halaman [epoxy lantai Tegal](/epoxy-lantai-tegal.html) dapat memberi konteks ruang, tetapi bukan bukti performa sistem Anda.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Jalan pintas yang tampak mudah tetapi sering gagal
 
-- `EPX-14-04` → `/artikel/respons-tumpahan-epoxy-hardener.html` — Tumpahan Epoxy dan Hardener: Respons Awal yang Aman
-- `EPX-14-05` → `/artikel/klaim-food-grade-healthcare-potable-water-epoxy.html` — Klaim Food Grade, Healthcare, dan Potable Water pada Epoxy
-- `EPX-14-07` → `/artikel/limbah-epoxy-dan-kemasan.html` — Limbah Epoxy, Kemasan, dan Material Sisa
-- `EPX-14-08` → `/artikel/menilai-klaim-lingkungan-epoxy.html` — Menilai Klaim Low-VOC, Solvent-Free, dan Ramah Lingkungan
+Menaburkan bahan kasar atau menggosok keras seluruh lantai setelah satu orang terpeleset mungkin mengubah rasa permukaan, tetapi tidak menjawab sumber air, minyak, sepatu, atau residu. Cara itu juga dapat merusak lapisan, menghasilkan debu, dan menyulitkan pembersihan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Alternatifnya adalah menahan area, mengumpulkan catatan, memeriksa SDS dan prosedur, lalu meminta penilaian sistem utuh. Sobat Epoxy.co.id, halaman [epoxy lantai Tebingtinggi](/epoxy-lantai-tebingtinggi.html) boleh menjadi konteks pembaca, bukan pengganti inspeksi lokasi atau persetujuan teknis.
 
-## Hasil akhir dan prasyarat
+## Kesimpulan: kelola rangkaian kondisi, bukan sekadar permukaan
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bahaya slip pada lantai resin dikelola dengan menghubungkan tekstur yang ada, kontaminan, drainase, alas kaki, pembersihan, pengujian, tanda, dan tinjauan insiden. Keputusan pertama bukan “lapisan apa yang ditambah”, melainkan “kapan, di mana, dan karena kondisi apa orang kehilangan pijakan?”
 
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Bahaya Slip pada Lantai Resin dan Cara Mengelolanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Epoxy.co.id, kumpulkan peta area, catatan insiden, SDS, prosedur pembersihan, serta bukti kondisi pemicu. Minta penilaian K3 dan lingkungan sebelum mengubah sistem atau menetapkan cara menangani sisa bahan. Jika bukti belum cukup, pertahankan tanda dan pembatas sementara. Jangan menyatakan lantai aman hanya karena kering saat dilihat; nyatakan aman setelah kondisi pemicu diuji, dicatat, dan disetujui pihak berwenang.

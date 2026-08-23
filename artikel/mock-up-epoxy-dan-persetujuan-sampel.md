@@ -2,8 +2,9 @@
 article_id: EPX-16-06
 title: "Mock-Up Epoxy dan Form Persetujuan Sampel"
 slug: "mock-up-epoxy-dan-persetujuan-sampel"
-description: "Define location, substrate, system, texture, color, details, tests, lighting, acceptance, and retention"
-status: outline
+description: "Panduan menentukan isi mock-up epoxy dan formulir persetujuan sampel sebelum pelapisan penuh."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,43 +16,18 @@ final_route: "/artikel/mock-up-epoxy-dan-persetujuan-sampel.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/79788.html"
   - "https://www.iso.org/standard/64837.html"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Mock-Up Epoxy dan Form Persetujuan Sampel
 
-## Assignment lock
+Halo, Sobat Epoxy.co.id! Sebelum seluruh lantai dilapisi, sering muncul anggapan bahwa satu foto warna atau potongan papan sudah cukup untuk menyetujui pekerjaan epoxy. Padahal yang perlu disepakati adalah contoh pekerjaan nyata di lokasi: pada bidang dan kondisi dasar yang mewakili, dengan sistem lapisan, tekstur, warna, detail tepi, pencahayaan, dan cara pemeriksaan yang jelas.
 
-- **Writer task:** Expand this file into one complete article answering: “Mock-Up Epoxy dan Form Persetujuan Sampel”
-- **Reader and situation:** Client before full application
-- **Reader outcome:** Define location, substrate, system, texture, color, details, tests, lighting, acceptance, and retention
-- **Primary intent:** Approve workmanship benchmark
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes decorative design creation owned by EPX-09-07
-- **Final public route:** `/artikel/mock-up-epoxy-dan-persetujuan-sampel.html`
-- **Appointed CMS date:** `2026-07-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, buat satu mock-up di area yang ditentukan, catat semua variabelnya, lalu tanda tangani formulir persetujuan sampel hanya setelah pihak yang berwenang memeriksa hasilnya. Persetujuan itu menjadi patokan mutu pengerjaan, bukan persetujuan desain dekoratif dan bukan bukti bahwa seluruh lantai pasti bebas masalah. Bila kondisi dasar, produk, atau kriteria proyek belum terbukti, tandai sebagai `[NEEDS PROJECT EVIDENCE: data dasar, sistem produk, dan kriteria penerimaan belum lengkap]` sebelum pekerjaan penuh dimulai.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mock-Up Epoxy dan Form Persetujuan Sampel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,124 +38,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-04
+## Apa yang sebenarnya disetujui dalam mock-up
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+Bagian ini membantu Anda membedakan contoh mutu pengerjaan dari contoh gambar. Kesalahan pembedaan ini sering membuat hasil yang tampak bagus di brosur tidak cocok dengan lantai dan pencahayaan di lapangan.
 
-### KR-21
+Mock-up adalah bidang contoh yang dibuat dengan metode dan bahan yang dimaksudkan untuk pekerjaan utama. Formulir persetujuannya mencatat lokasi, ukuran atau batas bidang, kondisi permukaan dasar, nama sistem lapisan, warna, tingkat kilap, tekstur, pola sambungan, detail sudut, serta tanggal dan pihak yang hadir. Istilah “sistem” berarti rangkaian lapisan yang bekerja bersama—misalnya lapisan dasar, lapisan antara, dan lapisan penutup—bukan satu kaleng produk yang berdiri sendiri.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Dengan catatan itu, pembaca dapat memeriksa hal yang benar-benar terlihat dan dapat ditelusuri. Peraturan bangunan Indonesia tetap menempatkan lapisan lantai sebagai bagian dari sistem bangunan yang harus memenuhi kebutuhan ruang, keselamatan, aksesibilitas, dan persetujuan setempat; mock-up tidak menggantikan penilaian tersebut ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
 
-## Evidence gates
+Batasnya penting: artikel ini tidak membuat desain dekoratif, memilih motif artistik, atau menetapkan solusi struktur. Jika keputusan menyangkut retak bergerak, sambungan, beban, atau perubahan tampilan dekoratif, minta keputusan profesional dan rujuk dokumen proyek yang berwenang.
 
-- **TOPIC-GATE:** Approved project file, competent sign-off, calibrated/test records, and clean remote evidence
+## Urutan membuat dan memeriksa sampel
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Nah, setelah objeknya jelas, urutannya perlu dibuat dapat diulang. Setiap langkah menjawab pertanyaan berbeda sehingga persetujuan tidak bergantung pada ingatan atau foto yang diambil dari sudut berbeda.
 
-## Internal-link plan
+Pertama, tetapkan lokasi yang mewakili pekerjaan utama dan beri tanda batasnya. Catat keadaan dasar sebelum persiapan: riwayat perbaikan, noda, kelembapan, kerataan, retak, dan gangguan aktivitas. Bila area contoh terlalu bersih atau terlalu terlindung dibanding area utama, hasilnya belum menjadi pembanding yang adil.
 
-### Existing local routes
+Kedua, tulis identitas sistem dan cara pengerjaannya. Catat produk, nomor batch, lapisan yang direncanakan, alat pencampur, metode aplikasi, waktu antar-lapis, serta kondisi lingkungan yang dicatat saat pekerjaan. Panduan pelaksanaan dan pengawasan seperti ISO 12944-7 menekankan pentingnya pengendalian pelaksanaan; halaman standarnya dapat menjadi rujukan identitas, tetapi detail penerimaan tetap harus diambil dari edisi standar dan metode proyek yang lengkap ([ISO 12944-7](https://www.iso.org/standard/64837.html)).
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ketiga, tunggu sampai kondisi yang disyaratkan tercapai sebelum pemeriksaan. Jangan menyamakan permukaan yang baru tampak kering dengan lapisan yang sudah siap digunakan. Formulir perlu memuat waktu aplikasi, waktu pemeriksaan, perlindungan selama menunggu, dan siapa yang berwenang menyatakan sampel boleh disentuh atau dilewati.
 
-### Planned sibling articles
+Keempat, periksa dengan pencahayaan yang disepakati. Warna, bayangan, kilap, pori, bekas alat, dan sambungan dapat terlihat berbeda antara cahaya siang, lampu kerja, dan lampu ruang yang akan dipakai. Tuliskan jenis dan posisi pencahayaan pada formulir, lalu lihat sampel dari jarak pandang pengguna biasa, bukan hanya dari jarak dekat.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Isi formulir agar keputusan dapat ditelusuri
 
-- `EPX-16-04` → `/artikel/inspection-test-plan-epoxy.html` — Inspection and Test Plan untuk Pekerjaan Epoxy
-- `EPX-16-05` → `/artikel/qc-lapangan-epoxy.html` — QC Lapangan Epoxy: Ketebalan, Adhesi, Visual, dan Catatan
-- `EPX-16-07` → `/artikel/handover-dan-garansi-epoxy.html` — Dokumen Handover dan Garansi Pekerjaan Epoxy
-- `EPX-16-08` → `/artikel/format-case-study-proyek-epoxy.html` — Format Case Study Epoxy yang Bisa Diverifikasi
+Formulir yang baik bukan tumpukan kotak centang. Ia membuat orang lain dapat memahami apa yang disetujui, apa yang masih ditahan, dan bukti apa yang harus dicari bila hasil berikutnya berbeda.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Mulailah dengan identitas: nama proyek, ruang atau grid lokasi, tanggal, pembuat sampel, pihak yang hadir, dan gambar batas bidang. Lanjutkan dengan kondisi dasar dan sistem lapisan, termasuk dokumen produk yang dipakai. Jangan mengisi angka ketebalan, kadar kelembapan, atau hasil uji bila belum ada rekaman pengukuran yang sah; gunakan penanda `[NEEDS PROJECT EVIDENCE: nilai pengukuran dan kriteria penerimaan]`.
 
-## Jawaban singkat dan salah paham utama
+Bagian tampilan memuat warna atau kode sampel, tingkat kilap, tekstur, agregat yang terlihat, pola sambungan, pertemuan dengan drainase atau ambang, serta toleransi cacat yang disepakati. Tuliskan kalimat pemeriksaan yang bisa dijawab “sesuai”, “tidak sesuai”, atau “belum dapat dinilai”, bukan kata umum seperti “bagus”.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian bukti mencatat foto dengan arah dan tanggal, lembar data yang dirujuk, alat ukur yang digunakan, serta nomor laporan bila memang ada. Standar dan ringkasan organisasi seperti ASTM D01 memberi konteks tentang keluarga metode pengujian, tetapi tidak membuktikan bahwa sampel proyek ini lulus atau bahwa seluruh sistem akan berperilaku sama ([ASTM D01 overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf)).
 
-## Definisi dan batas objek
+Terakhir, beri keputusan yang tegas: disetujui sebagai patokan, disetujui dengan catatan, ditahan untuk perbaikan, atau ditolak dan dibuat ulang. Cantumkan pemilik keputusan, tanggal, batas berlaku, dan tempat penyimpanan sampel fisik atau rekamannya. Persetujuan tanpa identitas penanda tangan dan tanpa batas penggunaan mudah berubah menjadi perselisihan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Faktor yang dapat mengubah hasil
 
-## Cara kerjanya
+Teman Epoxy.co.id, sampel yang disetujui bukan jaminan otomatis bahwa area lain akan sama. Perbedaan kondisi dasar, batch bahan, kelembapan, suhu, ventilasi, waktu kerja, atau keterampilan pelaksana dapat mengubah permukaan dan waktu pengerasan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karena itu, bandingkan area pekerjaan utama dengan catatan mock-up sebelum setiap tahap penting. Jika dasar ternyata lebih lembap, lebih terkontaminasi, atau memiliki gerakan yang tidak ada pada sampel, tahan pekerjaan dan minta penilaian baru. Standar pelaksanaan perbaikan juga menempatkan survei, kendali mutu, dan catatan sebagai bagian dari jejak keputusan; halaman ISO 16311-4 menjelaskan lingkup standar tanpa memberi angka penerimaan universal ([ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
-## Faktor yang mengubah hasil
+Pencahayaan dan fungsi ruang juga berpengaruh. Lantai yang tampak seragam di bawah lampu sementara dapat memperlihatkan perbedaan saat lampu ritel atau cahaya samping dinyalakan. Jika ruang dipakai sebelum lapisan benar-benar siap, debu, lalu lintas, atau pembersihan awal dapat merusak hasil yang baru saja disetujui. Jadwal perlindungan dan pembukaan area harus tertulis, bukan diasumsikan dari tanggal aplikasi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh keputusan sebelum pelapisan penuh
 
-## Contoh keputusan praktis
+Bayangkan sampel di sudut ruang telah disetujui, tetapi pekerjaan utama berpindah ke bagian lantai yang memiliki noda minyak dan sambungan lama. Formulir tidak boleh langsung disalin sebagai izin kerja. Cocokkan dulu apakah kondisi dasar dan persiapan yang tercatat sama; jika tidak, buat catatan penyimpangan, perbarui metode, dan minta persetujuan baru untuk bidang yang berbeda.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Contoh lain, pemilik menyukai warna sampel tetapi meminta tekstur dibuat lebih kasar setelah aplikasi dimulai. Itu bukan koreksi kecil yang boleh dilakukan diam-diam. Perubahan tekstur mengubah spesifikasi tampilan dan mungkin memengaruhi cara pembersihan atau penggunaan ruang, sehingga perlu sampel tambahan dan keputusan tertulis.
 
-## Kesalahan umum dan cara memeriksanya
+Untuk langkah berikutnya, Anda dapat memakai [format cat epoxy](/format-cat-epoxy.html) saat pertanyaan beralih ke pilihan lapisan, atau membaca [format epoxy-PU coating](/format-epoxy-pu-coating.html) ketika pembahasan perlu membedakan sistem pelapis. Tautan itu membantu memperjelas pilihan, tetapi tidak menggantikan dokumen proyek dan pemeriksaan sampel.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up Epoxy dan Form Persetujuan Sampel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering terjadi dan cara memeriksanya
 
-## Objection or shortcut to address
+Kesalahan pertama adalah menyetujui berdasarkan foto. Periksa bidang nyata, pencahayaan yang disepakati, dan catatan kondisi permukaan. Foto hanya pelengkap karena sudut, kamera, dan warna layar dapat mengubah persepsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kedua adalah menganggap persetujuan warna sebagai persetujuan seluruh sistem. Cocokkan identitas lapisan, cara aplikasi, waktu pengerasan, dan batas penggunaan. Jika salah satu belum ada buktinya, nyatakan “belum dapat dinilai”.
 
-## Required conclusion
+Kesalahan ketiga adalah membiarkan sampel hilang setelah pekerjaan berjalan. Simpan potongan atau lokasi acuannya, formulir bertanda tangan, foto bertanggal, dan rekaman perubahan. Bila terjadi perbedaan, tim dapat kembali ke keputusan awal tanpa menebak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kesalahan terakhir adalah menekan tanda tangan agar jadwal tidak bergeser. Kawan Epoxy.co.id, keputusan yang dipaksakan saat bukti belum lengkap memindahkan risiko ke tahap yang lebih mahal. Lebih aman menahan pekerjaan pada batas yang jelas, menuliskan kebutuhan bukti, lalu melanjutkan setelah pihak yang berwenang menyatakan syaratnya terpenuhi.
 
-## Draft completion checklist
+## Penutup: patokan mutu yang punya batas
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mock-up epoxy yang berguna adalah contoh nyata dengan lokasi, dasar, sistem, tampilan, cara pemeriksaan, bukti, dan keputusan yang tercatat. Formulir persetujuannya memberi patokan mutu pengerjaan dan jejak perubahan, bukan sertifikat kinerja seluruh bangunan, bukan desain dekoratif, dan bukan pengganti pemeriksaan profesional.
+
+Sebelum pelapisan penuh, cocokkan bidang kerja dengan kondisi sampel, lengkapi dokumen produk dan catatan pengukuran, lalu minta tanda tangan pihak yang memang berwenang. Jika kondisi atau sistem berubah, buat sampel dan keputusan baru. Aturan sederhananya: jangan memperluas persetujuan melebihi bukti yang benar-benar dicatat.

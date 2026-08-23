@@ -2,8 +2,9 @@
 article_id: EPX-15-07
 title: "Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy"
 slug: "shelf-life-penyimpanan-kontrol-batch-epoxy"
-description: "Explain labels, expiry, temperature, segregation, first-in-first-out, damage, quarantine, and records"
-status: outline
+description: "Panduan penjaga gudang atau penyimpanan proyek untuk membaca label, memeriksa masa simpan, memisahkan komponen, dan mencatat batch epoxy agar bahan yang dipakai tetap dapat ditelusuri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,52 +16,22 @@ final_route: "/artikel/shelf-life-penyimpanan-kontrol-batch-epoxy.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Di gudang, keputusan yang tampak sederhana—mengambil ember epoxy yang paling dekat—bisa menentukan apakah bahan masih layak dipakai atau harus ditahan. Label yang pudar, tanggal kedaluwarsa yang terlewat, kemasan penyok, atau komponen resin dan pengeras yang tercampur dalam catatan dapat membuat masalah baru sulit ditelusuri.
 
-- **Writer task:** Expand this file into one complete article answering: “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”
-- **Reader and situation:** Warehouse or site storekeeper
-- **Reader outcome:** Explain labels, expiry, temperature, segregation, first-in-first-out, damage, quarantine, and records
-- **Primary intent:** Preserve material quality
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes transport-law claims without current sources
-- **Final public route:** `/artikel/shelf-life-penyimpanan-kontrol-batch-epoxy.html`
-- **Appointed CMS date:** `2026-06-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: simpan epoxy sesuai petunjuk produk, baca identitas dan tanggal pada setiap kemasan, pisahkan komponen dan batch, keluarkan stok dengan prinsip masuk lebih dulu keluar lebih dulu, lalu karantina bahan yang rusak atau meragukan. Angka masa simpan pada label bukan izin otomatis untuk memakai bahan; kondisi penyimpanan dan bukti dari lembar data teknis (TDS) atau lembar data keselamatan (SDS) tetap menjadi penentu.
 
-## Opening instructions
+Artikel ini membantu penjaga gudang atau penyimpanan di lokasi memutuskan apa yang boleh dikeluarkan, apa yang harus ditahan, dan catatan apa yang perlu diserahkan kepada pelaksana. Pembahasan tidak menetapkan aturan pengangkutan atau klasifikasi limbah; untuk itu, minta penilaian lokal yang mutakhir.
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Jika Anda juga sedang mencocokkan jenis pelapis dengan kebutuhan area, gunakan [panduan format epoxy dan polyurethane coating](/format-epoxy-pu-coating.html) sebagai langkah berikutnya. Tautan itu membantu memilih pertanyaan tentang sistem, sedangkan artikel ini tetap berfokus pada mutu bahan selama disimpan.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -71,151 +42,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Definisi dan batas benda yang dikontrol
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Sebelum menyusun rak, samakan dulu arti “epoxy”. Epoxy bukan satu bahan dengan satu perilaku: resin, pengeras, pigmen, pengisi, pelarut, dan bahan tambahan dapat berbeda antarproduk. ISO menjelaskan bahwa komposisi, persiapan benda uji, substrat, dan proses pengerasan memengaruhi perilaku yang diukur; ringkasan standar itu tidak memberi rasio campur atau syarat lantai terpasang ([ISO 18280](https://www.iso.org/standard/52877.html)).
 
-### KR-12
+Karena itu, satu nomor batch tidak boleh diperlakukan sebagai pengganti identitas produk. Catat nama produk, komponen (misalnya resin dan pengeras), ukuran kemasan, nomor batch, tanggal produksi atau kedaluwarsa yang tercetak, dan dokumen TDS/SDS yang menjadi acuannya. Jika salah satu informasi tidak terbaca, tahan kemasan tersebut sampai pemasok atau penanggung jawab teknis mengonfirmasi.
 
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
+“Shelf life” berarti masa simpan yang dinyatakan produsen untuk kemasan yang belum dibuka dan disimpan pada kondisi yang ditetapkan. Masa itu bukan jaminan bahwa bahan yang pernah panas, beku, bocor, atau dibuka sembarangan masih sama. Artikel ini mengatur identifikasi, kondisi ruang, pemisahan, pengeluaran, kerusakan, karantina, dan pencatatan; bukan persetujuan formulasi, pengujian penerimaan, atau keputusan kelayakan akhir untuk suatu proyek.
 
-### KR-15
+## Cara kerja penyimpanan dan kontrol batch
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Bayangkan bahan datang pada hari yang berbeda. Petugas menerima, memeriksa, memberi lokasi, lalu mencatatnya sebelum bahan masuk ke pekerjaan. Urutan ini penting karena catatan penerimaan menjadi titik awal untuk menelusuri bahan yang dipakai bila ada pertanyaan di kemudian hari.
 
-### KR-17
+Simpan kemasan tertutup di ruang yang teduh, bersih, kering, dan memiliki suhu sesuai label atau TDS produk. Jangan menebak rentang suhu dari pengalaman dengan merek lain. Letakkan wadah tegak dan stabil, jauhkan dari sumber panas, air, dan kemungkinan benturan. Pengaturan ini tidak membuktikan masa simpan; ia hanya menjaga bahan mendekati kondisi yang disyaratkan sambil menunggu verifikasi produk.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Pisahkan resin dari pengeras dan pisahkan batch yang berbeda dengan label lokasi yang jelas. Beri kartu stok atau rekaman digital berisi tanggal terima, pemasok, identitas produk, batch, jumlah, tanggal kedaluwarsa, lokasi, dan nama petugas. Saat satu kemasan dipakai sebagian, tulis tanggal buka, jumlah sisa, cara menutup kembali, serta pekerjaan atau area yang menerima bahan itu.
 
-### KR-20
+Gunakan prinsip masuk lebih dulu keluar lebih dulu sebagai aturan awal, bukan sebagai alasan mengabaikan kondisi fisik. Stok yang datang lebih dulu dikeluarkan lebih dulu hanya bila label terbaca, kemasan utuh, dan masa simpannya masih sesuai dokumen. Jika kondisi berbeda, bahan yang lebih tua atau paling dekat kedaluwarsa harus mendapat pemeriksaan tambahan, bukan dipaksakan habis.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Tahap berikutnya adalah serah-terima. Petugas gudang memberikan catatan batch dan dokumen yang berlaku kepada pelaksana, sementara pelaksana mencocokkan identitas itu sebelum membuka kemasan. ISO 12944-7 menempatkan eksekusi, pengawasan, dan rekaman sebagai bagian dari pengendalian pekerjaan; ringkasannya tidak menggantikan metode produk atau spesifikasi proyek ([ISO 12944-7](https://www.iso.org/standard/64837.html)).
 
-### KR-21
+## Faktor yang dapat mengubah keputusan
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Kawan Epoxy.co.id, tanggal pada label hanyalah satu masukan. Suhu ruang yang pernah melonjak, paparan sinar matahari, kondensasi, atau tutup yang tidak rapat dapat mengubah kondisi kemasan. Periksa segel, kebocoran, karat pada wadah logam, endapan yang tidak biasa, kristalisasi, penggumpalan, dan label yang tidak lagi dapat dibaca. Jangan menguji dengan mencium; bau bukan penanda paparan yang dapat diandalkan, dan resin, pengeras, pelarut, serta produk reaksinya dapat memiliki bahaya yang berbeda ([CDC/NIOSH tentang epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)).
 
-## Evidence gates
+Pemisahan juga mencegah kesalahan pasangan. Resin yang benar tetapi dipasangkan dengan pengeras dari batch atau produk lain dapat menghasilkan campuran yang tidak sesuai instruksi. Jika identitas salah satu komponen tidak cocok, hentikan pengeluaran dan minta konfirmasi tertulis dari pihak yang berwenang. Sarung tangan, ventilasi, dan pengendalian kontak harus mengikuti penilaian tugas serta dokumen produk; kompatibilitas sarung tangan tidak dapat ditebak dari warna atau ketebalannya ([CDC/NIOSH tentang paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-- **TOPIC-GATE:** Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review
+Kondisi lokasi juga memengaruhi catatan. Bila gudang pindah, listrik padam lama, terjadi banjir, atau suhu tidak termonitor, tandai periode gangguan dan kelompokkan stok yang terdampak. Jangan menyatakan bahan aman hanya karena kemasannya tampak bersih. [NEEDS TOPIC-GATE: verifikasi TDS/SDS produk, rekaman suhu, dan persetujuan teknis sebelum bahan yang kondisinya menyimpang dipakai.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Contoh keputusan di gudang proyek
 
-## Internal-link plan
+Misalnya ada dua set resin dan pengeras. Set A datang lebih dulu dan tanggalnya lebih dekat, tetapi labelnya utuh dan rekaman suhunya lengkap. Set B datang belakangan dengan kemasan penyok dan satu nomor batch tidak terbaca. Set A dapat dipertimbangkan untuk dikeluarkan setelah pencocokan TDS dan permintaan kerja. Set B masuk karantina; urutan masuk tidak mengalahkan keraguan identitas atau kerusakan fisik.
 
-### Existing local routes
+Buat tiga status yang mudah dilihat: “siap diperiksa untuk dipakai”, “ditahan—menunggu verifikasi”, dan “tidak untuk digunakan”. Pada setiap perubahan status, tulis alasan, tanggal, foto atau nomor dokumen pendukung bila tersedia, serta siapa yang menyetujui. Status ini membantu orang berikutnya memahami keputusan tanpa membuka kemasan berulang kali.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sebelum bahan keluar, cocokkan empat hal: nama produk dan komponen, batch pada resin dan pengeras, masa simpan serta kondisi kemasan, dan tujuan pekerjaan. Jika satu saja tidak cocok, pertahankan status tahan. Sesudah pekerjaan menerima bahan, simpan salinan catatan batch bersama catatan pencampuran dan kondisi kerja agar hubungan antara bahan dan area aplikasi tetap dapat dilacak.
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-15-05` → `/artikel/membandingkan-penawaran-epoxy.html` — Cara Membandingkan Penawaran Epoxy Apple-to-Apple
-- `EPX-15-06` → `/artikel/checklist-membeli-material-epoxy.html` — Checklist Membeli Resin, Hardener, Primer, dan Topcoat
-- `EPX-15-08` → `/artikel/red-flag-produk-epoxy-tanpa-data.html` — Red Flag Produk Epoxy Palsu, Repack, atau Tanpa Data
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk pemeriksaan istilah pada label dan bentuk kemasan, Anda dapat membandingkannya dengan [format cat epoxy yang tersedia](/format-cat-epoxy.html). Jangan menjadikan halaman format sebagai pengganti TDS atau persetujuan produk yang sedang diterima.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menghapus label lama lalu menulis “epoxy” di wadah baru. Tindakan itu memutus identitas produk dan membuat tanggal, batch, serta pasangan komponennya tidak dapat dibuktikan. Gunakan label tambahan yang mempertahankan informasi asli; jangan menimpa label pabrik.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menaruh semua wadah di satu rak lalu mengambil yang paling mudah dijangkau. Rak bersama dapat menyamarkan perbedaan komponen dan batch. Beri zona, kartu lokasi, dan penanda fisik yang membuat resin dan pengeras tidak tertukar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mencampur sisa dari dua kemasan agar tidak ada bahan terbuang. Sisa yang asal-usul atau tanggal bukanya berbeda harus tetap terpisah sampai ada instruksi produk dan persetujuan teknis. Penghematan kecil tidak sebanding dengan hilangnya jejak batch.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap bahan yang mengeras berarti seluruh prosesnya aman atau selesai. Bahan yang belum tercampur, campuran, dan bahan yang sudah mengeras memiliki penanganan berbeda. Untuk sisa, tumpahan, atau kemasan terkontaminasi, identifikasi alirannya dan ikuti rute lingkungan yang berlaku; jangan membuat klasifikasi limbah dari nama resin saja.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kalau ada yang ingin langsung memakai bahan lama
 
-## Draft completion checklist
+“Selama belum lewat tanggal, pakai saja” terdengar praktis. Masalahnya, tanggal itu berlaku bersama kondisi penyimpanan dan identitas produk yang ditetapkan produsen. Bahan yang pernah terpapar kondisi menyimpang atau kehilangan label tidak dapat dipulihkan statusnya hanya dengan melihat warna atau mencium baunya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jelaskan keputusan dengan bukti yang mudah diperiksa: foto label, kartu stok, rekaman suhu, kondisi kemasan, dan dokumen TDS/SDS. Bila semuanya cocok, minta pelaksana mencatat batch sebelum membuka wadah. Bila tidak, gunakan status karantina dan minta keputusan penanggung jawab teknis atau pemasok. Sobat Epoxy.co.id, menahan satu kemasan untuk klarifikasi adalah keputusan mutu, bukan kegagalan memenuhi target harian.
+
+## Kesimpulan: aturan operasi yang bisa dipakai besok
+
+Shelf life, penyimpanan, dan kontrol batch epoxy bekerja sebagai satu rantai. Baca label dan dokumen, simpan sesuai kondisi yang ditentukan, pisahkan komponen serta batch, keluarkan stok yang tertua hanya setelah lolos pemeriksaan, dan karantina setiap kemasan yang identitas atau kondisinya meragukan.
+
+Besok, mulailah dari rak yang paling sering dipakai: cocokkan empat data pada setiap wadah, perbarui kartu stok, dan buat daftar karantina yang dapat dilihat pelaksana. Jika ada gangguan suhu, kerusakan, atau data produk yang hilang, jangan menebak masa simpan; minta verifikasi tertulis. Itulah batas aman keputusan gudang sampai bukti teknis dan persetujuan proyek tersedia.
