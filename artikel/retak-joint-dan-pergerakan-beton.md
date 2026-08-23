@@ -2,8 +2,9 @@
 article_id: EPX-04-05
 title: "Retak, Joint, dan Pergerakan Beton Sebelum Epoxy"
 slug: "retak-joint-dan-pergerakan-beton"
-description: "Distinguish crack/joint observations, movement evidence, mapping, and specialist triggers"
-status: outline
+description: "Cara membedakan retak, sambungan, dan gerak beton agar keputusan sebelum epoxy tidak menutup masalah yang belum dipahami."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,23 @@ final_route: "/artikel/retak-joint-dan-pergerakan-beton.html"
 technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Epoxy.co.id!
 
 # Retak, Joint, dan Pergerakan Beton Sebelum Epoxy
 
-## Assignment lock
+Lantai beton yang tampak memiliki garis belum otomatis berarti “tinggal ditutup epoxy”. Garis itu bisa berupa retak pada beton, joint yang memang sengaja dibuat untuk mengakomodasi perubahan, atau tanda dua bagian beton sedang bergerak relatif. Keputusan pertama bukan memilih resin, melainkan memastikan apa yang sebenarnya terlihat dan apakah garis itu berubah.
 
-- **Writer task:** Expand this file into one complete article answering: “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”
-- **Reader and situation:** Owner with visible cracks or joints
-- **Reader outcome:** Distinguish crack/joint observations, movement evidence, mapping, and specialist triggers
-- **Primary intent:** Classify movement risks
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes epoxy crack repair method owned by EPX-11-02
-- **Final public route:** `/artikel/retak-joint-dan-pergerakan-beton.html`
-- **Appointed CMS date:** `2025-06-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: petakan garis, amati perubahan terhadap waktu dan kondisi, lalu tahan pekerjaan bila ada bukti gerak atau penyebab yang belum jelas. Lapisan epoxy dapat menyamarkan gejala untuk sementara, tetapi tidak mengubah mekanisme beton yang masih bergerak. Artikel ini membantu Anda membedakan pengamatan, bukti pergerakan, urutan pemeriksaan, dan kapan perlu keputusan kompeten; metode perbaikan retaknya sendiri berada di luar bahasan ini.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Retak, Joint, dan Pergerakan Beton Sebelum Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,152 +43,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-14
-
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-21
-
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Dated survey/test plan and competent substrate/structural decision
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/berita/proses-pengecatan-epoxy-pada-beton` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/injeksi-beton-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-04-03` → `/artikel/beton-baru-siap-dilapisi-epoxy.html` — Beton Baru: Kapan Siap Dilapisi Epoxy?
-- `EPX-04-04` → `/artikel/kontaminan-substrat-sebelum-epoxy.html` — Minyak, Lemak, Silikon, dan Kontaminan pada Substrat
-- `EPX-04-06` → `/artikel/menilai-coating-lama-sebelum-recoat.html` — Menilai Cat atau Coating Lama Sebelum Recoat
-- `EPX-04-07` → `/artikel/epoxy-pada-kayu-logam-keramik-aspal.html` — Apakah Epoxy Bisa untuk Kayu, Logam, Keramik, atau Aspal?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian ini penting karena mata sering menyamakan semua garis sebagai retak. Kita akan memisahkan apa yang bisa dilihat, apa yang perlu dicatat, dan apa yang belum boleh disimpulkan.
 
-## Saringan risiko langsung
+Mulailah dengan peta sederhana: tandai lokasi garis pada denah atau foto berpenanda, catat panjang dan arah secara konsisten, serta tulis apakah garis berada di tengah bidang, mengikuti pertemuan dua pengecoran, atau berhenti di tepi bukaan. Catat tanggal, kondisi basah-kering, beban yang sedang bekerja, dan apakah permukaan di kedua sisi berbeda tinggi. Foto tanpa skala membantu mengingat lokasi, tetapi tidak cukup untuk membuktikan perubahan.
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Retak adalah pemisahan atau celah pada beton; joint adalah sambungan yang dirancang atau terbentuk untuk memisahkan bagian dan memberi ruang bagi perubahan. Keduanya bisa tampak serupa setelah lantai kotor. Karena itu, jangan menulis “retak struktural” hanya dari foto. Tulis dulu “garis pada lokasi X, terlihat pada tanggal Y, kondisi Z”, kemudian cari bukti gerak.
 
-## Kemungkinan mekanisme
+Sebuah garis yang melebar, menyempit, bergeser, atau menunjukkan perbedaan tinggi setelah suhu, kelembapan, atau beban berubah lebih mengkhawatirkan daripada garis yang stabil. Namun satu kali pengamatan tidak bisa menentukan sebab. Kawan Epoxy.co.id, keputusan yang aman adalah memperlakukan perubahan sebagai pertanyaan yang harus diuji, bukan sebagai diagnosis yang sudah selesai.
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Saringan risiko sebelum pekerjaan diteruskan
+
+Sebelum alat persiapan masuk, pembaca perlu tahu tanda apa yang membuat pekerjaan dibatasi. Bagian ini mencegah tim mengejar jadwal sambil menutup bukti yang mungkin penting.
+
+Batasi akses dan minta pemeriksaan kompeten bila ada gerak yang terukur, perbedaan elevasi yang bertambah, retak yang melintasi elemen penting, rembesan aktif, beton rapuh, atau fungsi ruang menuntut kepastian khusus. Bila struktur, beban, atau keselamatan pengguna terlibat, artikel ini tidak menggantikan keputusan insinyur atau penanggung jawab proyek. Simpan peta dan catatan agar pemeriksa menerima urutan kejadian, bukan hanya permukaan setelah dibersihkan.
+
+Pergerakan juga dapat memengaruhi sambungan lama yang tampak “rapi”. Menutup joint aktif tanpa rencana dapat membuat lapisan di atasnya mengalami tegangan yang tidak terlihat saat aplikasi. Jadi, tahan persetujuan bidang sampai status setiap garis—stabil, bergerak, atau belum diketahui—ditulis jelas.
+
+## Kemungkinan mekanisme yang perlu dibedakan
+
+Garis yang sama dapat berasal dari mekanisme berbeda. Kita tidak akan menebak penyebab dari bentuk saja, tetapi menghubungkan gejala dengan pertanyaan pemeriksaan yang tepat.
+
+Penyusutan dan perubahan suhu dapat menghasilkan celah yang berubah perlahan ketika kondisi lingkungan berubah. Sambungan konstruksi atau sambungan muai memang memisahkan bidang beton; tanda khasnya adalah garis yang mengikuti batas pengecoran atau detail sambungan. Penurunan setempat, beban, atau perubahan dukungan dapat membuat dua sisi berbeda tinggi. Air dan uap dari bawah slab dapat mengganggu persiapan dan lapisan, meski tidak selalu tampak sebagai retak.
+
+Untuk kelembapan, metode pengukuran harus mengikuti rencana dan kriteria produk/proyek. [NEEDS TOPIC-GATE: keputusan akhir memerlukan survei bertanggal, penilaian sumber kelembapan, rencana uji terkalibrasi, serta peninjauan kompeten.] [ASTM F2170](https://store.astm.org/standards/f2170) menjelaskan ruang lingkup metode kelembapan relatif *in situ*; satu pembacaan tidak memetakan seluruh slab atau menjamin perilaku masa depan. Karena itu, cocokkan lokasi dan kondisi pengujian dengan area yang hendak dilapisi, bukan dengan titik yang paling mudah diukur.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang baik mengurangi pekerjaan ulang: mulai dari observasi yang aman, lanjutkan ke bukti material, dan baru pilih pengujian yang merusak bila manfaat informasinya sepadan.
+
+Pertama, buat peta garis, foto berskala, dan catatan perubahan. Kedua, telusuri sejarah slab: kapan dicor, sambungan apa yang direncanakan, pekerjaan atau beban apa yang berubah, serta kapan garis pertama terlihat. Ketiga, periksa kondisi permukaan, kontaminasi, lapisan lemah, debu, dan tepi garis. Pedoman ICRI 310.2R menempatkan pembersihan, penghilangan lapisan lemah, profil, detail retak/joint, pengendalian debu, dan verifikasi sebagai tugas yang berbeda; satu mesin bukan jawaban untuk semuanya ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [pengantar ICRI](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
+
+Setelah itu, susun rencana kelembapan dan pemeriksaan kekuatan atau profil sesuai sistem yang dipertimbangkan. Uji adhesi tarik, misalnya, bersifat merusak dan hasilnya perlu dibaca bersama lokasi serta mode kegagalan—lem, lapisan, antarmuka, atau beton—bukan sebagai satu angka yang berdiri sendiri ([ASTM D7234](https://store.astm.org/d7234-21.html)). Tandai titik uji dan siapkan cara menutupnya kembali; jangan mengambil sampel acak lalu menganggap area lain identik.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan menjawab pertanyaan tertentu, bukan semua pertanyaan sekaligus. Bagian ini membantu Anda memisahkan data, kriteria, sebab, dan keputusan.
+
+Jika peta menunjukkan garis tetap, itu mendukung keputusan berbeda dari garis yang berubah, tetapi tidak otomatis menyatakan joint boleh ditutup. Jika kelembapan memenuhi kriteria produk pada titik dan kondisi yang benar, itu hanya menjawab aspek kelembapan pada lokasi tersebut. Jika uji adhesi gagal di beton, masalahnya berbeda dari kegagalan di antarmuka lapisan. Catat metode, kondisi, lokasi, dan batas interpretasi setiap hasil.
+
+Jangan menyamakan nama “epoxy bonding” dengan izin memperbaiki semua retak. ASTM C881/C881M membahas sistem perekat untuk beton, sementara desain dan pelaksanaan perbaikan memiliki pertimbangan sebab, gerak, beban, geometri, kompatibilitas, serta inspeksi. ISO 16311-3 dan ISO 16311-4 memisahkan keputusan desain dan pelaksanaan; keduanya tidak memberi resep universal untuk proyek Anda ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3](https://www.iso.org/standard/79787.html), [ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Retak, Joint, dan Pergerakan Beton Sebelum Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sesudah bukti terkumpul, tindakan harus mengikuti status garis, bukan keinginan menutup lantai secepatnya. Di sini Anda memilih menunggu, memantau, atau meminta keputusan ahli.
 
-## Objection or shortcut to address
+Garis yang belum terklasifikasi mendapat tindakan sementara: lindungi area, hentikan persiapan yang dapat menghapus bukti, dan jadwalkan survei. Garis yang dipetakan stabil dapat masuk ke pembahasan persiapan permukaan dan detail sambungan, dengan persetujuan proyek yang jelas. Garis yang bergerak, berdampak pada elevasi, atau terkait beban perlu diagnosis dan desain yang bertanggung jawab sebelum pekerjaan pelapisan diteruskan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk langkah persiapan umum, Anda dapat membaca [proses pengecatan epoxy pada beton](/berita/proses-pengecatan-epoxy-pada-beton), tetapi halaman itu tidak menggantikan keputusan tentang gerak beton. Jika kebutuhan Anda memang mengarah ke penanganan injeksi, rute layanan seperti [injeksi beton Yogyakarta](/injeksi-beton-yogyakarta) membantu menjelaskan konteks layanan; metode, produk, dan penerimaan tetap harus ditetapkan dari data proyek.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih pemilik
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Isi garis dengan bahan yang ada, amplas, lalu lapisi epoxy” terdengar hemat waktu. Jalan pintas itu gagal ketika garis ternyata joint aktif atau kelembapan dan dukungan di bawahnya masih berubah. Lapisan baru menutupi tanda, sehingga pemeriksaan berikutnya menjadi lebih sulit dan biaya koreksi dapat muncul setelah ruang kembali dipakai.
 
-## Draft completion checklist
+Teman Epoxy.co.id, alternatif yang lebih dapat dipertanggungjawabkan adalah menunda bidang yang meragukan, menyimpan peta sebelum dan sesudah pembersihan, lalu meminta kriteria tertulis: bukti gerak apa yang diterima, siapa yang menyetujui, uji apa yang diperlukan, dan bagaimana titik uji atau cacat ditutup kembali. Jangan menerima foto akhir sebagai bukti bahwa penyebab telah selesai.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: putuskan status garis sebelum memilih lapisan
+
+Retak, joint, dan pergerakan beton bisa tampak sama, tetapi keputusan sebelum epoxy bergantung pada klasifikasi dan bukti perubahannya. Petakan lokasi, catat waktu dan kondisi, nilai kelembapan serta keadaan permukaan dengan metode yang sesuai, lalu pisahkan garis stabil dari garis yang bergerak atau belum diketahui.
+
+Langkah Anda sekarang adalah mengumpulkan peta bertanggal, sejarah slab, hasil pemeriksaan yang dapat ditelusuri, dan kriteria persetujuan. Bila ada gerak, perbedaan tinggi, rembesan, atau konsekuensi struktural, tahan pelapisan dan minta keputusan kompeten. Aturan operasionalnya sederhana: jangan gunakan epoxy untuk menyembunyikan pertanyaan yang belum terjawab.
