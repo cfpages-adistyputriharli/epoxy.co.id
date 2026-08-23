@@ -2,8 +2,9 @@
 article_id: EPX-06-05
 title: "Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak"
 slug: "joint-pada-lantai-epoxy"
-description: "Explain isolation, construction, contraction, and moving-joint decisions without promising crack bridging"
-status: outline
+description: "Panduan mengenali joint lantai yang perlu tetap bergerak agar keputusan sistem epoxy tidak menutup masalah beton."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,96 @@ final_route: "/artikel/joint-pada-lantai-epoxy.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak
 
-## Assignment lock
+Halo, Teman Epoxy.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”
-- **Reader and situation:** Designer seeing slab joints and cracks
-- **Reader outcome:** Explain isolation, construction, contraction, and moving-joint decisions without promising crack bridging
-- **Primary intent:** Design joint treatment
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes crack repair products owned by EPX-11-02
-- **Final public route:** `/artikel/joint-pada-lantai-epoxy.html`
-- **Appointed CMS date:** `2025-08-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat melihat garis sambungan pada pelat beton, banyak orang langsung menganggapnya retak yang harus ditutup rapat sebelum lantai diberi epoxy. Padahal garis itu bisa merupakan sambungan pemisah, sambungan pelaksanaan, atau sambungan susut yang memang dibuat untuk mengatur gerak beton. Menutup semuanya dengan bahan kaku dapat memindahkan gerakan ke lapisan epoxy dan membuat lapisan itu retak atau terangkat.
 
-## Opening instructions
+Jawaban singkatnya: joint yang memisahkan elemen, menerima gerakan, atau sengaja memandu susut harus tetap memiliki fungsi gerak; joint yang hanya menjadi batas pengecoran dapat diperlakukan berbeda setelah kondisi dan detailnya diperiksa. Keputusan tidak boleh dibuat dari tampilan garis saja. Anda perlu mencocokkan gambar struktur, kedalaman dan lebar joint, kondisi kedua sisi, pola retak, paparan air atau bahan kimia, serta sistem epoxy yang benar-benar disetujui.
 
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Artikel ini membantu Anda membedakan jenis joint, memahami apa yang bergerak, dan menyusun pertanyaan untuk tim proyek. Pembahasan ini tidak mencakup produk perbaikan retak yang menjadi bahasan tersendiri; fokusnya adalah perlakuan joint pada lantai epoxy tanpa menjanjikan lapisan epoxy dapat menjembatani retak.
 
+![Ilustrasi epoxy lantai 3d 3](/wp-content/uploads/2021/02/epoxy-lantai-3d-3.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.*
+
+## Bedakan joint pemisah, joint pelaksanaan, dan joint susut
+
+Sebelum memilih bahan pengisi, pastikan dulu garis yang Anda lihat punya pekerjaan apa. Bagian ini mencegah kekeliruan umum: menyebut semua garis sebagai retak lalu memakai satu solusi untuk semuanya.
+
+Joint pemisah (isolation joint) memisahkan pelat dari kolom, dinding, pedestal, atau elemen lain yang dapat bergerak berbeda. Celahnya memungkinkan elemen-elemen itu memuai, menyusut, atau mengalami penurunan relatif tanpa mendorong pelat secara langsung. Jika celah ini diisi kaku sampai menyentuh dua elemen, fungsi pemisahnya hilang.
+
+Joint pelaksanaan (construction joint) muncul ketika pengecoran berhenti lalu dilanjutkan. Permukaan pertemuannya bisa menjadi bidang lemah atau sambungan yang harus mentransfer gaya sesuai rancangan. Apakah ia boleh ditutup penuh, diberi sealant, atau diberi detail lain bergantung pada struktur, lalu lintas, dan paparan di atasnya; nama joint saja belum cukup untuk memilih perlakuan.
+
+Joint susut (contraction joint) dibuat untuk mengendalikan lokasi retak ketika beton menyusut. Garis potong atau alur itu mungkin tampak tipis, tetapi gerakan kecil yang berulang tetap perlu ditampung. Teman Epoxy.co.id, tanyakan apakah garis tersebut tercantum dalam gambar atau dibuat sebagai pola pengendalian susut sebelum menganggapnya cacat.
+
+## Apa yang sebenarnya harus tetap bergerak?
+
+Setelah jenis awalnya dikenali, pertanyaan berikutnya bukan “epoxy apa yang paling kuat?”, melainkan “gerakan apa yang harus disediakan ruangnya?”. Jembatan yang terlalu kaku dapat terlihat rapi saat pemasangan, tetapi tidak menyelesaikan perbedaan gerak di bawahnya.
+
+Pada joint pemisah, dua sisi dapat bergerak saling menjauh atau mendekat. Pada joint susut, bukaan dapat berubah saat beton kehilangan kelembapan dan saat suhu berubah. Pada joint pelaksanaan, gerakan mungkin kecil, namun lalu lintas roda, getaran, atau penurunan setempat dapat membuat tepinya bekerja berbeda. Mekanisme ini menjelaskan mengapa bahan pengisi elastis, batang penyangga, atau profil pelindung—bila memang disyaratkan—dipilih berdasarkan detail, bukan sekadar label “fleksibel”.
+
+Contoh sederhana: sebuah lantai mengelilingi pedestal mesin. Jika lapisan epoxy menerus melewati celah antara pedestal dan pelat, getaran pedestal dapat menarik lapisan pada garis kelilingnya. Pemeriksaan lapangan harus melihat apakah celah masih terbuka sesuai rancangan, apakah tepinya hancur, dan apakah lapisan lama sudah mengunci kedua sisi.
+
+Jangan menjadikan hasil uji abrasi sebagai bukti bahwa lapisan akan mengikuti gerak joint. [ASTM D4060](https://store.astm.org/d4060-19.html) menjelaskan metode abrasi dengan kondisi pengujian tertentu; bahan pengikis, beban, jumlah putaran, benda uji, ketebalan, dan cara evaluasi memengaruhi arti hasilnya. Itu tidak otomatis membuktikan ketahanan terhadap gerakan beton atau umur layanan seluruh lantai.
+
+## Urutan pemeriksaan sebelum joint dilapisi
+
+Bagian ini mengubah konsep menjadi urutan kerja yang dapat ditelusuri. Tujuannya bukan memberi resep universal, melainkan memastikan keputusan lapisan didasarkan pada bukti yang bisa diperiksa ulang.
+
+Mulailah dengan dokumen: gambar struktur, detail joint, perubahan desain, dan catatan perbaikan sebelumnya. Tandai apakah garis itu berhenti di tepi pelat, mengelilingi elemen, atau menerus ke area lain. Bila dokumen tidak tersedia, catat sebagai ketidakpastian, bukan menebak jenis joint dari lebar garis.
+
+Berikutnya, petakan kondisi fisik kedua sisi. Ukur lebar bukaan pada beberapa titik, amati perbedaan elevasi, tepi yang rontok, kelembapan, noda minyak, dan jejak pergerakan. Foto dengan skala dan catatan lokasi membantu membedakan bukaan yang seragam dari retak acak, tetapi foto tidak menggantikan pemeriksaan struktur.
+
+Lalu cocokkan tuntutan operasi: jalur forklift, roda keras, pencucian, tumpahan, suhu, dan kebutuhan kebersihan. Faktor lingkungan, lalu lintas, abrasi, bahan kimia, air, akses perawatan, serta joint dan gerakan adalah masukan yang terpisah ketika menyusun sistem pelindung; satu data material tidak dapat mewakili semuanya. Jika lantai berada dalam bangunan yang diatur, persyaratan keselamatan, aksesibilitas, kebersihan, operasi, dan persetujuan lokal tetap berlaku di luar produk coating, sebagaimana kerangka bangunan pada [PP Nomor 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021).
+
+Terakhir, minta matriks persyaratan proyek dan sistem epoxy yang ditawarkan. Matriks itu seharusnya menyebut detail joint, bahan pengisi atau profil, persiapan tepi, urutan pemasangan, waktu buka area, pemeriksaan, dan batas klaim. [NEEDS TOPIC-GATE: matriks persyaratan proyek serta sistem yang diuji dan disetujui belum tersedia di paket ini; jangan menetapkan detail, ketebalan, atau metode pengisian sebagai persyaratan umum.]
+
+## Empat keputusan detail yang sering tertukar
+
+Pembaca biasanya tidak memilih satu bahan, melainkan memilih kombinasi: joint dibiarkan terbuka, diisi bahan yang dapat berubah bentuk, diberi penutup/profil, atau diberi lapisan transisi pada sisi tertentu. Setiap pilihan punya konsekuensi yang harus dibaca bersama kondisi lapangan.
+
+Jika joint harus tetap menjadi celah, lapisan epoxy dihentikan di kedua tepi dan detail tepi dilindungi sesuai rancangan. Hasilnya mungkin tidak tampak seperti lantai tanpa garis, tetapi fungsi gerak tetap terbaca dan dapat dirawat. Tanyakan bagaimana air, kotoran, dan roda akan ditangani tanpa mengunci kedua sisi.
+
+Jika joint memerlukan bahan pengisi lentur, periksa apakah bahan itu menempel pada sisi yang benar dan tidak melekat pada dasar yang seharusnya memberi ruang gerak. Lebar, kedalaman, bentuk dasar, waktu pemasangan, dan kompatibilitas dengan epoxy harus berasal dari data sistem yang disetujui. Jangan mengubah ukuran di lapangan hanya agar garis terlihat rata.
+
+Jika ada perbedaan elevasi atau benturan roda, profil pelindung dapat menjadi bagian dari detail. Profil itu mengelola tepi dan beban roda; ia tidak mengubah joint bergerak menjadi sambungan kaku. Pada area dengan bahan kimia atau pencucian, periksa pula jalur cairan dan kemampuan perawatan, bukan hanya tampilan permukaannya.
+
+Sobat Epoxy.co.id, ketika seseorang menawarkan “epoxy fleksibel yang menutup semua retak”, minta definisi pengujian dan batas aplikasinya. Tanpa data joint, gerakan, dan kondisi servis yang cocok, klaim tersebut tidak cukup untuk menyimpulkan lapisan akan menjembatani retak di proyek Anda.
+
+## Skenario keputusan di meja desain
+
+Bayangkan denah gudang memiliki garis melingkar di sekeliling kolom dan garis lurus berulang melintasi bidang lantai. Garis melingkar lebih dulu diperiksa sebagai kandidat joint pemisah; garis berulang dibandingkan dengan pola joint susut dan urutan pengecoran. Keduanya tidak boleh otomatis diberi detail yang sama.
+
+Untuk garis melingkar, keputusan awal biasanya menjaga pemisahan dari kolom lalu memastikan roda tidak menghantam tepi yang rapuh. Untuk garis berulang, tim memeriksa apakah bukaan berubah dan apakah transfer beban diperlukan. Jika gambar struktur, kondisi tepi, atau tuntutan roda belum jelas, keputusan desain ditahan sampai data itu tersedia.
+
+Contoh lain adalah lantai yang akan dicuci dengan air dan deterjen. Joint yang bergerak perlu memiliki rencana pembersihan dan inspeksi; bahan kimia, konsentrasi, waktu kontak, suhu, serta cara evaluasi menentukan arti klaim ketahanan. Jangan menyamakan hasil uji bahan dengan bukti bahwa seluruh detail joint aman dipakai pada kondisi pencucian Anda.
+
+Untuk tindak lanjut, Anda dapat melihat contoh konteks pekerjaan lantai pada [halaman epoxy lantai Tegal](/epoxy-lantai-tegal.html) dan [halaman epoxy lantai Tebingtinggi](/epoxy-lantai-tebingtinggi.html), tetapi jangan menganggap halaman layanan itu sebagai pengganti gambar struktur atau persetujuan detail proyek.
+
+## Kesalahan praktis yang perlu dihentikan
+
+Kesalahan pertama adalah menggerinda atau mengisi semua garis sebelum memetakan jenisnya. Tindakan cepat itu menghapus bukti dan bisa mengunci elemen yang seharusnya bergerak. Tahan pekerjaan pada area tersebut, beri kode lokasi, dan minta penetapan jenis joint dari pihak yang berwenang.
+
+Kesalahan kedua adalah memilih sealant dari warna atau harga saja. Warna membantu visual, tetapi tidak menjawab gerakan, paparan, daya lekat, perawatan, atau beban roda. Minta lembar data produk, batas penggunaan, dan detail pemasangan yang cocok dengan sistem epoxy yang disetujui.
+
+Kesalahan ketiga adalah menyebut joint sudah “aman” karena permukaan terlihat mulus. Kemulusan hanya pemeriksaan visual; ia tidak membuktikan bukaan, adhesi, transfer beban, atau kesesuaian terhadap operasi. Catat pemeriksaan tepi, ukuran bukaan, foto berskala, dan siapa yang menyetujui keputusan.
+
+Kesalahan terakhir adalah menyamakan persyaratan bangunan dengan janji produk. Peraturan bangunan menempatkan lantai sebagai bagian dari sistem bangunan dan operasinya, bukan sekadar lapisan cat. Karena itu, detail joint harus dibaca bersama persyaratan proyek dan tinjauan teknis, bukan diturunkan dari nama produk.
+
+## Penutup: garis yang bergerak harus diberi ruang
+
+Jadi, joint yang memisahkan elemen atau mengendalikan susut tidak boleh dipaksa menjadi garis kaku hanya demi tampilan tanpa sambungan. Joint pelaksanaan pun perlu diperiksa mekanismenya sebelum diputuskan akan ditutup, diberi bahan lentur, atau dilindungi profil. Epoxy melindungi permukaan; ia tidak menghapus gerakan beton dan tidak otomatis menjembatani retak.
+
+Sebelum pekerjaan dimulai, buat satu lembar daftar joint berisi lokasi, dugaan jenis, bukti gambar, kondisi tepi, gerakan yang mungkin terjadi, paparan, detail yang ditawarkan, serta pihak yang menyetujui. Jika salah satu kolom belum terisi, tandai `[NEEDS TOPIC-GATE: detail joint dan sistem epoxy menunggu matriks persyaratan serta persetujuan teknis]` dan jangan menutup garis itu berdasarkan perkiraan.
+
+Kawan Epoxy.co.id, aturan operasionalnya sederhana: jangan bertanya “bahan apa yang menutup semua joint?”, tetapi “gerakan apa yang harus tetap tersedia, dan bukti apa yang mengizinkan detail ini?”. Jawaban yang dapat ditelusuri itulah dasar lantai epoxy yang bisa dirawat tanpa menyamarkan masalah beton.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-011`
@@ -68,145 +116,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy lantai 3d 3` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-011]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-04
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
-
-### KR-09
-
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
-
-### KR-10
-
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-20
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Project requirement matrix and exact tested/approved offered system
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/epoxy-lantai-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-06-03` → `/artikel/menyusun-build-up-sistem-epoxy.html` — Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat
-- `EPX-06-04` → `/artikel/memilih-tekstur-epoxy.html` — Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih
-- `EPX-06-06` → `/artikel/warna-dan-zoning-epoxy.html` — Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas
-- `EPX-06-07` → `/artikel/epoxy-untuk-suhu-dan-thermal-shock.html` — Epoxy untuk Area Panas, Dingin, dan Thermal Shock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

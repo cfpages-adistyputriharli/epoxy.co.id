@@ -2,8 +2,9 @@
 article_id: EPX-06-07
 title: "Epoxy untuk Area Panas, Dingin, dan Thermal Shock"
 slug: "epoxy-untuk-suhu-dan-thermal-shock"
-description: "Translate service and cleaning temperatures, cycling, substrate movement, and product evidence into selection questions"
-status: outline
+description: "Panduan menyaring paparan panas, dingin, perubahan suhu, gerak substrat, dan bukti produk sebelum memilih sistem epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,88 @@ reader_address: "Kawan Epoxy.co.id"
 final_route: "/artikel/epoxy-untuk-suhu-dan-thermal-shock.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
+  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy untuk Area Panas, Dingin, dan Thermal Shock
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Di fasilitas makanan atau proses, lantai bisa menerima air panas saat pencucian, suhu ruang yang berubah, cipratan bahan dingin, lalu kembali dilalui troli. Pertanyaan “epoxy ini tahan berapa derajat?” terdengar sederhana, tetapi angka tunggal sering membuat orang memilih sistem yang keliru.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”
-- **Reader and situation:** Food/process facility engineer
-- **Reader outcome:** Translate service and cleaning temperatures, cycling, substrate movement, and product evidence into selection questions
-- **Primary intent:** Screen temperature exposure
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes cold-room use-case plan owned by EPX-08-05
-- **Final public route:** `/artikel/epoxy-untuk-suhu-dan-thermal-shock.html`
-- **Appointed CMS date:** `2025-09-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih epoxy berdasarkan pola paparan nyata—suhu layanan, suhu dan cara pembersihan, seberapa cepat perubahan terjadi, gerakan substrat, serta bukti pengujian sistem yang benar-benar ditawarkan. Jangan menganggap satu angka pada brosur otomatis membuktikan ketahanan lantai terpasang. [NEEDS TOPIC-GATE: Minta matriks kebutuhan proyek dan sistem yang diuji atau disetujui sebelum keputusan akhir.]
 
-## Opening instructions
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy untuk Area Panas, Dingin, dan Thermal Shock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.*
 
+## Suhu maksimum bukan satu-satunya pertanyaan
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sebelum melihat merek, catat apa yang benar-benar dialami lantai. Bagian ini membantu Anda membedakan panas yang menetap dari kejutan suhu agar permintaan penawaran tidak berhenti pada kata “tahan panas”.
+
+Bayangkan lantai di dekat area pengisian cairan panas. Selama produksi, permukaannya mungkin hangat stabil. Saat dicuci, air bersuhu berbeda menyentuh permukaan dalam waktu singkat. Dua kejadian itu sama-sama disebut panas, tetapi beban mekanisnya berbeda.
+
+Perubahan mendadak tersebut sering disebut *thermal shock*, yaitu kejutan termal: permukaan dan lapisan di bawahnya mengembang atau menyusut dengan laju yang tidak sama. Akibatnya, tegangan dapat terkumpul di lapisan, retak rambut bisa terbuka, atau bagian yang lemah terangkat. Mekanisme ini tidak dapat dinilai dari suhu puncak saja.
+
+Sederhananya, buat catatan empat kolom: suhu operasi, suhu pembersihan, kecepatan perubahan, dan durasi paparan. Tambahkan lokasi genangan, arah aliran air, serta apakah troli atau roda melewati area ketika permukaan masih panas atau dingin. Catatan tersebut menjadi pertanyaan teknis yang bisa dijawab pemasok, bukan sekadar janji pemasaran.
+
+## Batas pembahasan: area proses, bukan rencana ruang beku
+
+Pembaca sering mencampur semua kondisi dingin menjadi satu. Di sini kita membahas penyaringan paparan suhu pada area proses dan pencucian; rencana penggunaan ruang beku adalah topik terpisah yang tidak dibahas pada artikel ini.
+
+Batas itu penting karena ruang beku memiliki pola kelembapan, kondensasi, sambungan, dan prosedur operasi yang dapat berbeda. Jangan menyalin keputusan dari artikel ini ke ruang beku tanpa dokumen sistem dan persetujuan proyek yang sesuai. Untuk pilihan keluarga material, Anda dapat membandingkan penjelasan [lapisan epoxy-poliuretan](/format-epoxy-pu-coating.html) dan [kategori epoxy](/format-cat-epoxy.html), lalu kembali ke matriks paparan suhu Anda.
+
+## Mengapa perubahan suhu bisa merusak lapisan
+
+Di bawah lapisan, ada beton, primer, lapisan antara, dan lapisan akhir. Masing-masing memiliki perilaku gerak dan penyerapan yang berbeda. Ketika permukaan menerima panas atau dingin, bagian atas berubah lebih cepat daripada bagian yang lebih dalam. Jika perbedaan gerak itu tidak tertampung, tegangan berpindah ke bidang lekat atau retakan yang sudah ada.
+
+Kecepatan perubahan menentukan seberapa besar perbedaan tersebut. Permukaan yang turun perlahan memberi waktu bagi sistem untuk menyesuaikan; siraman mendadak memberi waktu lebih sedikit. Sambungan konstruksi, retak aktif, atau beton yang masih menyimpan kelembapan dapat menjadi titik lemah yang terlihat setelah siklus berulang.
+
+Karena itu, pemeriksaan awal harus menanyakan kondisi substrat, bukan hanya data resin. Periksa retak dan sambungan, ukur atau minta bukti kondisi kelembapan sesuai metode proyek, dan pastikan perbaikan tidak mengunci gerakan yang memang harus tetap bergerak. Ketentuan umum bangunan tetap mencakup substrat, sistem lantai, operasi, higiene, dan keselamatan; lapisan coating tidak menggantikan persyaratan tersebut ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
+
+## Faktor yang mengubah hasil di lapangan
+
+Pertama, bedakan suhu layanan dan suhu pembersihan. Tanyakan suhu aktual di permukaan, bukan hanya suhu yang tertulis pada proses. Catat apakah bahan pembersih disemprot, dituangkan, atau dibiarkan menggenang, serta berapa lama sebelum dibilas.
+
+Kedua, hitung siklus. Satu kejadian mungkin tidak menunjukkan kerusakan, tetapi pengulangan panas-dingin dapat memperbesar retak kecil. Jadwalkan pengamatan pada titik yang menerima perubahan paling cepat, seperti dekat saluran, pintu proses, atau area pengisian.
+
+Ketiga, perhatikan gerak substrat dan sambungan. Lapisan yang kaku di atas sambungan bergerak memerlukan detail yang dirancang untuk gerakan itu. Jangan menutup sambungan hanya agar permukaan terlihat utuh; minta detail sambungan dan batas tanggung jawabnya.
+
+Keempat, cocokkan data uji dengan kondisi nyata. ASTM D4060 menjelaskan metode uji abrasi; arti hasilnya bergantung pada bahan pengaus, jumlah siklus, beban, benda uji, ketebalan, dan cara evaluasinya ([ASTM D4060](https://store.astm.org/d4060-19.html)). ASTM D1308 membahas pengaruh bahan kimia rumah tangga, sehingga konsentrasi, waktu, suhu, dan cara penilaian tetap harus dibaca bersama hasil uji ([ASTM D1308](https://store.astm.org/standards/d1308)). Tidak satu pun halaman metode tersebut membuktikan umur layanan, kebersihan, atau kinerja seluruh lantai Anda.
+
+## Mengubah kondisi menjadi pertanyaan pemilihan
+
+Mulailah dengan tabel kecil yang bisa dibawa saat rapat. Untuk tiap zona, tulis suhu normal dan ekstrem yang terukur, cara pencucian, jumlah siklus per hari atau minggu, beban roda, lokasi sambungan, serta konsekuensi bila lapisan gagal.
+
+Lalu minta pemasok menjawab pertanyaan yang sama untuk sistem lengkap: persiapan beton, primer, lapisan utama, lapisan penutup, ketebalan rencana, waktu pengerasan sebelum dicuci, dan detail sambungan. Minta bukti uji yang menyebut kondisi pengujian, bukan hanya kalimat “tahan thermal shock”. Jika bukti tidak menyebut kondisi yang mirip, tandai sebagai belum terverifikasi.
+
+Sobat Epoxy.co.id, keputusan yang baik bukan mencari angka suhu tertinggi, melainkan menemukan kecocokan antara siklus dan bukti. Bila pemasok menawarkan pengujian, tanyakan apakah benda uji mewakili susunan lapisan yang akan dipasang, bagaimana siklus panas-dingin dilakukan, dan kriteria kerusakannya. Jangan mengubah hasil satu kupon uji menjadi jaminan untuk seluruh area.
+
+## Contoh keputusan praktis
+
+Misalkan jalur pencucian menerima air panas setelah produksi, kemudian lantai dibilas dengan air yang jauh lebih sejuk. Anda tidak perlu langsung menyimpulkan sistem pasti gagal. Anda perlu mencatat urutan kejadian, jeda antar-langkah, area yang tergenang, dan apakah perubahan terjadi setiap shift.
+
+Jika perubahan berlangsung cepat dan berulang, minta desain sistem serta detail sambungan yang secara eksplisit menanggapi siklus tersebut. Jika perubahan berlangsung perlahan tetapi beban roda tinggi, pertanyaan abrasi dan perawatan mungkin lebih menentukan. Dua zona dengan suhu puncak sama dapat memerlukan keputusan berbeda karena siklus dan geraknya berbeda.
+
+Untuk membandingkan dua penawaran, samakan luas yang disurvei, persiapan dan perbaikan, ketebalan atau dasar pemakaian, akses dan waktu henti, pengujian, pengecualian, pajak, garansi, serta lingkup serah terima. Penawaran yang hanya menulis “epoxy tahan panas” belum dapat dibandingkan secara adil. Bila area memerlukan contoh detail pekerjaan, lihat konteks proyek seperti [epoxy PU concrete di Yogyakarta](/epoxy-pu-concrete-yogyakarta) sebagai rujukan jenis informasi yang perlu ditanyakan, bukan sebagai bukti bahwa kondisi fasilitas Anda sama.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah memilih berdasarkan angka suhu maksimum tanpa menanyakan cara pencucian. Periksa apakah angka tersebut berlaku untuk paparan terus-menerus, sesaat, atau kondisi laboratorium; minta lembar data dan batas aplikasinya.
+
+Kesalahan kedua adalah menganggap “chemical resistant” berarti aman untuk semua bahan pembersih. Minta nama bahan, konsentrasi, suhu, durasi, dan frekuensi yang diuji. Jika salah satunya berbeda, tulis perbedaan itu sebagai pertanyaan terbuka.
+
+Kesalahan ketiga adalah menutup retak atau sambungan agar pekerjaan cepat selesai. Tandai sambungan pada gambar lapangan, minta detail gerakan, dan sepakati siapa yang memeriksa sebelum lapisan ditutup.
+
+Kesalahan keempat adalah memakai hasil uji satu sifat sebagai bukti seluruh sistem. Abrasi, paparan kimia, daya lekat, licin, kebersihan, dan dampak adalah pertanyaan berbeda. Jangan menambahkan klaim yang tidak dijawab oleh metode uji.
+
+## Langkah akhir sebelum menyetujui sistem
+
+Teman Epoxy.co.id, bawa matriks paparan, foto atau catatan kondisi substrat, pola pencucian, dan penawaran lengkap ke rapat teknis. Minta pemasok menandai setiap jawaban sebagai didukung data, perlu uji tambahan, atau menunggu persetujuan profesional. Simpan versi dokumen agar perubahan suhu proses atau bahan pembersih tidak hilang dari catatan.
+
+Jadi, epoxy untuk area panas, dingin, dan kejutan termal dipilih dari pola layanan dan bukti sistem, bukan dari satu angka promosi. Tahan keputusan pada [NEEDS TOPIC-GATE: matriks kebutuhan proyek dan bukti sistem yang diuji/disetujui] bila data belum lengkap. Aturan operasinya sederhana: catat siklus nyata, cocokkan dengan susunan lapisan dan sambungan, lalu minta verifikasi teknis sebelum pemasangan atau perubahan proses.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,144 +107,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-04
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
-
-### KR-09
-
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
-
-### KR-10
-
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-20
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Project requirement matrix and exact tested/approved offered system
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-06-05` → `/artikel/joint-pada-lantai-epoxy.html` — Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak
-- `EPX-06-06` → `/artikel/warna-dan-zoning-epoxy.html` — Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas
-- `EPX-06-08` → `/artikel/decision-matrix-epoxy-retrofit.html` — Decision Matrix Epoxy untuk Retrofit Gedung Aktif
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Area Panas, Dingin, dan Thermal Shock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

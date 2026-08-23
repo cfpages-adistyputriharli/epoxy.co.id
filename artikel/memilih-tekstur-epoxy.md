@@ -2,8 +2,9 @@
 article_id: EPX-06-04
 title: "Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih"
 slug: "memilih-tekstur-epoxy"
-description: "Compare smooth, fine, and coarse textures by contamination, cleaning, footwear, and testing"
-status: outline
+description: "Panduan membandingkan tekstur epoxy halus, sedang, dan kasar berdasarkan kotoran, pembersihan, alas kaki, serta bukti pengujian."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,23 @@ final_route: "/artikel/memilih-tekstur-epoxy.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
   - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
+  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih
 
-## Assignment lock
+Halo, Teman Epoxy.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”
-- **Reader and situation:** Food, parking, or public-facility owner
-- **Reader outcome:** Compare smooth, fine, and coarse textures by contamination, cleaning, footwear, and testing
-- **Primary intent:** Balance slip and cleanability
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes slip test interpretation owned by EPX-03-07
-- **Final public route:** `/artikel/memilih-tekstur-epoxy.html`
-- **Appointed CMS date:** `2025-08-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pemilik dapur produksi, area parkir, atau fasilitas umum sering memilih antara epoxy halus yang mudah dipel dan epoxy bertekstur yang terasa lebih kesat. Permukaan terlalu halus dapat bermasalah saat terkena air atau minyak, sedangkan tekstur terlalu kasar dapat menahan kotoran dan memperpanjang pembersihan.
 
-## Opening instructions
+Jawaban singkatnya: pilih tekstur dari jenis kontaminan, cara membersihkan, alas kaki, kemiringan, dan bukti uji pada sistem yang ditawarkan. “Paling kasar” bukan otomatis paling aman, dan “mudah dibersihkan” bukan bukti kecocokan untuk semua operasi. [NEEDS TOPIC-GATE: Cocokkan matriks kebutuhan proyek dengan sistem epoxy yang diuji dan disetujui sebelum menetapkan tekstur.]
 
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Artikel ini membandingkan permukaan halus, berbutir halus, dan berbutir lebih kasar. Kita membahas cara memeriksa contoh, bukan menafsirkan hasil uji antiselip yang menjadi batas artikel lain.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,145 +43,52 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-04
+## Tekstur bukan sinonim keamanan atau kebersihan
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+Tekstur adalah bentuk ketidakrataan pada lapisan teratas. Halus lebih cepat disapu dan dipel karena sedikit tempat untuk residu. Butiran halus menambah rasa kesat tanpa pola dalam, sedangkan butiran kasar memberi cekungan yang bisa menahan tepung, pasir, lemak, atau serpihan.
 
-### KR-09
+Di area cuci, air, minyak, jenis sol, arah berjalan, dan kemiringan bekerja bersamaan. Foto permukaan kering tidak cukup. Koleksi standar pejalan kaki ASTM menekankan pengaruh kondisi basah-kering, kontaminasi, alas kaki, kemiringan, pembersihan, alat, dan tata cara uji terhadap hasil ([ASTM pedestrian walkway safety standards](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html)). Jadi, pertanyaan pertama adalah “kotoran apa yang harus dikendalikan dan bagaimana operator membersihkannya?”
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+## Membandingkan permukaan halus, berbutir halus, dan kasar
 
-### KR-10
+Kategori ini membantu percakapan dengan aplikator, bukan ukuran baku semua produk. Permukaan halus memberi jalur pembersihan sederhana, tetapi tidak banyak memberi gangguan mekanis saat ada cairan. Pilih hanya bila kontaminan dapat dikendalikan, lantai relatif datar, dan metode keselamatan proyek mendukungnya.
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Butiran halus sering menjadi kompromi untuk ruang yang memerlukan pijakan dan jadwal cuci rutin. Mintalah panel basah dan panel setelah simulasi pembersihan, lalu periksa apakah teksturnya seragam setelah mengeras. Tekstur kasar memiliki lebih banyak tonjolan, tetapi celahnya dapat menahan kotoran dan membuat roda kecil bergetar; gunakan hanya jika alat pembersih dan ketahanan sistem telah diuji.
 
-### KR-11
+## Mengapa pembersihan dan keausan mengubah hasil
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Saat sepatu menginjak permukaan, air atau minyak dapat mengisi lembah; sikat harus mengeluarkan residu, bukan memindahkannya. Pola yang tampak lebih “menggigit” dapat meningkatkan pekerjaan bila alat tidak cocok.
 
-### KR-20
+Metode abrasi seperti ASTM D4060 mengatur bahan penggosok, putaran, beban, benda uji, ketebalan, pengerasan, dan kriteria tertentu ([ASTM D4060](https://store.astm.org/d4060-19.html)). Hasilnya membandingkan metode yang sama, bukan jaminan umur pakai atau grip seluruh lantai. ASTM D1308 membahas pengaruh bahan kimia rumah tangga pada benda uji dengan paparan tertentu ([ASTM D1308](https://store.astm.org/standards/d1308)); klaim “tahan bahan kimia” harus menyebut bahan, konsentrasi, lama kontak, suhu, dan kriteria.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+## Empat kondisi sebelum memilih
 
-## Evidence gates
+Petakan kontaminan: air, minyak, saus, pasir, dan lumpur memerlukan penanganan berbeda. Catat pengguna dan alas kaki; minta uji yang menyebut kondisi basah-kering, kontaminan, alat, dan kelompok pengguna. Ringkasan komite pelapis ASTM menegaskan bahwa metode dan lingkup menentukan arti hasil ([ASTM D01 Fact Sheet](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf)).
 
-- **TOPIC-GATE:** Project requirement matrix and exact tested/approved offered system
+Periksa lebar kepala mesin, jenis sikat, air bilas, dan waktu lantai boleh ditutup. Pisahkan pula tuntutan sistem: substrat, sambungan, genangan, bahan kimia, suhu, lalu lintas, dan akses perawatan. Coating tidak menggantikan persyaratan bangunan, aksesibilitas, kebersihan, keselamatan kebakaran, atau persetujuan setempat ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Contoh keputusan untuk dapur, parkir, dan fasilitas umum
 
-## Internal-link plan
+Contoh ini bukan spesifikasi siap pakai. Teman Epoxy.co.id, bawa pertanyaan berikut ke rapat teknis. Area persiapan makanan yang sering dipel dapat memakai permukaan halus atau sangat halus bila residu segera diangkat; bila minyak tertinggal, minta panel basah dan tinjauan keselamatan. Ramp parkir menerima pasir, hujan, ban, dan kemiringan; tekstur terbuka perlu diuji bersama mesin pembersih, karena tekstur tidak menyelesaikan genangan. Koridor fasilitas umum memiliki alas kaki beragam; jika vendor hanya menunjukkan foto kering, tahan keputusan.
 
-### Existing local routes
+## Mengapa “ambil yang paling kasar” sering gagal
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Tekstur kasar dapat menahan kontaminan, memperpanjang cuci, dan mengganggu roda. Kawan Epoxy.co.id, ubah klaim vendor menjadi pertanyaan tertulis: bahan tekstur, letak lapisan, ketebalan, waktu pengerasan, kontaminan uji, serta penilaian setelah pembersihan. Minta contoh sistem lengkap, bukan serpihan lapisan atas.
 
-### Planned sibling articles
+Jangan menyamakan “antiselip” dengan kepatuhan. Angka atau kelas memerlukan metode proyek yang tepat dan tinjauan profesional; artikel ini tidak mengambil alih interpretasinya.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Langkah pemeriksaan sebelum tekstur disetujui
 
-- `EPX-06-02` → `/artikel/epoxy-vs-pu-cement-vs-floor-hardener-vs-polished-concrete.html` — Epoxy vs PU Cement vs Floor Hardener vs Polished Concrete
-- `EPX-06-03` → `/artikel/menyusun-build-up-sistem-epoxy.html` — Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat
-- `EPX-06-05` → `/artikel/joint-pada-lantai-epoxy.html` — Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak
-- `EPX-06-06` → `/artikel/warna-dan-zoning-epoxy.html` — Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas
+Susun satu lembar per zona berisi kontaminan, alas kaki atau roda, cara pembersihan, kemiringan, waktu henti, dan batas kebersihan. Bandingkan dua panel pada kondisi kering dan basah, lalu catat apakah alat menjangkau permukaan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Periksa persiapan substrat, lapisan, ketebalan, waktu pengerasan, batas bahan kimia, dan instruksi perawatan. Cocokkan klaim uji dengan benda uji, beban, siklus, konsentrasi, suhu, durasi, dan kriteria; bila tidak jelas, tulis [NEEDS TEST DETAIL: minta konfigurasi uji dan kriteria penilaian sebelum klaim dipakai].
 
-## Jawaban singkat dan salah paham utama
+Gunakan [format pelapis epoxy-PU](/format-epoxy-pu-coating.html) untuk menyamakan istilah sistem dan [format cat epoxy](/format-cat-epoxy.html) untuk merapikan ruang lingkup penawaran. Keduanya bukan pengganti persetujuan teknis.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Tekstur yang tepat menyeimbangkan pijakan, kontaminan, alat pembersih, alas kaki, keausan, dan bukti uji. Pilih halus, berbutir halus, atau kasar hanya setelah matriks kebutuhan dan sistem yang diuji disetujui; bila data basah, pembersihan, atau metode keselamatan belum ada, tahan keputusan dan minta bukti terlebih dahulu.
