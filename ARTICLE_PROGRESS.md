@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 16:08:56 (Asia/Jakarta)**
+Last updated: **2026-08-23 21:15:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,10 +15,11 @@ Last updated: **2026-08-23 16:08:56 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 72 |
-| Remaining | 56 |
-| Repository status | ✍️ Batches 01–10 accepted and pushed; 18-article Batch 10 parity is `73748950`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 90 |
+| Remaining | 38 |
+| Repository status | ✍️ Batches 01–11 accepted and pushed; 18-article Batch 11 parity is `762cefa`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
+| Patient-reader rewrites accepted | 90 |
 
 ## Legend
 
@@ -119,24 +120,24 @@ Last updated: **2026-08-23 16:08:56 (Asia/Jakarta)**
 | 71 | `EPX-09-07` | `EPX-09` | Desain Warna, Motif, dan Sampel Epoxy | `artikel/desain-warna-motif-dan-sampel-epoxy.md` | ✅ Accepted and pushed | Batch 10 patient-reader draft passed current-SHA semantic acceptance, bounded repair where measured, compact-index verification, leased-checkout validation, and remote parity `73748950`. | 2026-08-23 |
 | 72 | `EPX-09-08` | `EPX-09` | Epoxy Outdoor: Risiko UV, Panas, Air, dan Slip | `artikel/epoxy-outdoor-risiko-dan-alternatif.md` | ✅ Accepted and pushed | Batch 10 patient-reader draft passed current-SHA semantic acceptance, bounded repair where measured, compact-index verification, leased-checkout validation, and remote parity `73748950`. | 2026-08-23 |
 | 73 | `EPX-10-01` | `EPX-10` | Epoxy Coating untuk Baja: Persiapan dan Sistem Dasar | `artikel/epoxy-coating-untuk-baja.md` | ✅ Accepted and pushed | Batch 10 patient-reader draft passed current-SHA semantic acceptance, bounded repair where measured, compact-index verification, leased-checkout validation, and remote parity `73748950`. | 2026-08-23 |
-| 74 | `EPX-10-02` | `EPX-10` | Epoxy untuk Dinding dan Permukaan Beton Vertikal | `artikel/epoxy-untuk-dinding-beton.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 75 | `EPX-10-03` | `EPX-10` | Epoxy Lining untuk Tangki dan Secondary Containment | `artikel/epoxy-lining-tangki-dan-containment.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 76 | `EPX-10-04` | `EPX-10` | Epoxy pada Beton yang Terendam atau Sering Basah | `artikel/epoxy-pada-beton-terendam.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 77 | `EPX-10-05` | `EPX-10` | Epoxy Coating untuk Lingkungan Pantai dan Korosif | `artikel/epoxy-lingkungan-pantai-dan-korosif.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 78 | `EPX-10-06` | `EPX-10` | Mengatasi Keterbatasan UV Epoxy dengan Topcoat | `artikel/topcoat-uv-untuk-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 79 | `EPX-10-07` | `EPX-10` | Inspeksi Holiday, Pinhole, dan Kontinuitas Lining | `artikel/inspeksi-kontinuitas-lining-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 80 | `EPX-10-08` | `EPX-10` | Kapan Epoxy Bukan Pilihan untuk Coating atau Lining | `artikel/kapan-epoxy-bukan-pilihan-coating.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 81 | `EPX-11-01` | `EPX-11` | Epoxy Mortar untuk Patch dan Perbaikan Beton | `artikel/epoxy-mortar-untuk-perbaikan-beton.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 82 | `EPX-11-02` | `EPX-11` | Injeksi Retak Epoxy: Retak Mana yang Cocok? | `artikel/injeksi-retak-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 83 | `EPX-11-03` | `EPX-11` | Epoxy Bonding Agent untuk Beton Lama dan Baru | `artikel/epoxy-bonding-agent-beton.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 84 | `EPX-11-04` | `EPX-11` | Chemical Anchor Epoxy: Data yang Wajib Dicek | `artikel/chemical-anchor-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 85 | `EPX-11-05` | `EPX-11` | Epoxy Grout untuk Baseplate dan Mesin | `artikel/epoxy-grout-untuk-baseplate.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 86 | `EPX-11-06` | `EPX-11` | Memperbaiki Delaminasi Lokal pada Lantai Epoxy | `artikel/perbaikan-delaminasi-lokal-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 87 | `EPX-11-07` | `EPX-11` | Memilih Epoxy Putty, Paste, Mortar, atau Injection Resin | `artikel/memilih-produk-repair-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 88 | `EPX-11-08` | `EPX-11` | Checklist QC Perbaikan Beton dengan Epoxy | `artikel/checklist-qc-perbaikan-beton-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 89 | `EPX-12-01` | `EPX-12` | Epoxy Blister dan Gelembung: Diagnosis Akar Masalah | `artikel/epoxy-blister-dan-gelembung.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 90 | `EPX-12-02` | `EPX-12` | Epoxy Mengelupas atau Delaminasi | `artikel/epoxy-mengelupas-atau-delaminasi.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 91 | `EPX-12-03` | `EPX-12` | Pinhole, Bubble, Fisheye, dan Crater pada Epoxy | `artikel/pinhole-bubble-fisheye-crater-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 74 | `EPX-10-02` | `EPX-10` | Epoxy untuk Dinding dan Permukaan Beton Vertikal | `artikel/epoxy-untuk-dinding-beton.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 75 | `EPX-10-03` | `EPX-10` | Epoxy Lining untuk Tangki dan Secondary Containment | `artikel/epoxy-lining-tangki-dan-containment.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 76 | `EPX-10-04` | `EPX-10` | Epoxy pada Beton yang Terendam atau Sering Basah | `artikel/epoxy-pada-beton-terendam.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 77 | `EPX-10-05` | `EPX-10` | Epoxy Coating untuk Lingkungan Pantai dan Korosif | `artikel/epoxy-lingkungan-pantai-dan-korosif.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 78 | `EPX-10-06` | `EPX-10` | Mengatasi Keterbatasan UV Epoxy dengan Topcoat | `artikel/topcoat-uv-untuk-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 79 | `EPX-10-07` | `EPX-10` | Inspeksi Holiday, Pinhole, dan Kontinuitas Lining | `artikel/inspeksi-kontinuitas-lining-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 80 | `EPX-10-08` | `EPX-10` | Kapan Epoxy Bukan Pilihan untuk Coating atau Lining | `artikel/kapan-epoxy-bukan-pilihan-coating.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 81 | `EPX-11-01` | `EPX-11` | Epoxy Mortar untuk Patch dan Perbaikan Beton | `artikel/epoxy-mortar-untuk-perbaikan-beton.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 82 | `EPX-11-02` | `EPX-11` | Injeksi Retak Epoxy: Retak Mana yang Cocok? | `artikel/injeksi-retak-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 83 | `EPX-11-03` | `EPX-11` | Epoxy Bonding Agent untuk Beton Lama dan Baru | `artikel/epoxy-bonding-agent-beton.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 84 | `EPX-11-04` | `EPX-11` | Chemical Anchor Epoxy: Data yang Wajib Dicek | `artikel/chemical-anchor-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 85 | `EPX-11-05` | `EPX-11` | Epoxy Grout untuk Baseplate dan Mesin | `artikel/epoxy-grout-untuk-baseplate.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 86 | `EPX-11-06` | `EPX-11` | Memperbaiki Delaminasi Lokal pada Lantai Epoxy | `artikel/perbaikan-delaminasi-lokal-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 87 | `EPX-11-07` | `EPX-11` | Memilih Epoxy Putty, Paste, Mortar, atau Injection Resin | `artikel/memilih-produk-repair-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 88 | `EPX-11-08` | `EPX-11` | Checklist QC Perbaikan Beton dengan Epoxy | `artikel/checklist-qc-perbaikan-beton-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 89 | `EPX-12-01` | `EPX-12` | Epoxy Blister dan Gelembung: Diagnosis Akar Masalah | `artikel/epoxy-blister-dan-gelembung.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 90 | `EPX-12-02` | `EPX-12` | Epoxy Mengelupas atau Delaminasi | `artikel/epoxy-mengelupas-atau-delaminasi.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
+| 91 | `EPX-12-03` | `EPX-12` | Pinhole, Bubble, Fisheye, dan Crater pada Epoxy | `artikel/pinhole-bubble-fisheye-crater-epoxy.md` | ✅ Accepted and pushed | Batch 11 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `762cefa`. | 2026-08-23 |
 | 92 | `EPX-12-04` | `EPX-12` | Epoxy Berminyak, Lengket, atau Terkontaminasi | `artikel/epoxy-lengket-atau-terkontaminasi.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 93 | `EPX-12-05` | `EPX-12` | Retak pada Lapisan Epoxy: Substrat, Joint, atau Sistem | `artikel/retak-pada-lapisan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 94 | `EPX-12-06` | `EPX-12` | Epoxy Tidak Keras: Rasio, Mixing, Suhu, dan Waktu | `artikel/epoxy-tidak-keras.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
