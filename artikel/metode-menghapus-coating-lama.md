@@ -2,8 +2,9 @@
 article_id: EPX-05-03
 title: "Cara Menentukan Metode Menghapus Coating Lama"
 slug: "metode-menghapus-coating-lama"
-description: "Match coating condition, thickness, substrate, dust/noise, and waste to removal approaches"
-status: outline
+description: "Panduan mencocokkan kondisi coating lama, tebal lapisan, substrat, debu, kebisingan, dan limbah dengan metode penghapusan yang tepat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,47 +20,13 @@ sources:
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
   - "https://www.osha.gov/silica-crystalline"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
   - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Cara Menentukan Metode Menghapus Coating Lama
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cara Menentukan Metode Menghapus Coating Lama”
-- **Reader and situation:** Maintenance team with old floor coating
-- **Reader outcome:** Match coating condition, thickness, substrate, dust/noise, and waste to removal approaches
-- **Primary intent:** Plan coating removal
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes retain-versus-remove diagnosis owned by EPX-04-06
-- **Final public route:** `/artikel/metode-menghapus-coating-lama.html`
-- **Appointed CMS date:** `2025-07-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menentukan Metode Menghapus Coating Lama**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -70,152 +37,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy pu coating` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Cara Menentukan Metode Menghapus Coating Lama
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Epoxy.co.id! Tim pemeliharaan sering melihat coating lantai lama lalu langsung menunjuk mesin yang pernah dipakai sebelumnya. Cara itu berisiko: lapisan tipis di beton sehat tidak bereaksi sama dengan lapisan tebal yang mengelupas, dan mesin yang cepat di area terbuka bisa menghasilkan debu atau kebisingan yang tidak dapat diterima di ruang berpenghuni.
 
-### KR-06
+Jawaban singkatnya, pilih metode dengan mencocokkan lima hal: kondisi dan ketebalan coating, kekuatan serta profil substrat, batas debu dan suara di lokasi, bentuk tepi atau sambungan, lalu jalur limbahnya. Panduan persiapan ICRI menempatkan pembersihan, penghilangan kontaminan, pelepasan lapisan lemah, pembentukan profil, pengendalian debu, dan verifikasi sebagai pekerjaan yang berbeda; jadi satu alat belum tentu menyelesaikan semuanya ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)).
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Sebelum membuat jadwal, minta data lapangan: riwayat lapisan dan bahan yang dipakai, ketebalan atau variasinya, kondisi beton, area yang harus tetap beroperasi, serta siapa yang menyetujui metode dan pembuangan. Bila data itu belum ada, tandai `[NEEDS SURVEY: kondisi coating, substrat, dan batas operasi belum terukur]`; jangan menggantinya dengan asumsi.
 
-### KR-07
+![Ilustrasi epoxy pu coating](/wp-content/uploads/2021/02/epoxy-pu-coating.png)
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-08
+## Baca kondisi coating dan substrat, bukan sekadar warna permukaan
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Bagian ini membantu Anda membedakan tampilan permukaan dari kondisi yang menentukan metode. Mulailah dengan memetakan area yang masih melekat, menggelembung, retak, licin, terkontaminasi minyak, atau sudah terangkat. Perbedaan itu menentukan apakah pekerjaan memerlukan pelepasan menyeluruh, pengupasan lokal, atau pembersihan lanjutan.
 
-### KR-16
+Ketebalan tidak selalu seragam. Lapisan berulang di jalur lalu lintas bisa lebih tebal daripada area terlindung, sementara sisa primer dapat tetap menempel setelah warna atas hilang. Ambil titik pemeriksaan yang mewakili variasi dan cocokkan hasilnya dengan persyaratan sistem baru; jangan menetapkan angka profil atau ketebalan dari foto saja.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Uji daya lekat dapat membantu menjelaskan lokasi kegagalan, tetapi hasilnya bukan satu angka yang berdiri sendiri. ASTM D7234 menjelaskan bahwa kegagalan dapat terjadi pada perekat, lapisan coating, batas antar-lapisan, atau substrat; pengujiannya bersifat merusak dan meninggalkan titik perbaikan ([ASTM D7234](https://store.astm.org/d7234-21.html)). Sepakati metode, kondisi, dan cara membaca mode kegagalan dengan penanggung jawab teknis.
 
-### KR-17
+## Cocokkan karakter lapisan dengan pendekatan penghapusan
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Sekarang kita terjemahkan data tadi menjadi keputusan praktis tanpa menjadikannya resep kerja berbahaya. Lapisan tipis yang melekat kuat biasanya memerlukan pengikisan atau penggerindaan terkendali, sedangkan lapisan tebal yang mengelupas dapat memerlukan pelepasan awal dengan alat yang mengangkat massa coating lebih banyak. Jika lapisan lunak atau lengket, panas dan gesekan dapat memperbesar noda serta menyumbat alat; uji area kecil sebelum diperluas.
 
-### KR-21
+Substrat membatasi energi yang aman. Beton yang lemah, tepi tipis, atau area dekat sambungan dapat kehilangan bagian yang masih dibutuhkan bila alat terlalu agresif. Rencana harus menyebut area uji, batas kerusakan yang dapat diterima, dan siapa yang menghentikan pekerjaan saat beton ikut terangkat.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Untuk lantai yang tetap beroperasi, pilih pendekatan yang selaras dengan isolasi area, waktu kerja, debu, dan suara. Panduan OSHA mengingatkan bahwa debu dipengaruhi material, tugas, peralatan, pengurungan, durasi, perawatan, dan pembersihan; lumpur atau debu kering juga dapat menjadi paparan sekunder ([OSHA floor-grinder fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline silica](https://www.osha.gov/silica-crystalline)). Ini bukan dasar untuk mengimpor ambang batas Amerika ke Indonesia, melainkan pengingat agar rencana K3 lokal disusun pihak kompeten.
 
-## Evidence gates
+Jika kebisingan, getaran, atau debu tidak dapat diterima di ruang berpenghuni, tinjau pengurungan, penyedotan, waktu kerja, rute material, dan alternatif proses bersama penanggung jawab K3. Permenaker No. 5 Tahun 2018 menempatkan faktor kimia, fisika, ergonomi, dan lingkungan kerja dalam penilaian yang diterapkan pada kondisi nyata ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-- **TOPIC-GATE:** Approved preparation method, K3 plan, test criteria, and local waste route
+## Susun urutan kerja dan titik berhenti
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Urutan yang jelas mencegah tim menganggap coating sudah hilang hanya karena warnanya berubah. Tetapkan batas area, perlindungan peralatan, akses keluar-masuk, dan jalur pengumpulan sisa. Lakukan area uji untuk melihat kecepatan pelepasan, kondisi beton, tingkat debu dan suara, serta bentuk limbah; hasilnya menjadi dasar memilih alat.
 
-## Internal-link plan
+Setelah penghapusan utama, bersihkan sisa film, minyak, slurry, dan partikel lepas sesuai metode yang disetujui. Periksa kembali tepi, sambungan, retak, dan bagian yang tertutup peralatan. ICRI menekankan bahwa kebersihan, soundness, profil, dan verifikasi adalah tahapan berbeda; lulus satu tahap tidak otomatis meluluskan tahap lain ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-### Existing local routes
+Tentukan titik berhenti tertulis ketika substrat ikut tergerus, debu keluar dari pengurungan, ventilasi tidak memadai, limbah tidak dapat ditampung, atau hasil area uji berbeda dari asumsi. Teman Epoxy.co.id, berhenti pada titik ini mencegah pekerjaan berlanjut dengan metode yang bukti lapangannya sudah tidak cocok.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-coating-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-coating-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-coating-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-coating-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-coating-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kelola sisa coating, debu, dan cairan pembersih
 
-### Planned sibling articles
+Pemilihan metode belum lengkap sebelum aliran limbah dipahami. Bedakan sisa padat, debu atau slurry, cairan pencuci, kemasan, dan bahan penyerap agar tidak semuanya dimasukkan ke satu wadah tanpa penilaian.
 
-These are future routes. Do not link them as live until their HTML exists.
+Coating lama, debu penggerindaan, slurry, pelarut, kemasan, dan bahan penyerap terkontaminasi dapat memerlukan penanganan berbeda. PP No. 22 Tahun 2021 dan Permen LHK No. 6 Tahun 2021 menjadi rujukan kerangka pengelolaan; klasifikasi dan rute akhirnya harus ditentukan dari karakterisasi serta aturan daerah yang berlaku ([PP No. 22/2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6/2021](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf)).
 
-- `EPX-05-01` → `/artikel/persiapan-permukaan-epoxy.html` — Persiapan Permukaan Epoxy: Urutan dan Titik Kontrol
-- `EPX-05-02` → `/artikel/grinding-vs-shot-blasting-vs-scarifying.html` — Grinding vs Shot Blasting vs Scarifying untuk Beton
-- `EPX-05-04` → `/artikel/degreasing-beton-terkontaminasi.html` — Degreasing Beton Terkontaminasi: Batas dan Verifikasi
-- `EPX-05-05` → `/artikel/detail-tepi-sudut-drain-penetrasi-epoxy.html` — Detail Tepi, Sudut, Drain, dan Penetrasi pada Sistem Epoxy
+Jangan menganggap resin yang sudah mengeras pasti menjadi limbah biasa. Catat sumber, bentuk, jumlah perkiraan, wadah, dan pihak pengangkut; minta tinjauan lingkungan bila identitas coating lama atau kontaminannya tidak jelas. Jika jalur lokal belum disetujui, pertahankan `[NEEDS WASTE REVIEW: karakterisasi dan rute limbah belum disahkan]`.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Verifikasi sebelum area dilepas untuk pelapisan baru
 
-## Hasil akhir dan prasyarat
+Bagian akhir ini mengubah “terlihat bersih” menjadi keputusan pelepasan yang dapat diaudit. Bandingkan hasil dengan kriteria proyek: permukaan bebas dari lapisan lemah dan kontaminan yang ditentukan, profil sesuai persyaratan sistem baru, tepi dan sambungan tertangani, serta debu atau slurry terkendali.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan foto bertanggal, peta area, catatan alat, hasil area uji, catatan pembersihan, dan daftar sisa yang dipindahkan. Foto akhir atau kuitansi material saja tidak membuktikan kesiapan substrat, kondisi lingkungan, validitas uji, atau penutupan cacat; alur mutu yang dapat diaudit memerlukan rekaman proses dan persetujuan ([ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
-## Langkah 1 — tetapkan scope
+Bila uji daya lekat dilakukan, catat metode, lokasi, kondisi, mode kegagalan, dan perbaikan titik uji. Jangan membandingkan angka dari alat, substrat, sistem, atau kondisi pengeringan yang berbeda seolah-olah setara. Untuk langkah berikutnya, lihat [format sistem epoxy PU dan komponennya](/format-epoxy-pu-coating.html) agar dokumen metode menyebut sistem yang benar. Rute informasi lain tersedia pada [layanan epoxy PU Yogyakarta](/epoxy-pu-coating-yogyakarta.html), tetapi halaman itu bukan bukti bahwa kondisi lantai Anda sama.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: pilih metode berdasarkan bukti lapangan
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Kawan Epoxy.co.id, metode menghapus coating lama ditentukan oleh kondisi lapisan, ketebalan, kekuatan substrat, batas debu dan suara, detail tepi, serta jalur limbah—bukan oleh nama mesin yang paling dikenal. Mulai dari survei dan area uji, tetapkan titik berhenti, lalu dokumentasikan kebersihan, profil, dan limbah sebelum meminta persetujuan pelapisan baru.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menentukan Metode Menghapus Coating Lama”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika kondisi beton, bahan coating, K3, atau rute limbah belum terverifikasi, jangan keluarkan metode definitif. Minta penilaian kompeten dan simpan penanda `[NEEDS SURVEY: data lapangan belum lengkap]` sampai buktinya tersedia; keputusan yang dapat dipertanggungjawabkan selalu mengikuti kondisi nyata, bukan asumsi.

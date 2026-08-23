@@ -2,8 +2,9 @@
 article_id: EPX-04-08
 title: "Format Laporan Kondisi Substrat untuk Tender Epoxy"
 slug: "format-laporan-kondisi-substrat-epoxy"
-description: "Provide photo log, plan markup, tests, assumptions, exclusions, and unresolved risks"
-status: outline
+description: "Panduan menyusun laporan kondisi substrat untuk tender epoxy dengan foto, peta area, hasil uji, asumsi, pengecualian, dan risiko yang belum terjawab."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,48 +17,13 @@ technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
   - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Format Laporan Kondisi Substrat untuk Tender Epoxy
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Format Laporan Kondisi Substrat untuk Tender Epoxy”
-- **Reader and situation:** Consultant handing findings to bidders
-- **Reader outcome:** Provide photo log, plan markup, tests, assumptions, exclusions, and unresolved risks
-- **Primary intent:** Document survey findings
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Teman Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Kawan Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes contractor method statement owned by EPX-16-03
-- **Final public route:** `/artikel/format-laporan-kondisi-substrat-epoxy.html`
-- **Appointed CMS date:** `2025-07-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Format Laporan Kondisi Substrat untuk Tender Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Kawan Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,150 +34,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Format Laporan Kondisi Substrat untuk Tender Epoxy
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Epoxy.co.id! Ketika temuan survei akan dibagikan kepada beberapa peserta tender, laporan yang hanya berkata “lantai siap di-epoxy” justru membuka ruang tafsir. Peserta perlu melihat kondisi yang sama, asumsi yang sama, dan risiko yang belum selesai agar penawaran dapat dibandingkan secara adil.
 
-### KR-05
+Jawaban singkatnya: buat laporan sebagai paket bukti, bukan paragraf kesimpulan. Masukkan peta area dan foto berkode, riwayat substrat, rencana serta hasil uji, asumsi pengukuran, pengecualian, dan daftar risiko yang masih memerlukan keputusan. Laporan ini mendokumentasikan kondisi untuk tender; ia bukan metode kerja kontraktor dan tidak menggantikan persetujuan teknis proyek.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Yang dapat mengubah kesimpulan adalah bukti lapangan yang belum tersedia, terutama sumber kelembapan, kontaminasi, kekuatan permukaan, atau gerakan retak. Karena itu setiap angka harus ditemani lokasi, tanggal, metode, kondisi lingkungan, dan batas interpretasinya.
 
-### KR-06
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-08
+## Apa yang sebenarnya dilaporkan
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Sebelum menyusun tabel, bedakan kondisi yang diamati dari keputusan desain. Bagian ini membantu konsultan dan peserta tender memahami objek yang sama, sekaligus mencegah laporan berubah menjadi instruksi aplikasi.
 
-### KR-14
+Substrat adalah permukaan dasar yang akan menerima sistem epoxy, misalnya beton, screed, atau lapisan lama yang masih dipertahankan. Laporan kondisi menjawab “apa yang ditemukan di area ini” dan “bukti apa yang mendukungnya”, bukan “produk mana yang pasti dipakai”. Metode kerja kontraktor tetap menjadi dokumen terpisah milik lingkup EPX-16-03.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Mulailah dengan identitas area: nama ruang, grid atau patokan denah, perkiraan luas, tanggal kunjungan, dan pihak yang hadir. Tandai bagian yang tidak dapat diakses. Jika batas area tidak jelas, peserta bisa memasukkan kuantitas dan risiko berbeda-beda sehingga harga tidak lagi sebanding.
 
-### KR-18
+## Cara merangkai bukti dari lapangan
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Urutan bukti penting karena pembaca tender biasanya melihat foto lebih dulu lalu mencari angka yang menjelaskannya. Di bagian ini, setiap temuan diikat ke lokasi dan cara pemeriksaannya.
 
-### KR-21
+Buat peta markup sederhana dengan kode area, arah utara atau patokan tetap, sambungan, saluran, kolom, dan zona perbaikan. Gunakan kode yang sama pada nama foto, tabel uji, dan catatan. Foto tanpa kode lokasi hanya menunjukkan bahwa sesuatu pernah dilihat, bukan di mana pekerjaan harus dihitung.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Log foto sebaiknya mencatat tanggal, area, arah pandang, objek yang tampak, dan keterbatasan gambar. Hindari menyimpulkan “beton sehat” dari tampilan yang bersih; foto membantu mengenali pola, tetapi tidak mengukur kelembapan atau kekuatan.
 
-## Evidence gates
+Untuk kelembapan, catat sumber atau jalur air yang dicurigai, konstruksi pelat, kondisi pengeringan, suhu dan kelembapan udara, lokasi sensor, waktu ekuilibrasi, serta metode yang dipakai. ASTM F2170 menempatkan faktor-faktor tersebut dalam konteks pengukuran kelembapan relatif di dalam beton; satu pembacaan tidak memetakan seluruh pelat atau menjamin kondisi masa depan. Gunakan metode dan batas penerimaan yang disetujui proyek atau produsen, bukan ambang universal yang dibuat sendiri. [Rujukan ASTM F2170](https://store.astm.org/standards/f2170) dan [lembar komite lantai ASTM](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
 
-- **TOPIC-GATE:** Dated survey/test plan and competent substrate/structural decision
+Persiapan permukaan juga perlu diuraikan sebagai tugas terpisah: pembersihan, penghilangan lapisan lemah atau kontaminan, pemeriksaan kekokohan, profil permukaan, tepi, retak, sambungan, dan pengendalian debu. Panduan ICRI 310.2R menekankan bahwa pilihan persiapan bergantung pada substrat, sistem pelapis, kondisi lokasi, profil, dan verifikasi; jangan menuliskan angka profil atau memilih satu mesin tanpa dokumen yang mengaturnya. [Catatan pengantar ICRI](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jika uji tarik lekat diperlukan, tulis jenis alat, titik uji, umur atau kondisi sistem, pola keruntuhan, dan lokasi yang harus diperbaiki setelah pengujian. Uji pull-off bersifat merusak; hasil tanpa pola kegagalan dan kondisi uji tidak cukup untuk membandingkan area yang berbeda. [Lingkup ASTM D7234](https://store.astm.org/d7234-21.html).
 
-## Internal-link plan
+## Faktor yang harus dipisahkan dari asumsi
 
-### Existing local routes
+Laporan yang baik membuat asumsi terlihat. Misalnya, luas dihitung dari gambar yang diberikan dan belum diverifikasi seluruhnya; area di bawah peralatan tidak dapat diakses; atau riwayat lapisan lama tidak tersedia. Peserta tender kemudian dapat memberi harga untuk pekerjaan yang terlihat dan menandai biaya atau waktu yang bergantung pada pembukaan area.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-jasa-floor-hardener.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-injeksi-beton.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pisahkan pula “tidak ditemukan” dari “belum diperiksa”. Jika tidak ada bukti sumber air, tulis bahwa sumber belum ditelusuri, bukan bahwa lantai bebas kelembapan. Jika retak terlihat tetapi penyebab dan gerakannya belum dinilai, simpan penanda `[NEEDS REVIEW: diagnosis retak dan pergerakan oleh pihak berwenang proyek]`.
 
-### Planned sibling articles
+Jangan menjadikan setiap retak, angkur, tambalan, atau injeksi sebagai pekerjaan epoxy yang sama. Pemilihan perbaikan dipengaruhi penyebab retak, gerakan, peran struktural, kelembapan, suhu, beban, geometri, kompatibilitas, pemasangan, dan inspeksi. Dokumen ISO 16311 membedakan perancangan dan pelaksanaan perbaikan; keputusan struktural memerlukan data proyek dan penanggung jawab yang kompeten. [ISO 16311-3](https://www.iso.org/standard/79787.html) dan [ISO 16311-4](https://www.iso.org/standard/79788.html).
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan untuk peserta tender
 
-- `EPX-04-06` → `/artikel/menilai-coating-lama-sebelum-recoat.html` — Menilai Cat atau Coating Lama Sebelum Recoat
-- `EPX-04-07` → `/artikel/epoxy-pada-kayu-logam-keramik-aspal.html` — Apakah Epoxy Bisa untuk Kayu, Logam, Keramik, atau Aspal?
+Bayangkan konsultan menyerahkan tiga zona: gudang terbuka, koridor dengan lapisan lama, dan ruang yang sebagian tertutup mesin. Pada gudang, peta menunjukkan titik ukur kelembapan dan foto retak; peserta dapat menyusun pekerjaan berdasarkan bukti itu. Pada koridor, ketebalan serta daya lekat lapisan lama belum diketahui, sehingga laporan harus meminta harga alternatif untuk pembukaan sampel, bukan memaksa satu metode.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pada ruang tertutup mesin, tulis akses yang belum tersedia dan jangan menganggap kondisinya sama dengan area terbuka. Keputusan yang diminta kepada penawar bisa berbunyi: “sertakan asumsi akses dan metode verifikasi setelah peralatan dipindah”. Dengan begitu, perbedaan penawaran terlihat sebagai perbedaan asumsi, bukan sebagai angka tersembunyi.
 
-## Jawaban singkat dan salah paham utama
+Teman Epoxy.co.id, sertakan lembar ringkas di bagian depan: area, kondisi utama, bukti tersedia, bukti tertunda, dan konsekuensi tender. Lembar ini bukan pengganti data rinci; fungsinya membantu pembaca menemukan keputusan yang perlu dikonfirmasi.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering mengacaukan perbandingan
 
-## Definisi dan batas objek
+Kesalahan pertama adalah memakai satu foto umum untuk seluruh lantai. Cara memeriksanya sederhana: cocokkan setiap klaim dengan kode area dan foto atau hasil uji yang mendukung. Bila tidak ada pasangan bukti, ubah kalimat menjadi asumsi atau tambahkan kebutuhan survei.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan berikutnya adalah menyalin angka penerimaan dari proyek lain. Metode ASTM atau ICRI memberi kerangka, bukan izin untuk mencampur metode, alat, substrat, atau kondisi curing. Minta versi metode penuh, kriteria proyek, dan catatan kalibrasi sebelum angka dipakai sebagai syarat tender.
 
-## Cara kerjanya
+Shortcut lain adalah menyamakan “terlihat kering” dengan “aman dilapisi”. Jalur uap, kondisi bawah pelat, dan perubahan lingkungan dapat membuat pembacaan lokal tidak mewakili seluruh area. Jika bukti belum cukup, tulis risiko dan titik keputusan, lalu tahan kesimpulan sampai pengujian yang disetujui selesai.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: format yang membuat keputusan dapat diaudit
 
-## Faktor yang mengubah hasil
+Format laporan kondisi substrat untuk tender epoxy paling berguna ketika pembaca dapat menelusuri satu klaim dari ringkasan ke peta, foto, tabel uji, asumsi, dan batasnya. Sertakan juga daftar pengecualian serta risiko yang belum terjawab, sehingga peserta menghitung pekerjaan yang sama dan pemilik tahu keputusan apa yang masih diperlukan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah berikutnya adalah minta penanggung jawab proyek menyetujui rencana survei, metode uji, kriteria penerimaan, dan siapa yang berwenang menutup setiap penanda `[NEEDS ...]`. Untuk membantu memahami bentuk dokumen, Anda dapat membandingkan contoh [format cat epoxy](/format-cat-epoxy.html) dan meninjau konteks [injeksi beton](/format-injeksi-beton.html) bila laporan menemukan retak yang memerlukan keputusan terpisah.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Format Laporan Kondisi Substrat untuk Tender Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Epoxy.co.id, pegang aturan ini: laporan tender boleh menyatakan kondisi dan bukti yang tersedia, tetapi tidak boleh menyulap asumsi menjadi kepastian atau mengambil alih metode kerja kontraktor. Jika sumber kelembapan, gerakan, atau kriteria uji belum jelas, tandai, minta data, dan jangan lepaskan keputusan seolah-olah sudah final.
