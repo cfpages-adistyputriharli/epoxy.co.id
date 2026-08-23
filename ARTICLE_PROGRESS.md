@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 11:08:00 (Asia/Jakarta)**
+Last updated: **2026-08-23 12:56:46 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 11:08:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 42 |
-| Remaining | 86 |
-| Repository status | ✍️ Batches 01–07 accepted and pushed; Batch 07 article parity is `439e20ec`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 48 |
+| Remaining | 80 |
+| Repository status | ✍️ Batches 01–08 accepted and pushed; Batch 08 article parity is `74e0d757`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -89,12 +89,12 @@ Last updated: **2026-08-23 11:08:00 (Asia/Jakarta)**
 | 41 | `EPX-06-01` | `EPX-06` | Cara Memilih Sistem Epoxy Berdasarkan Kondisi Proyek | `artikel/cara-memilih-sistem-epoxy.md` | ✅ Accepted and pushed | Batch 07 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
 | 42 | `EPX-06-02` | `EPX-06` | Epoxy vs PU Cement vs Floor Hardener vs Polished Concrete | `artikel/epoxy-vs-pu-cement-vs-floor-hardener-vs-polished-concrete.md` | ✅ Accepted and pushed | Batch 07 evidence recovery added the missing fresh independent semantic receipt; leased-checkout validation and remote parity `439e20ec` passed. | 2026-08-23 |
 | 43 | `EPX-06-03` | `EPX-06` | Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat | `artikel/menyusun-build-up-sistem-epoxy.md` | ✅ Accepted and pushed | Batch 07 two-stage bounded repair passed fresh independent final review, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
-| 44 | `EPX-06-04` | `EPX-06` | Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih | `artikel/memilih-tekstur-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 45 | `EPX-06-05` | `EPX-06` | Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak | `artikel/joint-pada-lantai-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 46 | `EPX-06-06` | `EPX-06` | Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas | `artikel/warna-dan-zoning-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 47 | `EPX-06-07` | `EPX-06` | Epoxy untuk Area Panas, Dingin, dan Thermal Shock | `artikel/epoxy-untuk-suhu-dan-thermal-shock.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 48 | `EPX-06-08` | `EPX-06` | Decision Matrix Epoxy untuk Retrofit Gedung Aktif | `artikel/decision-matrix-epoxy-retrofit.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 49 | `EPX-07-01` | `EPX-07` | Tahapan Aplikasi Epoxy dari Primer hingga Handover | `artikel/tahapan-aplikasi-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 44 | `EPX-06-04` | `EPX-06` | Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih | `artikel/memilih-tekstur-epoxy.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
+| 45 | `EPX-06-05` | `EPX-06` | Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak | `artikel/joint-pada-lantai-epoxy.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
+| 46 | `EPX-06-06` | `EPX-06` | Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas | `artikel/warna-dan-zoning-epoxy.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
+| 47 | `EPX-06-07` | `EPX-06` | Epoxy untuk Area Panas, Dingin, dan Thermal Shock | `artikel/epoxy-untuk-suhu-dan-thermal-shock.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
+| 48 | `EPX-06-08` | `EPX-06` | Decision Matrix Epoxy untuk Retrofit Gedung Aktif | `artikel/decision-matrix-epoxy-retrofit.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
+| 49 | `EPX-07-01` | `EPX-07` | Tahapan Aplikasi Epoxy dari Primer hingga Handover | `artikel/tahapan-aplikasi-epoxy.md` | ✅ Accepted and pushed | Batch 08 bounded Indonesian-language repair passed a fresh independent final review, compact-index verification, leased-checkout validation, and remote parity `74e0d757`; superseded receipts remain lineage only. | 2026-08-23 |
 | 50 | `EPX-07-02` | `EPX-07` | Cara Mengukur dan Mencampur Epoxy Dua Komponen | `artikel/mengukur-dan-mencampur-epoxy-dua-komponen.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 51 | `EPX-07-03` | `EPX-07` | Aplikasi Primer Epoxy dan Tanda Substrat Bermasalah | `artikel/aplikasi-primer-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 52 | `EPX-07-04` | `EPX-07` | Teknik Broadcast Agregat dan Back-Roll | `artikel/teknik-broadcast-agregat-dan-back-roll.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
