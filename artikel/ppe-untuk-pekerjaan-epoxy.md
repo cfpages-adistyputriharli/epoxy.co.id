@@ -2,8 +2,9 @@
 article_id: EPX-14-03
 title: "PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan"
 slug: "ppe-untuk-pekerjaan-epoxy"
-description: "Connect SDS/task/exposure to PPE selection, fit, changeout, hygiene, and limitations"
-status: outline
+description: "Panduan memilih dan memakai alat pelindung diri untuk pekerjaan epoxy berdasarkan bahan, tugas, dan jalur paparan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,45 +20,17 @@ sources:
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
   - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan
 
-## Assignment lock
+Halo, Sobat Epoxy.co.id! Saat menyiapkan pekerjaan epoxy, banyak orang langsung bertanya, “Sarung tangan apa yang paling aman?” Padahal pilihan alat pelindung diri (PPE), yaitu perlengkapan yang dipakai untuk mengurangi jalur paparan, tidak bisa dipisahkan dari bahan yang digunakan, pekerjaan yang sedang dilakukan, dan lembar data keselamatan (SDS) produk.
 
-- **Writer task:** Expand this file into one complete article answering: “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”
-- **Reader and situation:** Worker or supervisor planning tasks
-- **Reader outcome:** Connect SDS/task/exposure to PPE selection, fit, changeout, hygiene, and limitations
-- **Primary intent:** Select task controls
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes ventilation design owned by EPX-14-02
-- **Final public route:** `/artikel/ppe-untuk-pekerjaan-epoxy.html`
-- **Appointed CMS date:** `2026-04-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: cocokkan SDS dan tugas dengan jalur paparan—kulit, mata, percikan ke pakaian, debu, atau uap—lalu pilih PPE yang kompatibel, pas, dan bisa diganti sebelum terkontaminasi. Sarung tangan saja tidak mengubah bahan yang berbahaya menjadi aman, dan bau yang tidak terasa bukan bukti bahwa udara bebas paparan. Panduan NIOSH menjelaskan bahwa resin, pengeras, pelarut, pengisi, pigmen, pembersih, serta hasil reaksi dapat memiliki bahaya yang berbeda ([NIOSH tentang epoxy dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html); [catatan bahaya epoxy NIOSH](https://stacks.cdc.gov/view/cdc/135632)).
 
-## Opening instructions
+Artikel ini membantu pekerja atau pengawas mengambil keputusan sebelum mulai: informasi apa yang perlu dibaca dari SDS, PPE mana yang melindungi jalur tertentu, kapan harus berhenti mengganti perlengkapan, dan batas apa yang tetap memerlukan penilaian K3 proyek. Rancangan ventilasi bukan bahasan halaman ini; kendalikan keputusan PPE sesuai kondisi nyata dan mintalah penilaian kompeten bila datanya belum lengkap.
 
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,145 +41,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-## Evidence packet
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Mulai dari bahan dan jalur paparan, bukan dari merek PPE
 
-### KR-07
+Sebelum memilih perlengkapan, bayangkan apa yang benar-benar terjadi di pekerjaan Anda. Saat menuang resin dan pengeras, cairan bisa menyentuh tangan atau memercik ke mata. Saat mengamplas lapisan yang sudah kering, yang dominan bisa berubah menjadi debu. Saat memakai pembersih, bahan lain ikut masuk ke dalam keputusan. Karena setiap komponen dapat memiliki bahaya berbeda, SDS dan label produk harus menjadi titik awal, bukan sekadar formalitas.
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+SDS adalah dokumen yang menerangkan bahaya, penanganan, penyimpanan, pertolongan awal, dan pengendalian paparan suatu produk. Baca bagian yang menyebut sarung tangan, pelindung mata, pakaian, perlindungan pernapasan, serta waktu penggantian atau batas pemakaian bila tercantum. Jika SDS belum tersedia atau tidak cocok dengan kemasan yang berada di lapangan, tandai sebagai **[NEEDS TOPIC-GATE: SDS produk, penilaian K3 Indonesia, dan rencana keadaan darurat harus diverifikasi sebelum pemilihan PPE final.]**
 
-### KR-15
+Perhatikan juga tahap kerja. Menakar komponen dalam wadah terbuka, mengaduk, memindahkan campuran, membersihkan alat, dan menggerinda permukaan bukan satu tugas yang sama. OSHA menekankan bahwa pembentukan debu dipengaruhi material, alat, durasi, pengurungan, pemeliharaan, dan cara pembersihan; debu atau lumpur yang mengering dapat menjadi paparan sekunder ([fact sheet OSHA tentang pengendalian silika saat penggerindaan](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf); [ikhtisar silika kristalin OSHA](https://www.osha.gov/silica-crystalline)). Jadi, jangan menyalin daftar PPE dari tahap pencampuran ke tahap pengamplasan tanpa menilai ulang.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+## Cara kerja perlindungan untuk tangan, mata, kulit, dan napas
 
-### KR-16
+Sarung tangan melindungi kulit dari kontak langsung, tetapi hanya bila materialnya kompatibel dan ukurannya pas. “Tahan kimia” bukan label yang berlaku untuk semua resin, pengeras, dan pelarut. Cocokkan jenis bahan, ketebalan, waktu kontak, serta petunjuk penggantian di SDS atau data produk. Jika sarung tangan robek, bagian dalamnya terkena campuran, atau permukaan luarnya menyentuh benda bersih, lepaskan dengan cara yang tidak memindahkan kontaminan lalu ganti.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Kontak berulang dapat membuat kulit sensitif terhadap bahan tertentu. Kulit yang terasa panas, perih, kering berat, atau memerah bukan alasan untuk menunggu sampai pekerjaan selesai. Hentikan paparan, ikuti pertolongan awal pada SDS, dan mintalah penilaian medis atau K3 sesuai prosedur proyek. Informasi NIOSH tentang paparan kulit mengingatkan bahwa cara bahan masuk dan lamanya kontak memengaruhi risiko; bau tidak dapat dijadikan alat ukur keamanan ([NIOSH tentang paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-### KR-17
+Pelindung mata diperlukan ketika ada risiko percikan, tetesan saat menuang, atau partikel saat mengikis. Pilih pelindung yang menutup sisi dan tetap kompatibel dengan pelindung wajah atau kacamata resep bila digunakan. Kacamata bening yang longgar tidak memberi perlindungan sama dengan pelindung yang sesuai tugas. Periksa apakah lensa buram, tergores, atau terkena bahan sehingga pandangan terganggu; kondisi itu sendiri dapat memicu kesalahan kerja.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Pakaian kerja, sepatu, dan pelindung lengan mengatur agar bahan tidak terbawa ke kulit atau area bersih. Baju yang terkena campuran jangan dibawa pulang atau dicampur dengan pakaian biasa sebelum ditangani sesuai prosedur tempat kerja. Sediakan tempat melepas PPE, cuci tangan setelah melepasnya, dan jangan memakai pelarut untuk membersihkan kulit kecuali SDS secara tegas memberi arahan yang aman.
 
-### KR-19
+Pelindung pernapasan dipilih berdasarkan bahaya dan penilaian paparan, bukan karena “epoxy biasanya bau”. Pada beberapa tugas, bahaya utama berupa uap atau aerosol; pada tugas lain, debu dari permukaan kering lebih menonjol. Respirator yang tidak tepat, tidak pas, atau dipakai tanpa program pemeriksaan yang diperlukan dapat memberi rasa aman palsu. Karena desain ventilasi berada di luar batas artikel ini, keputusan pernapasan harus mengikuti SDS, penilaian K3 setempat, dan rencana keadaan darurat—bukan tebakan dari aroma.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+## Hal yang mengubah pilihan di lapangan
 
-## Evidence gates
+Suhu, durasi, ruang kerja, cara aplikasi, dan kondisi permukaan mengubah paparan. Pekerjaan singkat di area terbuka belum tentu sama dengan pekerjaan berulang di ruang sempit. Demikian juga, mengaduk perlahan tidak sama dengan menyemprot, menggerinda, atau membersihkan tumpahan. Catat tugas yang benar-benar dilakukan, siapa yang terpapar, berapa lama, dan bahan pembersih apa yang ikut digunakan; catatan ini membuat diskusi dengan penanggung jawab K3 lebih konkret.
 
-- **TOPIC-GATE:** Current SDS/label, Indonesian K3/environmental assessment, and emergency plan
+Kawan Epoxy.co.id, cek kecocokan sebelum sarung tangan menyentuh produk. Tanyakan: “Apakah data kompatibilitas menyebut komponen yang saya pakai, bukan hanya nama umum epoxy?” Bila jawabannya tidak jelas, tahan pekerjaan yang berpotensi kontak langsung dan minta konfirmasi dari SDS atau pemasok. Jangan menganggap dua produk dengan warna atau viskositas mirip memiliki perilaku yang sama.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kebersihan juga bagian dari pengendalian. Sediakan wadah tertutup untuk lap atau absorbent yang terkontaminasi, pisahkan PPE sekali pakai dari benda bersih, dan cegah debu kering menyebar saat membersihkan. Jenis sisa bahan, kemasan, lumpur, atau pelarut dapat memerlukan rute penanganan berbeda; PPE tidak menggantikan penilaian limbah dan lingkungan proyek.
 
-## Internal-link plan
+## Contoh keputusan sebelum satu tim mulai bekerja
 
-### Existing local routes
+Misalnya tim akan mengaduk resin dan pengeras, memindahkan campuran ke lantai, lalu mengamplas tepi yang sudah mengeras. Keputusan pertama adalah memeriksa SDS kedua komponen dan pembersih, kemudian memetakan tiga kondisi: cairan dan percikan saat pencampuran, kontak kulit saat aplikasi, serta debu saat pengamplasan. Dari situ, pengawas dapat memeriksa kesesuaian sarung tangan, pelindung mata, pakaian, dan perlindungan pernapasan untuk tiap tahap—bukan menetapkan satu paket PPE untuk seluruh hari.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Saat seorang pekerja berkata, “Saya tidak mencium apa-apa, jadi masker tidak perlu,” jawabannya bukan menebak tingkat bahaya. Minta data SDS dan penilaian paparan yang berlaku. Jika data belum ada, tandai keputusan sebagai **[NEEDS PROJECT EVIDENCE: kondisi ruang, metode aplikasi, durasi, dan hasil penilaian paparan belum tersedia.]** dan jangan mengubah kekosongan itu menjadi klaim aman.
 
-### Planned sibling articles
+Untuk langkah lanjutan, Anda dapat membaca [penjelasan format pelapisan epoxy](/format-epoxy-pu-coating.html) agar istilah sistem lapisan tidak tertukar, atau melihat [format cat epoxy](/format-cat-epoxy.html) ketika perlu membedakan pekerjaan pelapisan dan pengecatan. Tautan itu membantu memahami konteks pekerjaan; pilihan PPE tetap harus kembali ke SDS dan tugas aktual.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesalahan yang sering terjadi dan pemeriksaannya
 
-- `EPX-14-01` → `/artikel/cara-membaca-sds-epoxy.html` — Cara Membaca SDS Epoxy dan Hardener
-- `EPX-14-02` → `/artikel/ventilasi-saat-aplikasi-epoxy.html` — Ventilasi dan Pengendalian Paparan Saat Aplikasi Epoxy
-- `EPX-14-04` → `/artikel/respons-tumpahan-epoxy-hardener.html` — Tumpahan Epoxy dan Hardener: Respons Awal yang Aman
-- `EPX-14-05` → `/artikel/klaim-food-grade-healthcare-potable-water-epoxy.html` — Klaim Food Grade, Healthcare, dan Potable Water pada Epoxy
+Kesalahan pertama adalah memilih sarung tangan berdasarkan harga atau ketebalan saja. Pemeriksaannya sederhana: cocokkan bahan dan waktu kontak dengan data kompatibilitas, lihat kondisi fisik sebelum dipakai, lalu tetapkan kapan harus mengganti. Sarung tangan yang lebih tebal tetapi tidak kompatibel tetap dapat gagal.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan kedua adalah memakai pelindung mata hanya ketika menuang. Percikan kecil saat membersihkan alat atau partikel saat mengikis tetap dapat menuju mata. Tulis tahap yang menimbulkan percikan atau partikel pada instruksi kerja dan pastikan pelindungnya tersedia sebelum pekerjaan dimulai, bukan setelah insiden.
 
-## Jawaban singkat dan salah paham utama
+Kesalahan ketiga adalah menganggap respirator menyelesaikan semua masalah udara. Respirator bukan pengganti penilaian bahaya, pengaturan area, atau pengendalian sumber. Jika kondisi berubah—misalnya metode aplikasi berganti atau permukaan menghasilkan debu lebih banyak—hentikan sejenak, perbarui penilaian, dan minta keputusan penanggung jawab K3.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya yang bisa Anda pegang
 
-## Definisi dan batas objek
+Teman Epoxy.co.id, sebelum memberi izin mulai, minta empat bukti: SDS dan label produk yang benar, daftar tugas beserta jalur paparannya, bukti kecocokan dan kondisi PPE, serta prosedur penggantian, kebersihan, dan keadaan darurat. Periksa ulang ketika bahan, metode, ruang, atau durasi berubah.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, PPE untuk pekerjaan epoxy bukan satu set perlengkapan yang berlaku universal. Pilihannya harus mengikuti bahan dan tugas; pakai dengan pas; ganti sebelum kontaminasi berpindah; dan akui batasnya ketika data paparan, ventilasi, atau keadaan darurat belum dinilai. Jika salah satu bukti itu belum tersedia, tahan keputusan final dan minta penilaian K3 proyek yang kompeten.

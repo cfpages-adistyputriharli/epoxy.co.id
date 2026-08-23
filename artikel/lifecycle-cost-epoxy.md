@@ -2,8 +2,9 @@
 article_id: EPX-13-08
 title: "Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal"
 slug: "lifecycle-cost-epoxy"
-description: "Define cost inputs, uncertainty, maintenance/renewal cycles, downtime, and scenario comparison"
-status: outline
+description: "Cara membandingkan biaya epoxy sepanjang pemasangan, waktu berhenti operasi, perawatan, dan pembaruan tanpa mengandalkan harga pasar saat ini."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +17,86 @@ technical_review: required
 sources:
   - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
   - "https://store.astm.org/standards/f2170"
   - "https://store.astm.org/d7234-21.html"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
+  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat membandingkan dua penawaran lantai epoxy, banyak pemilik aset langsung melihat angka pemasangan per meter persegi. Padahal pilihan yang tampak murah bisa menghabiskan biaya lebih besar ketika area harus ditutup, lapisan cepat rusak, atau perbaikan dilakukan tanpa menemukan penyebabnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”
-- **Reader and situation:** Asset owner comparing long-term options
-- **Reader outcome:** Define cost inputs, uncertainty, maintenance/renewal cycles, downtime, and scenario comparison
-- **Primary intent:** Compare total ownership cost
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes current market-price claims owned by EPX-15-02
-- **Final public route:** `/artikel/lifecycle-cost-epoxy.html`
-- **Appointed CMS date:** `2026-04-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: hitung biaya sepanjang siklus hidup, bukan harga awal saja. Masukkan kondisi lantai, persiapan dan pemasangan, waktu berhenti operasi, pembersihan, inspeksi, perbaikan, pembaruan lapisan, serta ketidakpastian yang masih belum terbukti. Bandingkan beberapa skenario dengan asumsi yang ditulis; jangan menganggap umur layanan, harga, atau interval perawatan sebagai angka universal.
 
-## Opening instructions
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
+## Mulai dari objek dan keputusan yang hendak dibuat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sebelum menjumlahkan biaya, pastikan Anda sedang membandingkan objek yang sama. Luas area saja tidak cukup: kondisi beton, lalu lintas, tumpahan bahan kimia, cara mencuci, akses kerja, dan jam operasi mengubah pilihan sistem serta konsekuensinya.
+
+Bayangkan gudang yang hanya dapat ditutup sebagian. Sistem dengan pemasangan lebih singkat mungkin mengurangi kehilangan operasi, tetapi belum tentu cocok jika beton lembap atau permukaan terkontaminasi. Sebaliknya, lapisan yang tampak kuat di brosur tetap perlu dibuktikan terhadap beban, bahan pembersih, dan pola trafik yang benar-benar terjadi.
+
+Untuk membandingkan pilihan secara adil, tulis unit keputusan Anda: area mana, fungsi apa, periode analisis berapa lama, dan kapan operasi boleh berhenti. Jika batas ini berubah, hasil perbandingan juga berubah. Rute [memilih sistem epoxy berdasarkan kondisi proyek](/format-epoxy-pu-coating.html) dapat membantu memeriksa kecocokan fungsi sebelum angka biaya dimasukkan.
+
+## Pecah biaya instalasi menjadi pekerjaan dan risikonya
+
+Biaya instalasi mencakup survei, pengujian, persiapan permukaan, material tiap lapisan, tenaga kerja, perlindungan area, pembersihan, dan pemeriksaan penerimaan. Pisahkan setiap komponen agar penawaran yang tidak memuat persiapan tidak terlihat seolah-olah lebih murah.
+
+Kelembapan dan daya lekat adalah contoh biaya yang sering tersembunyi. ASTM F2170 membahas ruang lingkup pengukuran kelembapan relatif pada pelat beton, sedangkan ASTM D7234 membahas metode pengujian daya lekat lapisan pada beton. Keduanya tidak otomatis menyatakan lantai Anda siap atau sistem tertentu pasti berhasil; hasil, kondisi, dan kriteria proyek tetap harus ditinjau. ([ASTM F2170](https://store.astm.org/standards/f2170), [ASTM D7234](https://store.astm.org/d7234-21.html))
+
+Jadi, minta setiap penawaran menunjukkan asumsi: kondisi awal yang diterima, metode persiapan, ketebalan dan lapisan, waktu pengerjaan, batas lingkungan, perlindungan selama curing, serta pekerjaan yang dikecualikan. Jika hasil survei belum ada, tandai sebagai ketidakpastian, bukan masukkan angka seolah-olah pasti.
+
+## Hitung downtime sebagai biaya operasi, bukan catatan jadwal
+
+Downtime adalah dampak ketika area tidak dapat dipakai normal selama persiapan, aplikasi, curing, atau perbaikan. Nilainya dapat berupa pemindahan stok, jalur kerja sementara, lembur, keterlambatan pengiriman, atau hilangnya produksi. Besarnya bergantung pada operasi Anda, sehingga artikel ini tidak menetapkan tarif atau angka umum.
+
+Susun kalender per tahap: kapan area dikosongkan, kapan pekerja boleh masuk, kapan beban ringan dan beban normal diizinkan menurut petunjuk sistem, serta apa yang terjadi bila cuaca atau temuan beton memperpanjang pekerjaan. Bandingkan skenario penutupan penuh dengan pembagian zona. Pembagian zona dapat mengurangi dampak langsung, tetapi menambah sambungan kerja dan kebutuhan koordinasi; catat konsekuensinya.
+
+Kawan Epoxy.co.id, tanyakan kepada operator bukan hanya “berapa hari pemasangan”, melainkan “aktivitas apa yang berhenti pada tiap hari dan apa bukti area boleh kembali dipakai?”. Jawaban itu mengubah jadwal menjadi biaya yang dapat diaudit.
+
+## Masukkan perawatan dan mekanisme penurunan kinerja
+
+Perawatan bukan sekadar mengepel. Jenis kotoran, bahan kimia, konsentrasi, lama kontak, suhu, alat gosok, pembilasan, dan frekuensi pembersihan memengaruhi permukaan. Karena itu, petunjuk operasi dan pemeliharaan (O&M) yang spesifik sistem harus menjadi sumber utama, bukan daftar bahan pembersih generik.
+
+Ketahanan abrasi atau bahan kimia juga bukan janji umur layanan. ASTM D4060 menguji abrasi dengan kondisi seperti bahan penggosok, beban, jumlah putaran, benda uji, dan kriteria evaluasi; ASTM D1308 membahas pengaruh bahan kimia rumah tangga pada kondisi uji tertentu. Hasil laboratorium tidak membuktikan ketahanan seluruh lantai, keamanan terpeleset, atau masa pakai di fasilitas Anda. ([ASTM D4060](https://store.astm.org/d4060-19.html), [ASTM D1308](https://store.astm.org/standards/d1308))
+
+Buat catatan sederhana setiap inspeksi: lokasi, pola aus, perubahan warna atau kilap, retak, gelembung, pengelupasan, tumpahan berulang, dan tindakan yang diambil. Foto membantu membandingkan perubahan, tetapi foto saja tidak dapat memastikan sumber kelembapan, kontaminasi, atau gerakan struktur. Jika gejala meluas, tahan keputusan tambal cepat sampai penyebabnya diperiksa.
+
+## Bandingkan perbaikan, pembaruan, dan penggantian secara bertahap
+
+Saat permukaan mulai aus, pilihannya bukan otomatis melapisi ulang. Perbaikan lokal masuk akal bila kerusakan benar-benar terbatas dan lapisan di sekitarnya masih kompatibel. Pembaruan menyeluruh memerlukan verifikasi permukaan, kebersihan, kelembapan, daya lekat, dan kecocokan lapisan baru. Pengupasan total dapat dibutuhkan bila masalah dasarnya menyebar, tetapi membawa debu, limbah, dan downtime tambahan.
+
+Gunakan matriks skenario: tindakan, area terdampak, pekerjaan persiapan, waktu tutup, risiko temuan tambahan, bukti penerimaan, dan konsekuensi bila ditunda. Jangan menulis “tahan sekian tahun” tanpa data sistem dan riwayat pemakaian yang sebanding. Untuk pertimbangan akhir masa pakai, sisa bahan, material campuran, debu, lumpur, lapisan lama, dan kemasan bisa memerlukan rute berbeda; identifikasi dan pengelolaannya perlu mengikuti aturan setempat dan peninjauan lingkungan, bukan tebakan dari nama resin. ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html))
+
+## Prioritaskan dengan ketidakpastian yang terlihat
+
+Skenario biaya hanya berguna bila pembaca dapat melihat mana fakta, mana asumsi, dan mana hal yang belum diketahui. Beri setiap input pemiliknya: catatan operasi untuk downtime, survei teknis untuk kondisi substrat, petunjuk produsen untuk perawatan, dan peninjau kompeten untuk diagnosis atau penerimaan.
+
+Jika data penting belum tersedia, pertahankan penanda ini: **[NEEDS TOPIC-GATE: petunjuk O&M sistem, catatan kondisi, metode kompatibel, dan rute limbah harus diverifikasi sebelum memilih interval perawatan atau biaya akhir masa pakai.]** Jangan mengubah ketidakpastian menjadi cadangan angka yang tampak ilmiah.
+
+Cara praktisnya adalah menguji tiga skenario: kondisi sesuai rencana, temuan sedang yang menambah persiapan atau downtime, dan temuan berat yang memerlukan penggantian lebih luas. Keputusan tidak harus memilih angka terendah; pilih skenario yang risikonya dapat diterima dan buktinya dapat diperoleh.
+
+## Simpan rekaman agar keputusan berikutnya tidak mengulang survei
+
+Serah terima yang berguna berisi sistem dan lapisan yang benar-benar dipasang, hasil survei dan pengujian, catatan batch serta lingkungan, waktu curing dan pembukaan area, penyimpangan yang ditutup, petunjuk pembersihan, batas penggunaan, serta jalur kontak saat terjadi kerusakan. Foto penyelesaian atau faktur material saja tidak membuktikan semua hal tersebut.
+
+Simpan rekaman di lokasi yang dapat dibaca pemilik aset dan peninjau berikutnya. Cocokkan perubahan terhadap kondisi awal, bukan terhadap ingatan. Bila operasi, bahan pembersih, lalu lintas, atau pola genangan berubah, jadikan itu pemicu pemeriksaan ulang. Panduan [format kategori epoxy](/format-cat-epoxy.html) dapat dipakai sebagai rujukan saat mengelompokkan kebutuhan sistem, tetapi keputusan proyek tetap memerlukan dokumen sistem yang aktual.
+
+## Mengapa memilih harga terendah sering menjadi jalan pintas yang mahal
+
+Jalan pintas yang umum adalah membandingkan dua angka per meter persegi lalu mengabaikan persiapan dan penutupan area. Mekanismenya sederhana: penawaran yang tidak memasukkan pengujian atau perlindungan terlihat murah, tetapi biaya muncul belakangan ketika daya lekat gagal, area harus dibuka kembali, atau operasi dipindahkan lebih lama.
+
+Alternatif yang lebih aman adalah meminta tabel perbandingan dengan asumsi yang sama, bukti kondisi awal, tahapan pembukaan area, rencana perawatan, dan pemicu perbaikan. Bila salah satu kolom belum dapat diisi, keputusan itu belum siap dianggap final.
+
+## Kesimpulan: pilih skenario yang bisa dibuktikan
+
+Lifecycle cost epoxy berarti menjumlahkan instalasi, downtime, perawatan, perbaikan, pembaruan, dan akhir masa pakai dengan kondisi serta ketidakpastiannya. Ia bukan ramalan umur layanan dan bukan daftar harga pasar. Mulailah dengan survei kondisi, catat operasi dan bahan pembersih, minta petunjuk O&M sistem, lalu bandingkan skenario yang memiliki asumsi dan bukti sepadan.
+
+Teman Epoxy.co.id, sebelum menyetujui pilihan, minta satu lembar keputusan yang menjawab: apa yang dipasang, kapan area kembali beroperasi, bagaimana kondisi dipantau, kapan intervensi dipicu, dan dokumen apa yang membuktikannya. Jika jawaban tentang O&M, diagnosis, atau rute limbah belum tersedia, tahan keputusan definitif dan minta peninjauan teknis yang berwenang. Aturan operasinya sederhana: biaya yang tidak dapat dijelaskan dan dibuktikan tetap merupakan risiko, bukan penghematan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -72,150 +107,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-09
-
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-17
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-19
-
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
-
-### KR-21
-
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact system O&M, condition records, compatible method, and waste route
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EPX-13-06` → `/artikel/kapan-epoxy-perlu-recoat.html` — Kapan Epoxy Perlu Recoat dan Cara Menilai Kesiapannya
-- `EPX-13-07` → `/artikel/membongkar-lantai-epoxy.html` — Membongkar Epoxy: Metode, Debu, Limbah, dan Substrat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Tentukan objek, kondisi, dan tahap siklus hidup
-
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Lifecycle Cost Epoxy: Instalasi, Downtime, Rawat, dan Renewal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

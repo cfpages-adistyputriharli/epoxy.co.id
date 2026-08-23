@@ -2,8 +2,9 @@
 article_id: EPX-14-01
 title: "Cara Membaca SDS Epoxy dan Hardener"
 slug: "cara-membaca-sds-epoxy"
-description: "Explain hazard, exposure, PPE, first aid, storage, spill, disposal, and product-specific limits"
-status: outline
+description: "Panduan membaca bahaya, paparan, alat pelindung, pertolongan pertama, penyimpanan, tumpahan, dan batas produk epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,46 +19,18 @@ sources:
   - "https://www.osha.gov/silica-crystalline"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
   - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membaca SDS Epoxy dan Hardener
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat membeli epoxy atau hardener, Anda mungkin melihat dokumen tebal bernama SDS (lembar data keselamatan) lalu bertanya: bagian mana yang harus dibaca sebelum ember dibuka? Jawaban singkatnya, baca SDS untuk menentukan bahaya produk yang benar-benar ada di tangan, cara mencegah paparan, tindakan darurat, penyimpanan, tumpahan, dan jalur pembuangan. Jangan memakai SDS untuk menebak ketahanan lantai atau hasil akhir; penafsiran kinerja itu berada di luar artikel ini.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca SDS Epoxy dan Hardener”
-- **Reader and situation:** Buyer, supervisor, or applicator
-- **Reader outcome:** Explain hazard, exposure, PPE, first aid, storage, spill, disposal, and product-specific limits
-- **Primary intent:** Interpret safety data
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes TDS performance interpretation owned by EPX-03-01
-- **Final public route:** `/artikel/cara-membaca-sds-epoxy.html`
-- **Appointed CMS date:** `2026-04-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+SDS baru berguna jika dicocokkan dengan nama produk, komponen resin dan hardener, bentuk kemasan, pekerjaan yang dilakukan, serta kondisi tempat kerja. Jika dokumennya lama, label tidak cocok, atau bagian darurat tidak jelas, tahan pekerjaan sampai pemasok dan penanggung jawab K3 memberi dokumen serta arahan yang sesuai.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca SDS Epoxy dan Hardener**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,143 +41,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal `/wp-content/uploads/2021/02/jasa-epoxy.jpg`; bukan dokumentasi proyek tertentu.*
 
-### KR-07
+## Tentukan dokumen dan batas pembacaan SDS
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Bagian ini membantu Anda memastikan bahwa dokumen yang dibaca memang milik produk dan pekerjaan yang akan dilakukan, bukan lembar umum dari merek lain. Kesalahan identitas sering membuat keputusan keselamatan terlihat rapi tetapi salah sasaran.
 
-### KR-15
+Mulai dari bagian identifikasi: nama dagang, kode produk, produsen, penggunaan yang dianjurkan, dan nomor darurat. Cocokkan semuanya dengan label drum, faktur, serta komponen yang diterima. Epoxy dan hardener bukan satu bahan yang otomatis memiliki bahaya sama; resin, pengeras, pelarut, pigmen, pengisi, pembersih, dan hasil reaksi dapat membawa risiko berbeda. NIOSH menekankan bahwa komposisi dan tugas menentukan bahaya, sehingga bau bukan alat ukur aman atau tidaknya paparan ([panduan NIOSH tentang epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)).
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Tuliskan juga batas yang tidak dijawab SDS. Dokumen ini membantu mengatur penanganan keselamatan, tetapi tidak membuktikan daya lekat, ketebalan, waktu pakai, atau umur layanan lantai. Untuk pertanyaan performa, minta lembar teknis produk dan persetujuan sistem yang tepat; jangan mengubah catatan keselamatan menjadi klaim hasil pemasangan.
 
-### KR-16
+## Baca bahaya dan jalur paparan, bukan hanya simbol
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Simbol bahaya menarik perhatian, tetapi keputusan lapangan lahir dari hubungan antara bahaya, jalur masuk, dan tindakan pengendalian. Di bagian klasifikasi bahaya serta komposisi, cari bahaya kulit, mata, pernapasan, kebakaran, reaktivitas, dan bahan yang mungkin muncul ketika produk dipanaskan, dicampur, atau dibersihkan.
 
-### KR-17
+Tanyakan mekanismenya: apakah bahan bisa mengenai kulit saat menuang, menjadi uap saat pelarut dipakai, atau menjadi debu saat lapisan kering digerinda? Paparan kulit berulang dapat menimbulkan masalah meskipun baunya ringan; NIOSH menjelaskan bahwa bau tidak dapat dijadikan indikator paparan dan pemilihan sarung tangan harus cocok dengan bahan serta tugas ([NIOSH tentang paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Jika pekerjaan mencakup penggerindaan, debu dipengaruhi material, alat, durasi, pengendalian, perawatan, dan pembersihan; debu atau lumpur kering dapat menjadi paparan sekunder ([lembar OSHA tentang pengendalian debu](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)).
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Contoh sederhananya begini, Sobat Epoxy.co.id: ruang yang tidak berbau tajam belum tentu aman jika hardener menyentuh tangan berulang kali. Catat jalur paparan yang benar-benar ada, lalu minta penilaian K3 untuk ventilasi dan alat pelindung yang sesuai produk. Jangan menyalin batas paparan atau resep alat dari panduan Amerika Serikat sebagai kewajiban hukum Indonesia.
 
-### KR-19
+## Ubah bagian pencegahan menjadi keputusan kerja
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Bagian pengendalian paparan dan alat pelindung diri (APD) seharusnya menjawab siapa melakukan apa, dengan bahan apa, di ruang seperti apa. Baca jenis sarung tangan yang disebut pemasok, perlindungan mata atau wajah, pakaian kerja, ventilasi, dan kebutuhan pengawasan; jangan menggantinya hanya karena barang pengganti terasa nyaman.
 
-## Evidence gates
+SDS tidak bisa memilih APD secara universal tanpa mengetahui formulasi, suhu, lama kontak, dan pekerjaan. Cocokkan rekomendasi dengan label terbaru dan penilaian bahaya tempat kerja. Permenaker No. 5 Tahun 2018 dapat menjadi rujukan kerangka lingkungan kerja dan faktor kimia, debu, kebisingan, panas, ventilasi, serta ergonomi, tetapi halaman identitas peraturan saja tidak memberi Anda angka batas atau kesimpulan kepatuhan ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-- **TOPIC-GATE:** Current SDS/label, Indonesian K3/environmental assessment, and emergency plan
+Jika supervisor meminta “pakai masker saja”, tanyakan paparan apa yang hendak dikendalikan dan bukti pemilihan APD-nya. Untuk pekerjaan di area berpenghuni, keputusan ventilasi, pembatasan akses, dan waktu masuk kembali harus dibuat oleh pihak yang berwenang berdasarkan kondisi nyata, bukan berdasarkan hilangnya bau.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Siapkan pertolongan pertama dan penanganan tumpahan
 
-## Internal-link plan
+Bagian pertolongan pertama dibaca sebelum pencampuran, karena saat insiden terjadi orang tidak punya waktu menebak. Pisahkan tindakan untuk mata, kulit, terhirup, dan tertelan; perhatikan juga instruksi kapan harus mencari bantuan medis serta informasi yang perlu dibawa, seperti label dan SDS.
 
-### Existing local routes
+Bagian pelepasan tak sengaja memberi urutan yang berbeda dari membersihkan noda biasa: amankan orang, hentikan sumber jika aman, cegah bahan masuk ke saluran, gunakan media penyerap yang sesuai, dan simpan limbah dalam wadah berlabel. Jangan menyentuh tumpahan tanpa memastikan APD dan ventilasi. Kawan Epoxy.co.id, bila bahan mengenai mata, sulit bernapas, menimbulkan gejala, atau identitas produknya tidak jelas, ikuti petunjuk darurat pada SDS dan hubungi layanan medis setempat; artikel ini bukan diagnosis.
 
-- `/format-jasa-floor-hardener.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/floor-hardener-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/floor-hardener-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/floor-hardener-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk penggerindaan atau pembersihan, jangan menyapu debu kering sembarangan. OSHA menjelaskan bahwa metode kerja, peralatan, durasi, dan pembersihan memengaruhi terbentuknya debu; minta rencana pengendalian yang dinilai untuk lokasi Anda ([OSHA tentang silika kristalin](https://www.osha.gov/silica-crystalline)).
 
-### Planned sibling articles
+## Atur penyimpanan, sisa campuran, dan pembuangan
 
-These are future routes. Do not link them as live until their HTML exists.
+Bagian penyimpanan menjawab kondisi yang menjaga produk tetap terkendali: wadah tertutup, pemisahan bahan yang tidak kompatibel, suhu atau ventilasi yang ditentukan, serta akses yang hanya diberikan kepada orang yang paham. Ikuti label dan SDS produk; jangan menyatukan resin, hardener, pelarut, dan bahan penyerap hanya karena semuanya berasal dari satu pekerjaan.
 
-- `EPX-14-02` → `/artikel/ventilasi-saat-aplikasi-epoxy.html` — Ventilasi dan Pengendalian Paparan Saat Aplikasi Epoxy
-- `EPX-14-03` → `/artikel/ppe-untuk-pekerjaan-epoxy.html` — PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan
+Sisa bahan belum tentu memiliki jalur pembuangan yang sama. Komponen yang belum terpakai, campuran yang mengeras, kain atau penyerap tercemar, cairan pencuci, lumpur, debu, lapisan yang dilepas, kemasan, dan sampah biasa perlu diidentifikasi satu per satu. PP No. 22 Tahun 2021 dan Permen LHK No. 6 Tahun 2021 menjadi rujukan kerangka pengelolaan lingkungan, tetapi klasifikasi limbah dan rute akhirnya harus ditetapkan dari kondisi aktual serta aturan daerah yang berlaku ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html); [Permen LHK No. 6 Tahun 2021](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf)).
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jadi, jangan menuang sisa hardener ke drainase atau memberi label “sampah biasa” pada wadah yang terkontaminasi sebelum ada penilaian lingkungan. Catat bentuk limbah, jumlah perkiraan, wadah, dan pihak pengangkut yang disetujui; bila informasi belum cukup, tandai `[NEEDS REVIEW: klasifikasi dan rute limbah harus ditetapkan berdasarkan SDS terbaru serta penilaian lingkungan setempat]`.
 
-## Hasil akhir dan prasyarat
+## Tahan pekerjaan ketika SDS atau kondisi lapangan tidak cocok
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Titik berhenti bukan berarti pekerjaan gagal; itu cara mencegah keputusan yang tidak bisa ditarik kembali. Hentikan persiapan bila nama produk pada SDS berbeda dari label, versi dokumen tidak dapat ditentukan, instruksi darurat kosong, ventilasi tidak memadai, APD yang disyaratkan tidak tersedia, atau tumpahan tidak dapat ditampung dengan aman.
 
-## Langkah 1 — tetapkan scope
+Teman Epoxy.co.id, minta pemasok mengonfirmasi SDS untuk setiap komponen, lalu minta penanggung jawab K3 meninjau pekerjaan dan kondisi ruang. Jika ada gejala setelah paparan, berikan label serta SDS kepada tenaga medis. Jangan membuat kesimpulan “aman karena sudah pernah dipakai”; formulasi, metode, dan lingkungan bisa berubah.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Catat hasil pembacaan dan serah-terimakan keputusan
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Buat satu catatan ringkas yang menghubungkan produk dengan tindakan: nama dan kode komponen, tanggal SDS, bahaya utama, jalur paparan, APD yang disetujui, ventilasi dan pembatasan akses, langkah pertolongan pertama, prosedur tumpahan, lokasi penyimpanan, serta rute limbah. Minta supervisor atau petugas K3 menandatangani bagian yang menjadi kewenangannya dan simpan catatan bersama SDS di lokasi kerja.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan akhir bukan sekadar mencentang bahwa dokumen ada. Cocokkan SDS dengan kemasan yang datang, periksa label wadah sisa, pastikan nomor darurat dapat dihubungi, dan tanyakan siapa yang bertanggung jawab saat terjadi tumpahan. Jika salah satu jawaban belum ada, keputusan yang benar adalah menahan pekerjaan dan meminta klarifikasi, bukan mengisi kolom dengan asumsi.
 
-## Langkah 3 — jalankan urutan kerja
+## Jalan pintas “ikuti bau dan pengalaman” sering menipu
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pekerja berpengalaman kadang ingin langsung mencampur karena produk terasa familiar atau tidak berbau. Jalan pintas ini gagal karena bau dipengaruhi bahan dan kondisi, sedangkan bahaya kulit, uap, debu, atau hasil reaksi memerlukan pengendalian yang berbeda. Pengalaman boleh membantu menemukan pertanyaan, tetapi tidak menggantikan SDS terbaru dan penilaian lokasi.
 
-## Hold point dan kondisi berhenti
+Cara yang lebih andal adalah membandingkan label, SDS, tugas, dan pengendalian sebelum membuka kemasan. Setelah keputusan keselamatan jelas, barulah Anda mencari informasi sistem atau layanan yang relevan, misalnya penjelasan tentang [jasa floor hardener](/format-jasa-floor-hardener.html) atau [format epoxy PU coating](/format-epoxy-pu-coating.html), tanpa menganggap halaman tersebut sebagai pengganti SDS.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: SDS adalah dasar keputusan, bukan jaminan hasil
 
-## Verifikasi hasil dan handover
+Cara membaca SDS epoxy dan hardener adalah mencocokkan identitas produk dengan bahaya, jalur paparan, APD, pertolongan pertama, penyimpanan, tumpahan, dan limbah yang benar-benar mungkin terjadi. Simpan batasnya dengan jujur: SDS tidak menjawab performa sistem, dan sumber umum tidak menetapkan kewajiban atau klasifikasi limbah untuk setiap proyek.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca SDS Epoxy dan Hardener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: minta SDS terbaru untuk setiap komponen, tandai bagian yang belum jelas, lalu minta penanggung jawab K3 dan lingkungan mengesahkan rencana kerja sebelum aplikasi. Aturan operasionalnya sederhana, Kawan Epoxy.co.id: bila dokumen, produk, atau kondisi lapangan tidak cocok, berhenti dan minta bukti yang tepat sebelum pekerjaan dimulai.
