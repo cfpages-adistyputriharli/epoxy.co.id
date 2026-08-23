@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 10:08:00 (Asia/Jakarta)**
+Last updated: **2026-08-23 11:08:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 10:08:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 36 |
-| Remaining | 92 |
-| Repository status | ✍️ Batches 01–06 accepted and pushed; Batch 06 article parity is `fdae7fd3`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 42 |
+| Remaining | 86 |
+| Repository status | ✍️ Batches 01–07 accepted and pushed; Batch 07 article parity is `439e20ec`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -83,12 +83,12 @@ Last updated: **2026-08-23 10:08:00 (Asia/Jakarta)**
 | 35 | `EPX-05-03` | `EPX-05` | Cara Menentukan Metode Menghapus Coating Lama | `artikel/metode-menghapus-coating-lama.md` | ✅ Accepted and pushed | Batch 06 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `fdae7fd3`. | 2026-08-23 |
 | 36 | `EPX-05-04` | `EPX-05` | Degreasing Beton Terkontaminasi: Batas dan Verifikasi | `artikel/degreasing-beton-terkontaminasi.md` | ✅ Accepted and pushed | Batch 06 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `fdae7fd3`. | 2026-08-23 |
 | 37 | `EPX-05-05` | `EPX-05` | Detail Tepi, Sudut, Drain, dan Penetrasi pada Sistem Epoxy | `artikel/detail-tepi-sudut-drain-penetrasi-epoxy.md` | ✅ Accepted and pushed | Batch 06 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `fdae7fd3`. | 2026-08-23 |
-| 38 | `EPX-05-06` | `EPX-05` | Concrete Surface Profile dan Cara Memverifikasinya | `artikel/concrete-surface-profile-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 39 | `EPX-05-07` | `EPX-05` | Pengendalian Debu Saat Persiapan Lantai Epoxy | `artikel/pengendalian-debu-persiapan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 40 | `EPX-05-08` | `EPX-05` | Checklist Penerimaan Permukaan Sebelum Primer | `artikel/checklist-penerimaan-permukaan-sebelum-primer.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 41 | `EPX-06-01` | `EPX-06` | Cara Memilih Sistem Epoxy Berdasarkan Kondisi Proyek | `artikel/cara-memilih-sistem-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 42 | `EPX-06-02` | `EPX-06` | Epoxy vs PU Cement vs Floor Hardener vs Polished Concrete | `artikel/epoxy-vs-pu-cement-vs-floor-hardener-vs-polished-concrete.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 43 | `EPX-06-03` | `EPX-06` | Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat | `artikel/menyusun-build-up-sistem-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 38 | `EPX-05-06` | `EPX-05` | Concrete Surface Profile dan Cara Memverifikasinya | `artikel/concrete-surface-profile-epoxy.md` | ✅ Accepted and pushed | Batch 07 bounded repair passed fresh independent re-review, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
+| 39 | `EPX-05-07` | `EPX-05` | Pengendalian Debu Saat Persiapan Lantai Epoxy | `artikel/pengendalian-debu-persiapan-epoxy.md` | ✅ Accepted and pushed | Batch 07 managed-packet restoration and bounded repair passed fresh independent re-review, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
+| 40 | `EPX-05-08` | `EPX-05` | Checklist Penerimaan Permukaan Sebelum Primer | `artikel/checklist-penerimaan-permukaan-sebelum-primer.md` | ✅ Accepted and pushed | Batch 07 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
+| 41 | `EPX-06-01` | `EPX-06` | Cara Memilih Sistem Epoxy Berdasarkan Kondisi Proyek | `artikel/cara-memilih-sistem-epoxy.md` | ✅ Accepted and pushed | Batch 07 patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
+| 42 | `EPX-06-02` | `EPX-06` | Epoxy vs PU Cement vs Floor Hardener vs Polished Concrete | `artikel/epoxy-vs-pu-cement-vs-floor-hardener-vs-polished-concrete.md` | ✅ Accepted and pushed | Batch 07 evidence recovery added the missing fresh independent semantic receipt; leased-checkout validation and remote parity `439e20ec` passed. | 2026-08-23 |
+| 43 | `EPX-06-03` | `EPX-06` | Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat | `artikel/menyusun-build-up-sistem-epoxy.md` | ✅ Accepted and pushed | Batch 07 two-stage bounded repair passed fresh independent final review, leased-checkout validation, and remote parity `439e20ec`. | 2026-08-23 |
 | 44 | `EPX-06-04` | `EPX-06` | Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih | `artikel/memilih-tekstur-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 45 | `EPX-06-05` | `EPX-06` | Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak | `artikel/joint-pada-lantai-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 46 | `EPX-06-06` | `EPX-06` | Memilih Warna dan Zoning Epoxy untuk Operasi Fasilitas | `artikel/warna-dan-zoning-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
