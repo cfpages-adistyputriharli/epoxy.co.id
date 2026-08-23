@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
+Last updated: **2026-08-24 00:00:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,11 +15,11 @@ Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 126 |
-| Remaining | 2 |
-| Repository status | ✍️ Batches 01–13 accepted and pushed; Batch 13 parity is `b650b09`; EPX-01-01 remains queued for correction and EPX-16-08 remains outline |
-| Open correction/re-review flags | 1 |
-| Patient-reader rewrites accepted | 126 |
+| Accepted and pushed | 128 |
+| Remaining | 0 |
+| Repository status | ✅ Complete; all 128 articles accepted, committed, pushed, and at clean origin parity `bec949209b6a7813d40b2f376274a6f579332cb7` |
+| Open correction/re-review flags | 0 |
+| Patient-reader rewrites accepted | 128 |
 
 ## Legend
 
@@ -47,7 +47,7 @@ Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
 
 | No. | ID | Topic | Working title | Article file | Status | Review/correction note | Last review |
 |---:|---|---|---|---|---|---|---|
-| 1 | `EPX-01-01` | `EPX-01` | Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing | `artikel/apa-itu-epoxy-resin-hardener-curing.md` | ⚠️ Needs correction | Luna patient-reader calibration passed the native receipt and validator (`errors=0`, one expected `[NEEDS ...]` warning). Primary sample found beginner-facing compression: expand `DSC`, `FTIR`, `TDS`, and `SDS` at first use, and add a concrete example/check in the substrate explanation. Per Syamsul's calibration instruction, retain this draft unchanged; the reusable writer contract was hardened for later leaves. | 2026-08-23 |
+| 1 | `EPX-01-01` | `EPX-01` | Apa Itu Epoxy? Resin, Hardener, dan Hasil Curing | `artikel/apa-itu-epoxy-resin-hardener-curing.md` | ✅ Accepted and pushed | Bounded correction final SHA `38ab7257c79d873844f841bd17ae97df10c1f40224b2c2a6d1334b20b0b3a90b`; repair receipt `5efee6973d651bbd63a9032d2ab2a9265c003eb2e24fedd99330cc420188b78a`; fresh independent reviewer ACCEPT receipt `4413d68c311e4592ea370e9585777955c0c1b8ec36398faed5770c0fbb18a8df`; commit/push and origin parity `bec949209b6a7813d40b2f376274a6f579332cb7`. | 2026-08-24 |
 | 2 | `EPX-01-02` | `EPX-01` | Glosarium Epoxy Indonesia: Istilah yang Sering Tertukar | `artikel/glosarium-epoxy-indonesia.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed fresh Luna writer/repair/re-review receipts and leased-checkout validation, including explicit local-image disclosure; remote parity `5ee38d98`. | 2026-08-23 |
 | 3 | `EPX-01-03` | `EPX-01` | Cara Kerja Reaksi Curing Epoxy | `artikel/cara-kerja-curing-epoxy.md` | ✅ Accepted and pushed | Batch 01 patient-reader draft passed independent current-SHA semantic acceptance and remote parity `5ee38d98`. | 2026-08-23 |
 | 4 | `EPX-01-04` | `EPX-01` | Pot Life, Working Time, Recoat, dan Full Cure | `artikel/pot-life-working-time-recoat-full-cure.md` | ✅ Accepted and pushed | Batch 01 bounded repair passed a fresh independent re-review and remote parity `5ee38d98`. | 2026-08-23 |
@@ -174,7 +174,7 @@ Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
 | 125 | `EPX-16-05` | `EPX-16` | QC Lapangan Epoxy: Ketebalan, Adhesi, Visual, dan Catatan | `artikel/qc-lapangan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
 | 126 | `EPX-16-06` | `EPX-16` | Mock-Up Epoxy dan Form Persetujuan Sampel | `artikel/mock-up-epoxy-dan-persetujuan-sampel.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
 | 127 | `EPX-16-07` | `EPX-16` | Dokumen Handover dan Garansi Pekerjaan Epoxy | `artikel/handover-dan-garansi-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
-| 128 | `EPX-16-08` | `EPX-16` | Format Case Study Epoxy yang Bisa Diverifikasi | `artikel/format-case-study-proyek-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 128 | `EPX-16-08` | `EPX-16` | Format Case Study Epoxy yang Bisa Diverifikasi | `artikel/format-case-study-proyek-epoxy.md` | ✅ Accepted and pushed | Final acceptance index `165f182811bf0ae3b70f82f821600380c05fc3ab964001e4c1aec02daf863779` (accepted1); semantic ACCEPT receipt `cbaecc8ce3bdd44df46166cbcc751f89aca2840c285705c345fd39afc29b0be1`; final SHA `ed6277ac7312211debac0f9d86f384b440eb0ba25f2448facd50cdacd176ff5c`; commit/push `2919c42c74974d60ae68149d093817232312d1fd`. | 2026-08-24 |
 
 ## Update rule
 
