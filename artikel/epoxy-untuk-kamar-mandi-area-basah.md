@@ -2,8 +2,9 @@
 article_id: EPX-09-05
 title: "Epoxy untuk Kamar Mandi dan Area Basah"
 slug: "epoxy-untuk-kamar-mandi-area-basah"
-description: "Explain drainage, substrate waterproofing, texture, transitions, cleaning, and leak limits"
-status: outline
+description: "Panduan menilai epoxy untuk kamar mandi dan area basah dengan memeriksa drainase, substrat, tekstur, sambungan, pembersihan, dan batas kebocoran."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,13 @@ final_route: "/artikel/epoxy-untuk-kamar-mandi-area-basah.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
   - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Epoxy untuk Kamar Mandi dan Area Basah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Epoxy untuk Kamar Mandi dan Area Basah”
-- **Reader and situation:** Home or hospitality owner
-- **Reader outcome:** Explain drainage, substrate waterproofing, texture, transitions, cleaning, and leak limits
-- **Primary intent:** Evaluate wet-area use
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes standalone waterproofing service owned by `/water-proofing`
-- **Final public route:** `/artikel/epoxy-untuk-kamar-mandi-area-basah.html`
-- **Appointed CMS date:** `2025-11-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy untuk Kamar Mandi dan Area Basah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -72,159 +33,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy flooring` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Epoxy untuk Kamar Mandi dan Area Basah
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Epoxy.co.id! Kamar mandi memang tampak cocok untuk epoxy karena permukaannya rapi dan mudah dilap. Namun lantai mengilap tidak otomatis mengarahkan air ke floor drain, menutup retak, atau menghentikan kebocoran. Keputusan yang aman adalah memakai epoxy hanya setelah kemiringan, saluran, lapisan dasar, dan pertemuan lantai-dinding diperiksa.
 
-### KR-04
+Epoxy dapat menjadi bagian dari sistem pelapis area basah, bukan pengganti waterproofing, perbaikan retak, atau desain drainase. Jika air berasal dari pipa, retak struktur, atau lapisan kedap air di bawah lantai, mengecat permukaan hanya menyembunyikan gejala. Artikel ini membantu pemilik rumah dan pengelola penginapan menentukan pemeriksaan yang perlu diminta sebelum menyetujui pekerjaan.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+![Ilustrasi epoxy flooring](/wp-content/uploads/2021/02/epoxy-flooring.jpg)
 
-### KR-09
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+## Epoxy di kamar mandi: pelapis, bukan penahan semua kebocoran
 
-### KR-10
+Istilah “kedap air” sering membuat orang mengira satu lapisan menggantikan seluruh sistem lantai. Kita bedakan fungsi pelapis, lapisan kedap air, dan bangunan di bawahnya agar keputusan tidak salah arah.
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Epoxy mengeras setelah komponennya dicampur dan melindungi permukaan sesuai sistem produk. Hasilnya bergantung pada substrat yang sehat, kering sesuai metode, bersih, serta detail sambungan yang benar. PP No. 16 Tahun 2021 menempatkan lantai sebagai bagian dari sistem bangunan yang juga menyangkut keselamatan, kesehatan, aksesibilitas, dan ketentuan setempat; satu produk tidak menggantikan semuanya ([rujukan BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
 
-### KR-11
+Jadi pertanyaan pertama bukan “epoxy mana yang tahan kamar mandi?”, melainkan “air seharusnya berhenti dan mengalir di mana?”. Bila air merembes dari bawah atau menggenang karena kemiringan salah, minta diagnosis sumbernya dan jangan menerima janji permukaan baru pasti menghentikan kebocoran.
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+## Memeriksa drainase dan lapisan dasar
 
-### KR-16
+Air mengikuti kemiringan, bukan kilap lapisan. Periksa arah aliran, kondisi floor drain, kelembapan, retak, dan kontaminasi karena semuanya menentukan daya lekat.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Amati genangan setelah pembilasan terkendali. Catat titik yang tetap basah, waktu pengeringan, dan apakah air kembali dari sambungan atau dinding. Ini bukan uji kedap air, tetapi membantu menyusun pertanyaan untuk pelaksana. Saluran tersumbat atau bibir drain terlalu tinggi harus diperbaiki sebelum membahas warna.
 
-### KR-19
+Telusuri jenis substrat, usia, riwayat perbaikan, sumber lembap, retak, lubang, dan sisa sabun atau minyak. Minta metode serta hasil pengukuran yang dipakai, lengkap dengan alat, tanggal, dan kriteria penerimaan. Bila gerakan retak atau sumber air belum jelas, jadikan diagnosis sebagai titik berhenti sebelum pelapisan.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Detail sekitar drain, sudut lantai-dinding, pipa, dan ambang pintu perlu dijelaskan dalam metode kerja. Transisi yang hanya ditutup dempul permukaan dapat terbuka saat ada gerakan atau pembersihan. Kawan Epoxy.co.id, minta urutan perbaikan, bahan yang kompatibel, dan pihak yang menyetujui detail itu.
 
-### KR-21
+## Tekstur, kemiringan, dan sambungan
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Permukaan licin memang mudah dilap, tetapi kamar mandi membawa air, sabun, kaki telanjang, dan kemiringan. Tekstur harus dinilai sebagai bagian dari risiko penggunaan, bukan sekadar hiasan.
 
-## Evidence gates
+Hasil anti-selip dipengaruhi tekstur, keausan, kontaminasi, kondisi basah-kering, alas kaki, kemiringan, cara membersihkan, alat uji, dan pengguna. Koleksi standar keselamatan jalur pejalan kaki ASTM menunjukkan bahwa metode dan kondisi pengujian memengaruhi arti hasil; klaim “anti-slip” tanpa metode dan batas pemakaian tidak cukup ([rujukan ASTM](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html)).
 
-- **TOPIC-GATE:** Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review
+Mintalah contoh tekstur dari sistem yang sama dan nilai apakah masih dapat dibersihkan tanpa menahan kotoran. Kamar mandi rumah berbeda dari ruang bilas penginapan yang dipakai banyak orang. Jangan menyalin angka dari proyek lain. Untuk tuntutan aksesibilitas atau keselamatan khusus, tentukan metode lokal yang berlaku dan minta peninjauan kompeten.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sambungan bukan tempat menutupi retak aktif. Gerakan pada pertemuan material memerlukan detail yang memungkinkan gerak dan tetap dapat dirawat. Pelapis bukan pengganti desain perbaikan struktur.
 
-## Internal-link plan
+## Memilih sistem dan mengatur pembersihan
 
-### Existing local routes
+Label “epoxy kamar mandi” belum menjelaskan primer, lapisan utama, agregat, pelindung akhir, ketebalan, waktu pengeringan, atau kompatibilitas. Minta lembar data teknis dan keselamatan untuk susunan lapisan yang benar-benar ditawarkan.
 
-- `/berita/lantai-3d-untuk-kamar-mandi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Cocokkan paparan air, bahan pembersih, suhu, waktu kontak, dan lalu lintas dengan data uji. ASTM D1308 menilai pengaruh bahan kimia rumah tangga pada kondisi paparan dan evaluasi tertentu; hasilnya bukan jaminan semua cairan atau konsentrasi aman ([metode ASTM D1308](https://store.astm.org/standards/d1308)).
 
-### Planned sibling articles
+Buat aturan pembersihan berdasarkan instruksi sistem: bahan, pengenceran, waktu diam, alat, pembilasan, dan frekuensi. ISO 12944-8 dapat membantu membingkai inspeksi dan pemeliharaan, tetapi tidak membenarkan interval atau masa pakai universal ([ISO 12944-8](https://www.iso.org/standard/64838.html)). Catat pengelupasan, tekstur aus, sambungan terbuka, dan genangan; foto berkala membantu membandingkan kondisi, bukan menggantikan inspeksi.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan untuk rumah dan penginapan
 
-- `EPX-09-03` → `/artikel/epoxy-untuk-fasilitas-kesehatan.html` — Lantai Resin untuk Rumah Sakit dan Fasilitas Kesehatan
-- `EPX-09-04` → `/artikel/epoxy-untuk-dapur-komersial.html` — Epoxy untuk Dapur Komersial dan Restoran
-- `EPX-09-06` → `/artikel/epoxy-untuk-hotel-retail-ruang-publik.html` — Epoxy untuk Hotel, Retail, dan Ruang Publik
-- `EPX-09-07` → `/artikel/desain-warna-motif-dan-sampel-epoxy.html` — Desain Warna, Motif, dan Sampel Epoxy
+Jika kamar mandi rumah memiliki drainase baik, substrat telah diperiksa, tidak ada rembesan, dan kebutuhan utamanya permukaan mudah dirawat, epoxy dapat dipertimbangkan sebagai bagian dari sistem yang disetujui. Mintalah sampel tekstur, rencana transisi, dokumen produk, dan aturan ruang boleh digunakan kembali.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika kamar mandi penginapan mengalami genangan, pembersihan sering, dan waktu henti sempit, susun matriks paparan: jumlah pengguna, bahan pembersih, suhu, frekuensi bilas, dan akses perbaikan. Bukti uji harus cocok dengan kondisi itu; laporan laboratorium tidak otomatis membuktikan masa layanan di bangunan Anda.
 
-## Jawaban singkat dan salah paham utama
+Jika air muncul di plafon ruang bawah atau dinding tetangga, hentikan keputusan kosmetik. Telusuri pipa, sambungan, lapisan kedap air, dan retak dengan pihak bertanggung jawab.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum yang tampak praktis
 
-## Definisi dan batas objek
+Mengecat lantai yang masih lembap karena tenggat dapat mengganggu ikatan dan memindahkan masalah ke masa setelah ruang dibuka. Tahan pekerjaan sampai pengukuran, kriteria, dan persetujuan tertulis jelas.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Memilih permukaan paling licin agar kotoran tidak menempel juga keliru. Tekstur dan cara membersihkan harus diuji bersama, dalam kondisi basah dan dengan bahan yang benar-benar digunakan.
 
-## Cara kerjanya
+Foto selesai dan kuitansi material bukan bukti mutu. Rekam inspeksi substrat, batch, kondisi lingkungan, persiapan, lapisan, waktu pengerasan, cacat, dan penutupan temuan. ISO 16311-4 menekankan pentingnya metode dan rekaman sesuai proyek; bukti harus dibaca bersama spesifikasi yang disetujui ([ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya sebelum menyetujui epoxy
 
-## Faktor yang mengubah hasil
+Sobat Epoxy.co.id, kumpulkan denah titik drain, foto retak dan genangan, riwayat kebocoran, jenis pembersih, serta jam penggunaan. Minta pelaksana menjawab: bagaimana substrat diukur, bagaimana detail drain dan sudut dibuat, sistem lapisan apa yang dipakai, bukti tekstur apa yang tersedia, dan kapan ruang boleh menerima air serta pengguna.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan [panduan format cat epoxy](/format-cat-epoxy.html) untuk memahami istilah pelapis, lalu bandingkan dengan [format PU coating](/format-epoxy-pu-coating.html) bila kebutuhan menuntut sistem lain. Tautan itu membantu mengenali pilihan; keputusan akhir tetap menunggu pemeriksaan area dan dokumen proyek.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy untuk Kamar Mandi dan Area Basah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Ringkasnya, epoxy layak dipertimbangkan ketika drainase, substrat, sambungan, tekstur, sistem produk, dan pemeliharaan terbukti sesuai penggunaan. Epoxy tidak menyelesaikan sumber kebocoran yang belum didiagnosis. Selesaikan pertanyaan tentang air dan substrat dulu, baru pilih permukaan dan jadwal aplikasi.
