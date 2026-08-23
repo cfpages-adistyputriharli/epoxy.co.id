@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 08:01:00 (Asia/Jakarta)**
+Last updated: **2026-08-23 09:28:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 08:01:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 24 |
-| Remaining | 104 |
-| Repository status | ✍️ Batches 01–04 accepted and pushed; Batch 04 article parity is `0975fcd1`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 30 |
+| Remaining | 98 |
+| Repository status | ✍️ Batches 01–05 accepted and pushed; Batch 05 article parity is `15cda233`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -71,12 +71,12 @@ Last updated: **2026-08-23 08:01:00 (Asia/Jakarta)**
 | 23 | `EPX-03-07` | `EPX-03` | Slip Resistance Epoxy: Tekstur, Kondisi Basah, dan Perawatan | `artikel/slip-resistance-epoxy.md` | ✅ Accepted and pushed | Batch 04 patient-reader draft passed independent current-SHA semantic acceptance, leased-checkout validation, and remote parity `0975fcd1`. | 2026-08-23 |
 | 24 | `EPX-03-08` | `EPX-03` | Checklist Spesifikasi Epoxy Berbasis Kinerja | `artikel/checklist-spesifikasi-epoxy-berbasis-kinerja.md` | ✅ Accepted and pushed | Batch 04 patient-reader draft passed independent current-SHA semantic acceptance, leased-checkout validation, and remote parity `0975fcd1`. | 2026-08-23 |
 | 25 | `EPX-04-01` | `EPX-04` | Checklist Survey Lantai Beton Sebelum Epoxy | `artikel/checklist-survey-beton-sebelum-epoxy.md` | ✅ Accepted and pushed | Batch 04 patient-reader draft passed independent current-SHA semantic acceptance, leased-checkout validation, and remote parity `0975fcd1`. | 2026-08-23 |
-| 26 | `EPX-04-02` | `EPX-04` | Kelembapan Beton Sebelum Epoxy: Sumber, Uji, dan Risiko | `artikel/kelembapan-beton-sebelum-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 27 | `EPX-04-03` | `EPX-04` | Beton Baru: Kapan Siap Dilapisi Epoxy? | `artikel/beton-baru-siap-dilapisi-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 28 | `EPX-04-04` | `EPX-04` | Minyak, Lemak, Silikon, dan Kontaminan pada Substrat | `artikel/kontaminan-substrat-sebelum-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 29 | `EPX-04-05` | `EPX-04` | Retak, Joint, dan Pergerakan Beton Sebelum Epoxy | `artikel/retak-joint-dan-pergerakan-beton.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 30 | `EPX-04-06` | `EPX-04` | Menilai Cat atau Coating Lama Sebelum Recoat | `artikel/menilai-coating-lama-sebelum-recoat.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 31 | `EPX-04-07` | `EPX-04` | Apakah Epoxy Bisa untuk Kayu, Logam, Keramik, atau Aspal? | `artikel/epoxy-pada-kayu-logam-keramik-aspal.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 26 | `EPX-04-02` | `EPX-04` | Kelembapan Beton Sebelum Epoxy: Sumber, Uji, dan Risiko | `artikel/kelembapan-beton-sebelum-epoxy.md` | ✅ Accepted and pushed | Batch 05 corrected-kit patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
+| 27 | `EPX-04-03` | `EPX-04` | Beton Baru: Kapan Siap Dilapisi Epoxy? | `artikel/beton-baru-siap-dilapisi-epoxy.md` | ✅ Accepted and pushed | Batch 05 recovered candidate passed a bounded typo repair, fresh independent re-review, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
+| 28 | `EPX-04-04` | `EPX-04` | Minyak, Lemak, Silikon, dan Kontaminan pada Substrat | `artikel/kontaminan-substrat-sebelum-epoxy.md` | ✅ Accepted and pushed | Batch 05 corrected-kit patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
+| 29 | `EPX-04-05` | `EPX-04` | Retak, Joint, dan Pergerakan Beton Sebelum Epoxy | `artikel/retak-joint-dan-pergerakan-beton.md` | ✅ Accepted and pushed | Batch 05 corrected-kit patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
+| 30 | `EPX-04-06` | `EPX-04` | Menilai Cat atau Coating Lama Sebelum Recoat | `artikel/menilai-coating-lama-sebelum-recoat.md` | ✅ Accepted and pushed | Batch 05 corrected-kit patient-reader draft passed independent semantic acceptance, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
+| 31 | `EPX-04-07` | `EPX-04` | Apakah Epoxy Bisa untuk Kayu, Logam, Keramik, atau Aspal? | `artikel/epoxy-pada-kayu-logam-keramik-aspal.md` | ✅ Accepted and pushed | Batch 05 recovered candidate passed fresh corrected-kit acceptance, leased-checkout validation, and remote parity `15cda233`. | 2026-08-23 |
 | 32 | `EPX-04-08` | `EPX-04` | Format Laporan Kondisi Substrat untuk Tender Epoxy | `artikel/format-laporan-kondisi-substrat-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 33 | `EPX-05-01` | `EPX-05` | Persiapan Permukaan Epoxy: Urutan dan Titik Kontrol | `artikel/persiapan-permukaan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 34 | `EPX-05-02` | `EPX-05` | Grinding vs Shot Blasting vs Scarifying untuk Beton | `artikel/grinding-vs-shot-blasting-vs-scarifying.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
