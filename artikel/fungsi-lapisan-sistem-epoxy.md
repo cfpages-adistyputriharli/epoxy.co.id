@@ -2,8 +2,9 @@
 article_id: EPX-02-08
 title: "Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis"
 slug: "fungsi-lapisan-sistem-epoxy"
-description: "Show what each layer does, failure if omitted, and how to question substitutions"
-status: outline
+description: "Memahami fungsi primer, body coat, broadcast, dan topcoat pada sistem epoxy agar Anda dapat memeriksa penawaran dan menanyakan penggantian lapisan dengan tepat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,45 +20,11 @@ sources:
   - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
   - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”
-- **Reader and situation:** Buyer reading a multi-line quotation
-- **Reader outcome:** Show what each layer does, failure if omitted, and how to question substitutions
-- **Primary intent:** Understand system anatomy
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes project-specific build selection owned by EPX-06-03
-- **Final public route:** `/artikel/fungsi-lapisan-sistem-epoxy.html`
-- **Appointed CMS date:** `2025-05-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,136 +35,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa epoxy` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Epoxy.co.id!
 
-### KR-02
+Saat membaca penawaran lantai epoxy, Anda mungkin melihat empat baris: primer, body coat, broadcast, dan topcoat. Karena semuanya sama-sama disebut “epoxy”, penggantian satu baris dengan lapisan lebih tipis sering terlihat seperti penghematan yang aman. Padahal tiap lapisan bekerja pada masalah yang berbeda; menghapusnya dapat mengubah daya lekat, ketebalan, tekstur, atau perlindungan permukaan.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Jawaban singkatnya: primer menyiapkan dan mengikat ke beton, body coat membangun badan lapisan, broadcast menambah agregat atau tekstur bila sistem memerlukannya, sedangkan topcoat menutup dan melindungi permukaan. Nama lapisan bukan bukti bahwa formulasi, ketebalan, dan cara curing-nya cocok. ISO menjelaskan bahwa resin, bahan pengeras, pigmen, pengisi, agregat, pelarut atau air, substrat, serta persiapan benda uji dapat mengubah perilaku epoxy; karena itu periksa sistem utuh, bukan hanya merek atau nama satu produk ([ISO 18280:2010](https://www.iso.org/standard/52877.html), [ISO 7142:2023](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012](https://www.iso.org/standard/59248.html)).
 
-### KR-03
+Artikel ini membantu Anda membaca arti tiap baris dan menanyakan akibat bila ada substitusi. Pemilihan susunan dan ketebalan untuk kondisi proyek tertentu tetap memerlukan data lokasi, produk, dan persetujuan teknis; bagian itu berada di luar artikel ini.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+![Ilustrasi jasa epoxy](/wp-content/uploads/2021/02/jasa-epoxy.jpg)
 
-### KR-14
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+## Mengapa empat nama lapisan tidak boleh diperlakukan sebagai empat cat yang sama
 
-### KR-15
+Sebelum membandingkan baris penawaran, penting memahami batas objeknya. Bagian ini mencegah anggapan bahwa semua lapisan hanya dibedakan oleh warna, lalu memberi Anda cara membaca hubungan antar lapisan.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Sistem epoxy adalah susunan material yang bekerja di atas substrat, yaitu permukaan dasar seperti beton. Primer adalah penghubung awal; body coat adalah lapisan yang memberi volume dan menahan beban pemakaian; broadcast berarti penaburan agregat ke lapisan yang masih basah; topcoat adalah lapisan penutup yang menerima kontak paling akhir. Tidak setiap lantai memerlukan broadcast, tetapi jika tekstur atau ketahanan tertentu disyaratkan, penghilangan agregat mengubah hasil yang direncanakan.
 
-## Evidence gates
+Perilaku akhir tidak cukup dinilai dari permukaan yang sudah tidak lengket. Metode ISO untuk menilai pengikatan silang menunjukkan bahwa tahapan seperti waktu kerja, bebas-lekat, jendela pelapisan ulang, lalu pengerasan penuh adalah tonggak yang berbeda dan bergantung pada produk serta kondisi ([ISO 14322:2018](https://www.iso.org/standard/74606.html), [ISO 20368:2017](https://www.iso.org/standard/67794.html)). Jadi, bila penawaran mengganti “topcoat” dengan “lapisan epoxy biasa”, mintalah penjelasan fungsi dan bukti data, bukan hanya jawaban bahwa warnanya sama.
 
-- **TOPIC-GATE:** Current product family, complete layer system, and supplier evidence
+## Primer: membuat lapisan pertama benar-benar menempel
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Setelah melihat daftar material, pertanyaan pertama adalah bagaimana lapisan menyentuh beton. Primer menjawab pertanyaan itu; memahami mekanismenya membantu Anda mengenali risiko ketika kontraktor langsung menaruh lapisan tebal di atas permukaan berdebu atau berpori.
 
-## Internal-link plan
+Primer membasahi pori dan mengikat partikel permukaan yang sudah dipersiapkan, lalu menyediakan permukaan yang lebih seragam untuk lapisan berikutnya. Jika beton masih membawa debu, minyak, kelembapan berlebih, atau bagian rapuh, primer tidak dapat mengubah kontaminan menjadi dasar yang kuat. Akibatnya, kegagalan dapat terjadi di pertemuan beton dan sistem, bukan karena body coat kurang tebal.
 
-### Existing local routes
+Bayangkan dua ruang dengan produk dan warna sama. Di ruang pertama, permukaan dibersihkan dan primer dikerjakan sesuai jendela pelapisan; di ruang kedua, primer dilewati agar pekerjaan lebih cepat. Ketika roda troli melewati area yang lemah, lapisan kedua dapat mengelupas bersama debu permukaan. Saat membaca penawaran, tanyakan nama primer, kondisi permukaan yang disyaratkan, dan bukti pemeriksaan sebelum lapisan berikutnya.
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Body coat: membangun badan lapisan, bukan sekadar menambah warna
 
-### Planned sibling articles
+Sesudah hubungan awal terbentuk, Anda perlu tahu dari mana ketebalan dan kemampuan menutup ketidakteraturan berasal. Body coat mengisi peran itu, sehingga menggantinya dengan cat tipis dapat mengubah perilaku sistem meskipun tampilannya segera terlihat rapi.
 
-These are future routes. Do not link them as live until their HTML exists.
+Body coat adalah lapisan utama yang membangun film, yaitu selaput padat setelah material mengeras. Resin, bahan pengeras, pengisi, pigmen, dan agregat yang dipakai menentukan cara lapisan mengalir dan mengeras; ISO menekankan bahwa komposisi serta persiapan spesimen memengaruhi hasil pengujian ([ISO 83331:2023](https://www.iso.org/standard/83331.html)). Karena itu, angka ketebalan atau konsumsi pada satu produk tidak otomatis berlaku untuk produk lain.
 
-- `EPX-02-06` → `/artikel/epoxy-antistatic-conductive-esd.html` — Epoxy Anti-Static, Conductive, dan ESD
-- `EPX-02-07` → `/artikel/water-based-vs-solvent-based-vs-100-solids-epoxy.html` — Water-Based vs Solvent-Based vs 100% Solids Epoxy
+Dalam penawaran, lihat apakah body coat disebut satu atau beberapa kali, lalu cocokkan dengan luas, cara aplikasi, dan ketebalan yang direncanakan. Jika vendor menawarkan “cukup satu lapis topcoat”, tanyakan lapisan mana yang membangun badan dan bagaimana ketebalan itu diverifikasi. Jawabannya harus merujuk pada lembar data produk dan kondisi proyek, bukan perkiraan dari warna basah.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Broadcast: ketika agregat menjadi bagian dari fungsi sistem
 
-## Jawaban singkat dan salah paham utama
+Istilah broadcast sering membingungkan karena terdengar seperti metode penyebaran, bukan nama lapisan. Di bagian ini, kita bedakan penaburan agregat dari lapisan resin agar Anda dapat memutuskan apakah baris tersebut memang diperlukan atau hanya tertulis sebagai kebiasaan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Broadcast dilakukan dengan menaburkan agregat ke body coat yang masih cukup basah untuk mengikat butiran. Agregat dapat memberi kedalaman tekstur atau menjadi bagian dari susunan sistem; jumlah, ukuran, dan tingkat penaburan memengaruhi ruang yang harus ditutup oleh lapisan berikutnya. Jika agregat dihilangkan tetapi topcoat tidak disesuaikan, tekstur, ketebalan, dan tampilan dapat berbeda dari sampel.
 
-## Definisi dan batas objek
+Contoh praktisnya adalah area yang membutuhkan permukaan lebih bertekstur daripada ruang kering biasa. Mintalah vendor menjelaskan jenis agregat, kapan ditaburkan, bagaimana kelebihannya dibersihkan, dan lapisan apa yang mengunci butiran. Jangan menerima kalimat “broadcast hanya untuk motif” bila dokumen sistem menyebutnya sebagai bagian dari fungsi permukaan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Topcoat: penutup yang berhadapan dengan pemakaian sehari-hari
 
-## Cara kerjanya
+Kini kita sampai pada lapisan yang paling mudah dilihat dan paling sering dianggap dapat menggantikan semuanya. Topcoat memang menjadi penutup, tetapi fungsinya baru bekerja bila lapisan di bawahnya sudah benar dan telah mencapai kondisi yang dipersyaratkan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Topcoat menutup body coat atau agregat, mengatur tampilan akhir, dan menjadi permukaan yang berhadapan dengan pembersihan serta pemakaian. Kilap, warna, ketahanan terhadap bahan tertentu, dan waktu siap pakai adalah sifat produk dan sistem, bukan janji umum dari kata “topcoat”. Permukaan yang kering saat disentuh belum tentu sudah siap menerima beban atau paparan kimia; tonggak curing harus mengikuti data produk dan kondisi lapangan ([ISO 14322:2018](https://www.iso.org/standard/74606.html)).
 
-## Faktor yang mengubah hasil
+Kawan Epoxy.co.id, saat sebuah penawaran mengganti topcoat khusus dengan lapisan yang disebut “finishing”, minta tiga hal: fungsi yang hendak dipertahankan, data produk yang mendukung, dan cara memeriksa hasilnya. Tanpa tiga hal itu, penggantian mungkin hanya mengubah penampilan, sementara kebutuhan perlindungan tetap tidak terjawab.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Faktor yang membuat susunan sama menghasilkan hasil berbeda
 
-## Contoh keputusan praktis
+Nama lapisan baru bermakna jika kondisi penerapannya sebanding. Bagian ini menghubungkan anatomi sistem dengan hal-hal yang dapat Anda tanyakan sebelum menilai dua penawaran sebagai setara.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi substrat memengaruhi primer; kelembapan, debu, minyak, dan kekuatan permukaan perlu diperiksa sesuai prosedur proyek. Suhu dan waktu memengaruhi waktu kerja serta pengerasan. Cara mencampur, ketebalan basah, jeda antar lapisan, dan kebersihan area juga mengubah hasil. Jadi, penawaran yang menyebut empat nama lapisan tetapi tidak menyebut kondisi dan urutan kerjanya belum cukup untuk dibandingkan.
 
-## Kesalahan umum dan cara memeriksanya
+Bukti pengujian bahan juga bukan bukti otomatis bahwa lantai terpasang akan berperilaku sama. Standar ISO yang dirujuk di atas membahas metode atau benda uji; penerapan di lapangan tetap memerlukan instruksi produk dan pemeriksaan pekerjaan. Jika pemasok mengklaim sistemnya “sama” setelah satu lapisan dihapus, tandai [NEEDS TOPIC-GATE: minta identitas keluarga produk, susunan lengkap, dan data pemasok sebelum menganggap substitusi setara].
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat: Fungsi Tiap Lapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara membandingkan penawaran tanpa terjebak harga per meter
 
-## Objection or shortcut to address
+Pembeli biasanya ingin jawaban cepat: penawaran mana yang paling murah. Cara yang lebih aman adalah membandingkan fungsi yang diterima dan bukti yang menyertainya, bukan menjumlahkan nama produk.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Buat tabel kecil dengan kolom lapisan, tujuan, material, jumlah aplikasi, kondisi sebelum lapisan berikutnya, dan cara pemeriksaan. Isi berdasarkan dokumen vendor. Bila satu penawaran tidak memiliki baris primer, tanyakan apakah fungsi penyiapan permukaan dilakukan oleh metode lain dan apa buktinya. Bila broadcast tidak ada, tanyakan apakah tekstur memang tidak dibutuhkan atau hanya belum dijelaskan.
 
-## Required conclusion
+Anda dapat memakai [panduan format epoxy dan PU coating](/format-epoxy-pu-coating.html) untuk menata pertanyaan tentang sistem pelapis, lalu membandingkannya dengan [format cat epoxy](/format-cat-epoxy.html) bila opsi yang ditawarkan ternyata bukan susunan epoxy berlapis. Tautan itu membantu mengorganisasi pembacaan penawaran; keputusan final tetap bergantung pada data proyek dan persetujuan teknis.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesalahan umum saat meminta penggantian lapisan
 
-## Draft completion checklist
+Kesalahan paling umum adalah menganggap lapisan paling mahal pasti dapat menggantikan lapisan lain. Harga tidak menjelaskan fungsi, ketebalan, kompatibilitas, atau urutan curing. Penggantian juga tidak aman hanya karena produk pengganti berasal dari merek yang sama; formulasi dan petunjuk penggunaannya dapat berbeda.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kesalahan berikutnya adalah memakai bau sebagai tanda bahwa material sudah aman atau sudah selesai mengeras. Resin, bahan pengeras, pelarut, pengisi, pigmen, dan hasil reaksi dapat memiliki bahaya berbeda; CDC/NIOSH mengingatkan bahwa bau bukan indikator paparan yang andal dan kecocokan sarung tangan serta ventilasi bergantung pada produk dan tugas ([panduan epoksi dan resin CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [paparan kulit CDC/NIOSH](https://www.cdc.gov/niosh/skin-exposure/about/)). Jangan menyimpulkan keselamatan atau kesiapan hanya dari hidung atau sentuhan; ikuti lembar data keselamatan, instruksi produk, dan pengendalian kerja yang berlaku.
+
+## Kesimpulan: minta fungsi dan bukti, bukan sekadar nama lapisan
+
+Primer menghubungkan sistem dengan beton, body coat membangun badan lapisan, broadcast menambahkan agregat atau tekstur bila dirancang, dan topcoat menutup serta melindungi permukaan. Keempatnya bukan urutan nama yang dapat dipertukarkan sesuka hati; penghilangan satu lapisan mengubah fungsi yang harus dibuktikan kembali.
+
+Teman Epoxy.co.id, sebelum menyetujui penawaran, minta susunan lengkap, identitas setiap produk, urutan aplikasi, kondisi antar-lapis, dan cara pemeriksaan. Bila ada substitusi, tulis fungsi apa yang dipertahankan dan bukti apa yang mendukungnya. Aturan operasionalnya sederhana: jangan menyamakan dua sistem hanya karena warnanya sama—samakan fungsi, kondisi, dan bukti teknisnya.
