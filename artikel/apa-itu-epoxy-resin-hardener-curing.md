@@ -60,7 +60,7 @@ Contohnya, dua produk sama-sama bertuliskan epoxy tetapi memiliki hardener dan p
 
 ### Curing berarti reaksi membentuk jaringan
 
-Curing (pematangan) bukan sekadar air menguap. Bagian reaktif saling mengikat hingga terbentuk jaringan polimer, sehingga permukaan bisa terasa tidak lengket sementara bagian dalam masih bereaksi. Metode DSC dan FTIR menilai perubahan pengikatan silang pada spesimen; keduanya mengingatkan bahwa “terasa kering” bukan bukti universal seluruh sistem sudah matang ([ISO 14322:2018](https://www.iso.org/standard/74606.html) dan [ISO 20368:2017](https://www.iso.org/standard/67794.html)).
+Curing (pematangan) bukan sekadar air menguap. Bagian reaktif saling mengikat hingga terbentuk jaringan polimer, sehingga permukaan bisa terasa tidak lengket sementara bagian dalam masih bereaksi. Metode DSC (differential scanning calorimetry atau kalorimetri pemindaian diferensial) dan FTIR (Fourier-transform infrared spectroscopy atau spektroskopi inframerah transformasi Fourier) menilai perubahan pengikatan silang pada spesimen; keduanya mengingatkan bahwa “terasa kering” bukan bukti universal seluruh sistem sudah matang ([ISO 14322:2018](https://www.iso.org/standard/74606.html) dan [ISO 20368:2017](https://www.iso.org/standard/67794.html)).
 
 Lihat curing sebagai rangkaian tonggak: masa pakai campuran, waktu kerja, bebas lengket, boleh diinjak ringan, matang penuh, lalu siap menerima layanan kimia. Nama dan batas tiap tonggak ditentukan produk serta kondisi aktualnya. Jika area hendak dibuka untuk lalu lintas, cocokkan keputusan dengan data produk, bukan sentuhan atau bau.
 
@@ -80,7 +80,7 @@ Bagian ini membantu Anda memahami mengapa kalender atau sentuhan saja sering men
 
 ### Bahan dan substrat
 
-Komponen berbeda memberi reaksi dan sifat berbeda. Substrat—permukaan tempat sistem ditempelkan—juga memengaruhi ikatan serta perpindahan panas atau kelembapan. Permukaan yang belum dipastikan kondisinya tidak setara dengan benda uji laboratorium. Catat jenis permukaan, kebersihan, dan dokumen produk sebelum menyimpulkan.
+Komponen berbeda memberi reaksi dan sifat berbeda. Substrat—permukaan tempat sistem ditempelkan—juga memengaruhi ikatan serta perpindahan panas atau kelembapan. Contohnya, lantai beton yang sudah dibersihkan dan kering berbeda dari lantai yang masih berdebu, lembap, atau terkena minyak, meskipun keduanya sama-sama tampak rata. Sebelum menyimpulkan, lakukan pemeriksaan lapangan yang sesuai untuk memastikan permukaan bebas kontaminasi dan kondisinya cocok dengan persyaratan produk atau proyek; jangan mengganti verifikasi itu dengan angka universal.
 
 ### Suhu, kelembapan, dan ketebalan
 
@@ -88,13 +88,13 @@ Kondisi lingkungan dapat mengubah laju reaksi dan jendela antar-lapis. Lapisan t
 
 ### Paparan bahan saat pekerjaan
 
-Resin, hardener, pelarut, pengisi, pigmen, pembersih, dan produk samping reaksi dapat memiliki bahaya berbeda. CDC/NIOSH menyatakan bau bukan indikator paparan yang andal dan kecocokan sarung tangan maupun ventilasi bergantung pada produk serta tugasnya ([panduan epoxy dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [gambaran paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Bacalah SDS yang tepat dan minta penilaian HSE setempat; jangan menerjemahkan panduan Amerika Serikat menjadi kewajiban hukum Indonesia.
+Resin, hardener, pelarut, pengisi, pigmen, pembersih, dan produk samping reaksi dapat memiliki bahaya berbeda. CDC/NIOSH menyatakan bau bukan indikator paparan yang andal dan kecocokan sarung tangan maupun ventilasi bergantung pada produk serta tugasnya ([panduan epoxy dan kesehatan reproduksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [gambaran paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Bacalah safety data sheet (SDS atau lembar data keselamatan) yang tepat dan minta penilaian HSE setempat; jangan menerjemahkan panduan Amerika Serikat menjadi kewajiban hukum Indonesia.
 
 ## Contoh keputusan praktis sebelum menyebut “sudah curing”
 
 Skenario ini menunjukkan cara memakai konsep tanpa mengarang angka atau pengalaman proyek.
 
-Misalnya, sebuah area terasa tidak lengket pada permukaan. Pertanyaan pertama bukan “berapa jam sudah lewat?”, melainkan “tonggak apa yang dinyatakan TDS produk ini pada kondisi yang tercatat?”. Cocokkan jenis resin-hardener, suhu dan kelembapan saat aplikasi, ketebalan, serta status substrat dengan dokumen tersebut.
+Misalnya, sebuah area terasa tidak lengket pada permukaan. Pertanyaan pertama bukan “berapa jam sudah lewat?”, melainkan “tonggak apa yang dinyatakan technical data sheet (TDS atau lembar data teknis) produk ini pada kondisi yang tercatat?”. Cocokkan jenis resin-hardener, suhu dan kelembapan saat aplikasi, ketebalan, serta status substrat dengan dokumen tersebut.
 
 Jika kebutuhan hanya inspeksi visual, hasil bebas lengket mungkin cukup untuk tahap itu. Jika area akan menerima lalu lintas, beban, atau bahan kimia, keputusan harus menunggu tonggak layanan yang dinyatakan produk dan, bila data tidak lengkap, [NEEDS PROJECT EVIDENCE: persetujuan teknis atas kesiapan penggunaan]. Jangan menjadikan satu uji sentuh sebagai pengganti verifikasi.
 
