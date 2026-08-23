@@ -1,6 +1,6 @@
 # Article progress — epoxy.co.id
 
-Last updated: **2026-08-23 12:56:46 (Asia/Jakarta)**
+Last updated: **2026-08-23 13:36:19 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last updated: **2026-08-23 12:56:46 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 48 |
-| Remaining | 80 |
-| Repository status | ✍️ Batches 01–08 accepted and pushed; Batch 08 article parity is `74e0d757`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 54 |
+| Remaining | 74 |
+| Repository status | ✍️ Batches 01–09 accepted and pushed; Batch 09 article parity is `071e1066`; one earlier calibration draft remains queued for correction |
 | Open correction/re-review flags | 1 |
 
 ## Legend
@@ -95,12 +95,12 @@ Last updated: **2026-08-23 12:56:46 (Asia/Jakarta)**
 | 47 | `EPX-06-07` | `EPX-06` | Epoxy untuk Area Panas, Dingin, dan Thermal Shock | `artikel/epoxy-untuk-suhu-dan-thermal-shock.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
 | 48 | `EPX-06-08` | `EPX-06` | Decision Matrix Epoxy untuk Retrofit Gedung Aktif | `artikel/decision-matrix-epoxy-retrofit.md` | ✅ Accepted and pushed | Batch 08 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `74e0d757`. | 2026-08-23 |
 | 49 | `EPX-07-01` | `EPX-07` | Tahapan Aplikasi Epoxy dari Primer hingga Handover | `artikel/tahapan-aplikasi-epoxy.md` | ✅ Accepted and pushed | Batch 08 bounded Indonesian-language repair passed a fresh independent final review, compact-index verification, leased-checkout validation, and remote parity `74e0d757`; superseded receipts remain lineage only. | 2026-08-23 |
-| 50 | `EPX-07-02` | `EPX-07` | Cara Mengukur dan Mencampur Epoxy Dua Komponen | `artikel/mengukur-dan-mencampur-epoxy-dua-komponen.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 51 | `EPX-07-03` | `EPX-07` | Aplikasi Primer Epoxy dan Tanda Substrat Bermasalah | `artikel/aplikasi-primer-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 52 | `EPX-07-04` | `EPX-07` | Teknik Broadcast Agregat dan Back-Roll | `artikel/teknik-broadcast-agregat-dan-back-roll.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 53 | `EPX-07-05` | `EPX-07` | Menjaga Wet Edge dan Membagi Area Kerja Epoxy | `artikel/wet-edge-dan-pembagian-area-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 54 | `EPX-07-06` | `EPX-07` | Recoat Window Epoxy: Persiapan Antar-Lapis | `artikel/recoat-window-dan-persiapan-antar-lapis.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 55 | `EPX-07-07` | `EPX-07` | Suhu, Kelembapan, Dew Point, dan Ventilasi Saat Aplikasi | `artikel/kondisi-lingkungan-saat-aplikasi-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 50 | `EPX-07-02` | `EPX-07` | Cara Mengukur dan Mencampur Epoxy Dua Komponen | `artikel/mengukur-dan-mencampur-epoxy-dua-komponen.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
+| 51 | `EPX-07-03` | `EPX-07` | Aplikasi Primer Epoxy dan Tanda Substrat Bermasalah | `artikel/aplikasi-primer-epoxy.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
+| 52 | `EPX-07-04` | `EPX-07` | Teknik Broadcast Agregat dan Back-Roll | `artikel/teknik-broadcast-agregat-dan-back-roll.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
+| 53 | `EPX-07-05` | `EPX-07` | Menjaga Wet Edge dan Membagi Area Kerja Epoxy | `artikel/wet-edge-dan-pembagian-area-epoxy.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
+| 54 | `EPX-07-06` | `EPX-07` | Recoat Window Epoxy: Persiapan Antar-Lapis | `artikel/recoat-window-dan-persiapan-antar-lapis.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
+| 55 | `EPX-07-07` | `EPX-07` | Suhu, Kelembapan, Dew Point, dan Ventilasi Saat Aplikasi | `artikel/kondisi-lingkungan-saat-aplikasi-epoxy.md` | ✅ Accepted and pushed | Batch 09 patient-reader draft passed independent current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `071e1066`. | 2026-08-23 |
 | 56 | `EPX-07-08` | `EPX-07` | Kapan Lantai Epoxy Boleh Dilalui dan Dibebani | `artikel/kapan-epoxy-boleh-dilalui.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 57 | `EPX-08-01` | `EPX-08` | Memilih Sistem Epoxy untuk Pabrik dan Gudang | `artikel/epoxy-untuk-pabrik-dan-gudang.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 58 | `EPX-08-02` | `EPX-08` | Epoxy untuk Jalur Forklift, Loading Dock, dan Racking | `artikel/epoxy-untuk-forklift-loading-dock-racking.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
