@@ -15,11 +15,11 @@ Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-adistyputriharli/epoxy.co.id/blob/main/ARTICLE_CATALOG.md) (`44f42df3b199`) |
 | Prepared articles | 128 |
-| Accepted and pushed | 108 |
-| Remaining | 20 |
-| Repository status | ✍️ Batches 01–12 accepted and pushed; 18-article Batch 12 parity is `47d8249`; one earlier calibration draft remains queued for correction |
+| Accepted and pushed | 126 |
+| Remaining | 2 |
+| Repository status | ✍️ Batches 01–13 accepted and pushed; Batch 13 parity is `b650b09`; EPX-01-01 remains queued for correction and EPX-16-08 remains outline |
 | Open correction/re-review flags | 1 |
-| Patient-reader rewrites accepted | 108 |
+| Patient-reader rewrites accepted | 126 |
 
 ## Legend
 
@@ -156,24 +156,24 @@ Last updated: **2026-08-23 23:20:00 (Asia/Jakarta)**
 | 107 | `EPX-14-03` | `EPX-14` | PPE untuk Epoxy: Sarung Tangan, Mata, Kulit, dan Pernapasan | `artikel/ppe-untuk-pekerjaan-epoxy.md` | ✅ Accepted and pushed | Batch 12 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `47d8249`. | 2026-08-23 |
 | 108 | `EPX-14-04` | `EPX-14` | Tumpahan Epoxy dan Hardener: Respons Awal yang Aman | `artikel/respons-tumpahan-epoxy-hardener.md` | ✅ Accepted and pushed | Batch 12 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `47d8249`. | 2026-08-23 |
 | 109 | `EPX-14-05` | `EPX-14` | Klaim Food Grade, Healthcare, dan Potable Water pada Epoxy | `artikel/klaim-food-grade-healthcare-potable-water-epoxy.md` | ✅ Accepted and pushed | Batch 12 current-SHA semantic acceptance, compact-index verification, leased-checkout validation, and remote parity `47d8249`. | 2026-08-23 |
-| 110 | `EPX-14-06` | `EPX-14` | Bahaya Slip pada Lantai Resin dan Cara Mengelolanya | `artikel/bahaya-slip-lantai-resin.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 111 | `EPX-14-07` | `EPX-14` | Limbah Epoxy, Kemasan, dan Material Sisa | `artikel/limbah-epoxy-dan-kemasan.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 112 | `EPX-14-08` | `EPX-14` | Menilai Klaim Low-VOC, Solvent-Free, dan Ramah Lingkungan | `artikel/menilai-klaim-lingkungan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 113 | `EPX-15-01` | `EPX-15` | Kalkulator Kebutuhan Epoxy Berdasarkan Luas dan Ketebalan | `artikel/kalkulator-kebutuhan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 114 | `EPX-15-02` | `EPX-15` | Komponen Harga Epoxy per Meter Persegi | `artikel/komponen-harga-epoxy-per-meter.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 115 | `EPX-15-03` | `EPX-15` | Mengestimasi Produktivitas dan Tenaga Kerja Epoxy | `artikel/estimasi-produktivitas-aplikasi-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 116 | `EPX-15-04` | `EPX-15` | Menghitung Biaya Downtime Proyek Epoxy | `artikel/menghitung-biaya-downtime-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 117 | `EPX-15-05` | `EPX-15` | Cara Membandingkan Penawaran Epoxy Apple-to-Apple | `artikel/membandingkan-penawaran-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 118 | `EPX-15-06` | `EPX-15` | Checklist Membeli Resin, Hardener, Primer, dan Topcoat | `artikel/checklist-membeli-material-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 119 | `EPX-15-07` | `EPX-15` | Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy | `artikel/shelf-life-penyimpanan-kontrol-batch-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 120 | `EPX-15-08` | `EPX-15` | Red Flag Produk Epoxy Palsu, Repack, atau Tanpa Data | `artikel/red-flag-produk-epoxy-tanpa-data.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 121 | `EPX-16-01` | `EPX-16` | Checklist Memilih Kontraktor Epoxy | `artikel/checklist-memilih-kontraktor-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 122 | `EPX-16-02` | `EPX-16` | Scope of Work Epoxy yang Tidak Menyisakan Celah | `artikel/scope-of-work-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 123 | `EPX-16-03` | `EPX-16` | Isi Method Statement Pekerjaan Epoxy | `artikel/method-statement-pekerjaan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 124 | `EPX-16-04` | `EPX-16` | Inspection and Test Plan untuk Pekerjaan Epoxy | `artikel/inspection-test-plan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 125 | `EPX-16-05` | `EPX-16` | QC Lapangan Epoxy: Ketebalan, Adhesi, Visual, dan Catatan | `artikel/qc-lapangan-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 126 | `EPX-16-06` | `EPX-16` | Mock-Up Epoxy dan Form Persetujuan Sampel | `artikel/mock-up-epoxy-dan-persetujuan-sampel.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 127 | `EPX-16-07` | `EPX-16` | Dokumen Handover dan Garansi Pekerjaan Epoxy | `artikel/handover-dan-garansi-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 110 | `EPX-14-06` | `EPX-14` | Bahaya Slip pada Lantai Resin dan Cara Mengelolanya | `artikel/bahaya-slip-lantai-resin.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 111 | `EPX-14-07` | `EPX-14` | Limbah Epoxy, Kemasan, dan Material Sisa | `artikel/limbah-epoxy-dan-kemasan.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 112 | `EPX-14-08` | `EPX-14` | Menilai Klaim Low-VOC, Solvent-Free, dan Ramah Lingkungan | `artikel/menilai-klaim-lingkungan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 113 | `EPX-15-01` | `EPX-15` | Kalkulator Kebutuhan Epoxy Berdasarkan Luas dan Ketebalan | `artikel/kalkulator-kebutuhan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 114 | `EPX-15-02` | `EPX-15` | Komponen Harga Epoxy per Meter Persegi | `artikel/komponen-harga-epoxy-per-meter.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 115 | `EPX-15-03` | `EPX-15` | Mengestimasi Produktivitas dan Tenaga Kerja Epoxy | `artikel/estimasi-produktivitas-aplikasi-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 116 | `EPX-15-04` | `EPX-15` | Menghitung Biaya Downtime Proyek Epoxy | `artikel/menghitung-biaya-downtime-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 117 | `EPX-15-05` | `EPX-15` | Cara Membandingkan Penawaran Epoxy Apple-to-Apple | `artikel/membandingkan-penawaran-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 118 | `EPX-15-06` | `EPX-15` | Checklist Membeli Resin, Hardener, Primer, dan Topcoat | `artikel/checklist-membeli-material-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 119 | `EPX-15-07` | `EPX-15` | Shelf Life, Penyimpanan, dan Kontrol Batch Epoxy | `artikel/shelf-life-penyimpanan-kontrol-batch-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 120 | `EPX-15-08` | `EPX-15` | Red Flag Produk Epoxy Palsu, Repack, atau Tanpa Data | `artikel/red-flag-produk-epoxy-tanpa-data.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 121 | `EPX-16-01` | `EPX-16` | Checklist Memilih Kontraktor Epoxy | `artikel/checklist-memilih-kontraktor-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 122 | `EPX-16-02` | `EPX-16` | Scope of Work Epoxy yang Tidak Menyisakan Celah | `artikel/scope-of-work-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 123 | `EPX-16-03` | `EPX-16` | Isi Method Statement Pekerjaan Epoxy | `artikel/method-statement-pekerjaan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 124 | `EPX-16-04` | `EPX-16` | Inspection and Test Plan untuk Pekerjaan Epoxy | `artikel/inspection-test-plan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 125 | `EPX-16-05` | `EPX-16` | QC Lapangan Epoxy: Ketebalan, Adhesi, Visual, dan Catatan | `artikel/qc-lapangan-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 126 | `EPX-16-06` | `EPX-16` | Mock-Up Epoxy dan Form Persetujuan Sampel | `artikel/mock-up-epoxy-dan-persetujuan-sampel.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
+| 127 | `EPX-16-07` | `EPX-16` | Dokumen Handover dan Garansi Pekerjaan Epoxy | `artikel/handover-dan-garansi-epoxy.md` | ✅ Accepted and pushed | Batch 13 current-SHA semantic acceptance, corpus and route gates PASS, compact-index replay PASS, and remote parity `b650b09`. | 2026-08-24 |
 | 128 | `EPX-16-08` | `EPX-16` | Format Case Study Epoxy yang Bisa Diverifikasi | `artikel/format-case-study-proyek-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 
 ## Update rule
