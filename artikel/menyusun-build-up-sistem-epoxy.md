@@ -2,8 +2,9 @@
 article_id: EPX-06-03
 title: "Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat"
 slug: "menyusun-build-up-sistem-epoxy"
-description: "Explain layer functions, compatibility, thickness allocation, and substitution controls"
-status: outline
+description: "Panduan menyusun fungsi, kecocokan, pembagian ketebalan, dan kendali substitusi tiap lapisan sistem epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,13 @@ reader_address: "Sobat Epoxy.co.id"
 final_route: "/artikel/menyusun-build-up-sistem-epoxy.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://store.astm.org/d4060-19.html"
   - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
   - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”
-- **Reader and situation:** Specifier turning requirements into layers
-- **Reader outcome:** Explain layer functions, compatibility, thickness allocation, and substitution controls
-- **Primary intent:** Design layer build
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Sobat Epoxy.co.id`
-- **Natural variants:** `Kawan Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes generic layer definitions owned by EPX-02-08
-- **Final public route:** `/artikel/menyusun-build-up-sistem-epoxy.html`
-- **Appointed CMS date:** `2025-08-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Epoxy.co.id`, `Kawan Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,145 +32,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy.co .id 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Epoxy.co.id! Saat spesifikasi lantai berubah menjadi daftar material, godaan terbesarnya adalah menukar satu lapisan dengan produk yang tampak serupa lalu berharap hasil akhirnya tetap sama. Padahal tiap lapisan memegang pekerjaan berbeda: menempelkan sistem ke beton, membangun ketebalan, mengikat agregat, atau melindungi permukaan.
 
-### KR-04
+Jawaban singkatnya, susun build-up dari kebutuhan layanan ke fungsi lapisan, lalu kunci kecocokan antarlapis, jatah ketebalan, dan bukti produk sebelum harga disetujui. Merek boleh berbeda hanya jika lembar data dan persetujuan sistem membuktikan kompatibilitasnya. Jika matriks kebutuhan proyek dan sistem yang diuji belum tersedia, tahan keputusan dengan penanda **[NEEDS TOPIC-GATE: matriks kebutuhan proyek dan sistem yang diuji/disetujui belum tersedia]**.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [official regulation PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep building-floor, occupied-space, repair, and contractor articles inside the current Indonesian building-governance framework.
-- **Safe grounded facts:** A coating product does not replace requirements for the substrate, complete floor/building system, accessibility, fire safety, hygiene, operation, or local approval.
-- **Limits:** Do not derive thicknesses, slip classes, fire ratings, hygiene status, or repair design from this high-level regulation.
+![Ilustrasi epoxy.co .id 1](/wp-content/uploads/2020/10/epoxy.co_.id-1.jpg)
 
-### KR-09
+Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+## Mulai dari beban layanan, bukan nama lapisan
 
-### KR-10
+Sebelum menggambar empat kotak lapisan, tulis apa yang diterima lantai: lalu lintas, roda, tumpahan, pencucian, air, suhu, dan waktu henti. ISO 12944-2 adalah rujukan klasifikasi korosi untuk sistem cat pelindung baja; halaman standarnya tidak menetapkan build-up lantai epoxy. Karena itu, daftar paparan dari diskusi proyek hanya boleh menjadi bahan pertanyaan awal, bukan syarat lantai yang dianggap otomatis berlaku ([ISO 12944-2](https://www.iso.org/standard/64834.html)). **[NEEDS TECHNICAL REVIEW: adopsi klasifikasi paparan ke sistem lantai dan bukti proyek belum ditetapkan]**
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Di lembar kebutuhan, tulis setiap paparan dan cara membuktikannya. “Tahan kimia” belum berarti aman untuk semua cairan; “tahan aus” juga bukan janji umur pakai. Sobat Epoxy.co.id, tanyakan apakah sistem harus menghadapi tumpahan tertentu, gesekan roda tertentu, atau sekadar mudah dibersihkan. Jawaban itu menentukan jenis dan bukti tiap lapisan.
 
-### KR-11
+## Beri setiap lapisan satu tugas yang bisa diperiksa
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Primer adalah jembatan antara beton yang disiapkan dan resin berikutnya. Ia harus membasahi permukaan, mengisi pori secara terkendali, dan menyediakan permukaan yang dapat menerima lapisan berikutnya. Periksa beton, kebersihan, kelembapan, serta waktu tunggu menurut data produk; jangan menutup beton bermasalah hanya karena primer terlihat mengilap.
 
-### KR-20
+Body coat adalah lapisan pembangun badan sistem. Di sini sebagian besar ketebalan dan perataan dibentuk, sehingga konsumsi, metode sebar, serta toleransi permukaan harus ditulis, bukan diserahkan pada perkiraan. Ketebalan nominal tidak boleh menjadi angka tunggal tanpa basis cakupan dan cara ukurnya.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Broadcast berarti agregat ditaburkan ke resin yang masih mampu mengikat. Agregat memengaruhi tekstur, pemakaian resin, dan pekerjaan pengikatan lapisan selanjutnya. Ia bukan hiasan yang dapat ditambah belakangan; ukuran, kebersihan, kadar sebar, dan cara mengunci butir harus tercantum dalam sistem yang disetujui.
 
-## Evidence gates
+Topcoat menutup dan melindungi permukaan. Ia dapat memengaruhi kilap, kemudahan bersih, ketahanan bahan kimia, serta tekstur akhir, tetapi tidak menghapus cacat di bawahnya. Untuk klaim abrasi, ASTM D4060 menunjukkan bahwa bahan penggosok, jumlah siklus, beban, benda uji, ketebalan, dan kriteria evaluasi mengubah arti hasil; minta konfigurasi uji lengkap, bukan hanya kata “abrasion resistant” ([ASTM D4060](https://store.astm.org/d4060-19.html)).
 
-- **TOPIC-GATE:** Project requirement matrix and exact tested/approved offered system
+## Kunci kecocokan antarlapis dan pembagian ketebalan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Masalah sering muncul di sambungan: primer sudah terlalu lama mengeras, body coat memakai pengencer berbeda, agregat menutup permukaan sebelum resin cukup, atau topcoat tidak dirancang untuk permukaan bertekstur. Ikatan antarpermukaan bergantung pada kondisi lapisan sebelumnya dan cara lapisan berikutnya membasahi atau mengunci permukaan itu.
 
-## Internal-link plan
+Buat tabel yang memuat produk, fungsi, ketebalan target, konsumsi, metode aplikasi, jendela antar-lapis, dan pemeriksaan sebelum lapisan berikutnya. Jumlah ketebalan adalah hasil pembagian fungsi, bukan penjumlahan brosur. Bila produk diganti, minta pernyataan kompatibilitas sistem dan ulangi persetujuan; produk “satu jenis resin” tidak otomatis setara.
 
-### Existing local routes
+Kawan Epoxy.co.id, simpan nomor batch dan lembar data yang benar-benar dipakai. Penawaran yang dapat dibandingkan harus memuat luas terukur, sistem lapisan, dasar ketebalan atau cakupan, persiapan dan perbaikan, pengujian, akses, waktu henti, pengecualian, pajak, garansi, serta serah terima yang sama. **[NEEDS COMMERCIAL/LEGAL REVIEW: format penawaran dan kewajiban transaksi harus dicocokkan dengan aturan serta kontrak yang berlaku]**
 
-- `/format-epoxy-pu-coating.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/format-cat-epoxy.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Uji keputusan pada situasi berbeda
 
-### Planned sibling articles
+Bayangkan gudang dengan roda forklift dan pencucian memakai bahan kimia tertentu. Primer harus cocok dengan beton dan persiapan, body coat membentuk ketebalan, broadcast dipilih agar tekstur tidak menjadi jebakan kotoran, lalu topcoat diverifikasi terhadap bahan kimia dan cara bersih yang nyata. Jika laporan hanya menguji panel kecil dengan bahan kimia dan suhu berbeda, tulis batasnya; hasil laboratorium bukan bukti kinerja seluruh lantai.
 
-These are future routes. Do not link them as live until their HTML exists.
+Untuk area sering basah, jangan menambahkan butiran secara spontan demi mengejar istilah “anti-selip”. Risiko dipengaruhi tekstur, keausan, kontaminasi, kondisi basah-kering, alas kaki, kemiringan, pembersihan, alat uji, dan pengguna. Mintalah metode proyek dan penilaian keselamatan yang tepat sebelum menulis angka atau klaim kepatuhan ([ASTM pedestrian walkway safety collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html)).
 
-- `EPX-06-01` → `/artikel/cara-memilih-sistem-epoxy.html` — Cara Memilih Sistem Epoxy Berdasarkan Kondisi Proyek
-- `EPX-06-02` → `/artikel/epoxy-vs-pu-cement-vs-floor-hardener-vs-polished-concrete.html` — Epoxy vs PU Cement vs Floor Hardener vs Polished Concrete
-- `EPX-06-04` → `/artikel/memilih-tekstur-epoxy.html` — Memilih Tekstur Epoxy untuk Grip dan Kemudahan Bersih
-- `EPX-06-05` → `/artikel/joint-pada-lantai-epoxy.html` — Joint pada Lantai Epoxy: Mana yang Harus Tetap Bergerak
+## Substitusi harus meninggalkan jejak keputusan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jalan pintas yang paling mahal adalah mengganti topcoat karena stok kosong tanpa mengubah dokumen. Pengganti mungkin mengubah waktu kerja, kilap, tekstur, ketahanan kimia, atau cara pembersihan. Buat lembar substitusi berisi produk asli, produk usulan, fungsi yang sama, perbedaan data, uji atau panel pembanding, dampak jadwal, dan pihak yang menyetujui.
 
-## Jawaban singkat dan salah paham utama
+Lapisan epoxy tidak boleh dipakai untuk mengasumsikan bahwa persyaratan substrat, keselamatan kebakaran, aksesibilitas, kebersihan, operasi, atau persetujuan setempat sudah terpenuhi. Jadi, bila perubahan lapisan memengaruhi area berpenghuni atau operasi, minta tinjauan teknis dan persetujuan proyek sebelum aplikasi. **[NEEDS TECHNICAL/REGULATORY REVIEW: persyaratan setempat dan persetujuan proyek belum diverifikasi]**
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pemeriksaan sebelum pekerjaan ditutup
 
-## Definisi dan batas objek
+Sebelum lapisan berikutnya, cocokkan permukaan dengan tabel: bersih, tidak rusak, berada dalam jendela antar-lapis, dan memiliki catatan ketebalan atau konsumsi yang dapat ditelusuri. Foto, formulir pemeriksaan, nomor batch, dan hasil uji harus menunjuk lokasi yang sama; catatan tanpa lokasi tidak membantu ketika muncul belang atau pengelupasan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika klaim kimia dipakai untuk memilih topcoat, minta cairan, konsentrasi, suhu, lama paparan, cara pembersihan, dan kriteria penilaian yang diuji. ASTM D1308 membahas efek bahan kimia rumah tangga pada lapisan, tetapi konfigurasi paparan tetap menentukan makna hasil ([ASTM D1308](https://store.astm.org/standards/d1308)). Jangan mengubah satu hasil uji menjadi jaminan seluruh proses.
 
-## Cara kerjanya
+## Langkah berikutnya untuk penyusun spesifikasi
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun satu halaman matriks: kebutuhan layanan, lapisan yang menjalankan fungsi itu, ketebalan dan dasar pengukurannya, kecocokan antarlapis, bukti uji, batas bukti, serta pihak yang menyetujui perubahan. Gunakan [format cat epoxy](/format-cat-epoxy.html) untuk menata informasi penawaran material, dan bandingkan pilihan pelapis lewat [format epoxy–PU coating](/format-epoxy-pu-coating.html) ketika kebutuhan sistem mulai melebar.
 
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menyusun Build-Up Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Epoxy.co.id, aturan operasionalnya sederhana: jangan menyetujui substitusi atau angka ketebalan hanya dari nama produk. Setujui build-up setelah fungsi tiap lapisan, antarmuka, bukti uji, dan batas penggunaannya tertulis serta cocok dengan matriks kebutuhan proyek.

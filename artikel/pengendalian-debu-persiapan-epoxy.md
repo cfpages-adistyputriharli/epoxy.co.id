@@ -2,8 +2,9 @@
 article_id: EPX-05-07
 title: "Pengendalian Debu Saat Persiapan Lantai Epoxy"
 slug: "pengendalian-debu-persiapan-epoxy"
-description: "Cover extraction, isolation, cleanup verification, neighboring operations, and stop conditions"
-status: outline
+description: "Panduan mengatur penyedotan, isolasi, pemeriksaan kebersihan, operasi sekitar, dan kondisi berhenti sebelum lantai epoxy dilanjutkan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,49 +18,19 @@ sources:
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Pengendalian Debu Saat Persiapan Lantai Epoxy
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat lantai harus digerinda di gedung yang tetap beroperasi, masalahnya bukan sekadar lantai terlihat berdebu. Debu dapat berpindah ke ruang sebelah, masuk ke area yang sudah dibersihkan, mengganggu pekerjaan lain, dan tertinggal di permukaan yang akan menerima epoxy. Karena itu keputusan awalnya adalah mengatur sumber debu, jalur keluarnya, batas area, dan bukti kebersihan sebelum pekerjaan dilanjutkan.
 
-- **Writer task:** Expand this file into one complete article answering: “Pengendalian Debu Saat Persiapan Lantai Epoxy”
-- **Reader and situation:** Occupied-site manager or HSE officer
-- **Reader outcome:** Cover extraction, isolation, cleanup verification, neighboring operations, and stop conditions
-- **Primary intent:** Plan dust control
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes respiratory/PPE program owned by EPX-14-03
-- **Final public route:** `/artikel/pengendalian-debu-persiapan-epoxy.html`
-- **Appointed CMS date:** `2025-08-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan alat persiapan yang terhubung ke penyedotan memadai, pisahkan area kerja dari operasi di sekitarnya, keluarkan sisa debu secara terkendali, lalu verifikasi permukaan dan ruang sekitar sebelum lapisan dasar (primer) dibuka. Pilihan metode tetap bergantung pada substrat, lapisan lama, ruang, durasi, dan persyaratan sistem; pedoman ICRI menempatkan pemilihan persiapan dan pemeriksaan sebagai rangkaian keputusan, bukan perlombaan memilih satu mesin favorit ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [pengantar ICRI](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-## Opening instructions
+Debu juga bukan pengganti program pernapasan atau alat pelindung diri. Artikel ini membantu pengelola lokasi atau petugas keselamatan, kesehatan kerja, dan lingkungan (HSE) mengendalikan sumber, isolasi, pembersihan, operasi tetangga, dan keputusan berhenti; penilaian paparan, pemilihan respirator, serta program APD harus mengikuti rencana K3 proyek yang berwenang.
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pengendalian Debu Saat Persiapan Lantai Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -70,151 +41,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy lantai 3` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi epoxy lantai 3](/wp-content/uploads/2020/10/epoxy-lantai-3.jpg)
 
-## Evidence packet
+Ilustrasi umum dari aset lokal epoxy.co.id; bukan dokumentasi proyek tertentu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Apa yang sebenarnya dikendalikan
 
-### KR-06
+Bagian ini penting karena “lantai sudah disapu” sering disamakan dengan “permukaan siap dilapisi”. Yang dikendalikan adalah debu di sumbernya, debu yang melayang, debu yang menempel, dan debu yang mungkin terbawa keluar area—empat hal yang perlu dibuktikan secara terpisah.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+### Debu dari pekerjaan dan debu yang tertinggal
 
-### KR-07
+Penggerindaan, pengikisan, atau pemotongan mengubah material permukaan menjadi partikel; aliran udara dan langkah orang kemudian memindahkannya. Penyedot yang tidak sesuai, selang bocor, atau filter penuh dapat membuat debu kembali ke ruang kerja. OSHA menjelaskan bahwa pembentukan dan paparan debu dipengaruhi material, tugas, peralatan, penutup area, durasi, pengendalian, perawatan, dan pembersihan—bukan oleh label “kering” atau “basah” saja ([fact sheet penggerinda lantai](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)).
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Akibatnya, sapu biasa setelah gerinda dapat mengangkat kembali partikel halus. Kawan Epoxy.co.id, tanyakan di awal: ke mana aliran dari alat diarahkan, kapan wadah penampung dikosongkan, dan bagaimana kebocoran akan diketahui? Jika jawabannya hanya “nanti dibersihkan”, pengendalian belum memiliki titik pemeriksaan.
 
-### KR-08
+### Batas artikel ini
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Rencana ini mencakup penyedotan, tirai atau isolasi area, perlindungan jalur keluar-masuk, pembersihan permukaan dan ruang sekitar, serta tanda pekerjaan harus berhenti. Program respirator, kecocokan APD, dan keputusan paparan individu berada di penilaian K3 khusus; jangan menggantinya dengan checklist kebersihan.
 
-### KR-16
+## Urutan kerja dari sumber sampai verifikasi
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Urutan berikut menjelaskan mengapa setiap tindakan ditempatkan sebelum tindakan berikutnya. Tujuannya bukan menambah administrasi, melainkan mencegah debu yang sudah dikendalikan kembali menyebar ketika pintu dibuka atau primer disiapkan.
 
-### KR-17
+### Mulai dari survei dan pemisahan area
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Sebelum mesin masuk, petakan batas area, pintu, jalur material, ventilasi, bukaan di lantai, dan pekerjaan yang tidak boleh terganggu. Tutup atau isolasi jalur yang dapat membawa debu ke ruang aktif, tetapi jangan menutup ventilasi atau akses darurat tanpa persetujuan rencana keselamatan lokasi. Pedoman ICRI menekankan bahwa pemilihan persiapan perlu mempertimbangkan substrat, lapisan, lokasi, profil, dan kendali mutu, sehingga rute udara menjadi bagian dari keputusan metode, bukan tambahan belakangan.
 
-### KR-21
+Tandai siapa yang berwenang membuka isolasi dan kapan. Jika area sebelah tetap menerima pasien, makanan, barang, atau lalu lintas, jadwalkan pekerjaan berdebu pada jendela waktu yang disepakati dan beri tahu pemilik operasi sebelum perubahan kondisi.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+### Tangkap debu sedekat mungkin dengan sumber
 
-## Evidence gates
+Hubungkan alat dengan penyedot yang sesuai kapasitas dan sambungan. Periksa selang, seal, roda, filter, serta penampung sebelum mulai; kebocoran kecil di titik sambungan dapat mengalahkan tirai plastik yang baik. Untuk pekerjaan basah, kendalikan genangan dan lumpur agar tidak mengering menjadi debu sekunder. Untuk pekerjaan kering, rencana harus menjelaskan bagaimana media hasil gerinda dipindahkan tanpa dituangkan atau disapu ke area lain.
 
-- **TOPIC-GATE:** Approved preparation method, K3 plan, test criteria, and local waste route
+Lakukan uji singkat di zona kecil. Amati apakah debu terlihat keluar dari penutup, apakah daya hisap turun saat beberapa alat bekerja, dan apakah permukaan di luar batas ikut kotor. Bila salah satu tanda muncul, tahan pekerjaan, perbaiki sumber atau kapasitas penyedotan, lalu ulangi uji; jangan mengandalkan pembersihan akhir untuk menutup kegagalan saat proses.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+### Isolasi dan atur operasi tetangga
 
-## Internal-link plan
+Isolasi yang efektif mengarahkan udara dan orang, bukan sekadar menutup pandangan. Sediakan jalur masuk material yang tidak melewati area bersih, lindungi permukaan sekitar yang rentan, dan tentukan satu titik untuk membawa wadah debu keluar. Komunikasikan waktu mesin menyala, perubahan akses, dan kondisi berhenti kepada pengelola fasilitas.
 
-### Existing local routes
+Sobat Epoxy.co.id, bila pintu ruang sebelah terbuka karena operasi, Anda harus memilih: ubah jadwal, perkuat pemisahan dengan cara yang disetujui, atau hentikan persiapan. Debu yang masuk ke operasi tetangga adalah kejadian pengendalian yang harus dicatat, bukan sekadar keluhan yang disapu.
 
-- `/epoxy-lantai-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tebingtinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-lantai-tasikmalaya` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Pemeriksaan kebersihan dan kesiapan permukaan
 
-### Planned sibling articles
+Bagian ini menjawab pertanyaan “kapan boleh lanjut?” Pemeriksaan tidak membuktikan semua persyaratan sistem epoxy, tetapi memberikan dasar yang dapat diaudit sebelum lapisan berikutnya dibuka.
 
-These are future routes. Do not link them as live until their HTML exists.
+Pertama, periksa permukaan secara visual dengan pencahayaan yang cukup: tidak ada gundukan debu, serpihan lepas, lumpur kering, atau residu yang tampak berpindah saat disentuh dengan cara yang disetujui metode proyek. Kedua, periksa batas area, jalur keluar, dan permukaan berdekatan; kebersihan lantai saja tidak cukup bila debu masih mengendap di ambang, rak, atau peralatan.
 
-- `EPX-05-05` → `/artikel/detail-tepi-sudut-drain-penetrasi-epoxy.html` — Detail Tepi, Sudut, Drain, dan Penetrasi pada Sistem Epoxy
-- `EPX-05-06` → `/artikel/concrete-surface-profile-epoxy.html` — Concrete Surface Profile dan Cara Memverifikasinya
-- `EPX-05-08` → `/artikel/checklist-penerimaan-permukaan-sebelum-primer.html` — Checklist Penerimaan Permukaan Sebelum Primer
+Ketiga, cocokkan hasil dengan metode persiapan, persyaratan produk, dan rencana pemeriksaan. ICRI membedakan pembersihan, pelepasan kontaminan, pelepasan lapisan lemah, kondisi beton, profil, tepi, retak atau sambungan, pengendalian debu, dan verifikasi. Jangan mengganti seluruh keputusan itu dengan satu angka atau satu foto.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika adhesi akan diuji, sepakati metode, lokasi, kondisi pengerasan (curing), cara membaca kegagalan, dan perbaikan titik uji terlebih dahulu. ASTM D7234 menjelaskan uji tarik-lepas pada beton sebagai pengujian yang dapat gagal di lem, lapisan, antarmuka, atau substrat dan bersifat merusak; jadi angka tanpa mode kegagalan dan konfigurasi uji tidak cukup untuk menyatakan lantai aman diterima ([ASTM D7234](https://store.astm.org/d7234-21.html)).
 
-## Jawaban singkat dan salah paham utama
+## Contoh keputusan di gedung yang tetap beroperasi
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gudang masih menerima barang di koridor sebelah, sementara area epoxy hanya dapat ditutup sebagian. Jika mesin gerinda membuang udara ke koridor, pilihan yang masuk akal bukan menyapu lebih sering. Periksa apakah penyedotan dapat menangkap debu di sumber, pasang isolasi yang tidak menghalangi akses penting, pindahkan jalur barang, dan tetapkan pemeriksaan setelah setiap tahap.
 
-## Definisi dan batas objek
+Jika debu terlihat di koridor, selang terlepas, filter penuh, atau pintu isolasi harus dibuka berulang kali, statusnya adalah berhenti dan evaluasi ulang. Catat lokasi, waktu, kondisi alat, dan tindakan perbaikan; setelah kontrol pulih, ulangi uji area kecil sebelum kembali ke produksi penuh.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk limbah, pisahkan debu atau lumpur, material terangkat, wadah bahan, kain penyerap, dan kemasan sesuai identifikasi proyek. PP No. 22 Tahun 2021 menjadi rujukan kerangka perlindungan dan pengelolaan lingkungan, tetapi klasifikasi dan rute pembuangan tetap perlu ditentukan dari karakter jenis/aliran limbah, aturan lokal yang berlaku, dan penanggung jawab lingkungan—bukan dari dugaan bahwa semua debu epoxy adalah limbah biasa ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)).
 
-## Cara kerjanya
+## Kesalahan yang membuat debu kembali menyebar
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih penyedot setelah mesin dibeli. Balik urutannya: hitung alat dan kondisi pekerjaan lebih dulu, lalu buktikan sambungan dan kapasitasnya lewat uji singkat. Kesalahan kedua adalah membuka isolasi setiap kali material lewat tanpa aturan; buat jalur dan waktu pemindahan yang disetujui.
 
-## Faktor yang mengubah hasil
+Kesalahan ketiga adalah menganggap permukaan bersih berarti siap primer. Periksa juga profil, kontaminan, bagian lemah, kadar air, dan persyaratan sistem sesuai rencana; bila bukti belum ada, tahan pelepasan lapisan. Kesalahan keempat adalah membasahi debu tanpa rencana mengelola lumpur. Lumpur yang mengering dapat menjadi sumber partikel baru, sementara air yang tertinggal dapat mengubah keputusan lapisan berikutnya.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Terakhir, jangan menutup kejadian debu dengan bahasa umum seperti “sudah aman”. Tuliskan kontrol yang dipakai, hasil pemeriksaan, area yang terdampak, tindakan koreksi, dan siapa yang menyetujui lanjut. Untuk konteks K3 dan lingkungan kerja, kebutuhan penilaian harus mengikuti rencana Indonesia yang berlaku dan kompetensi proyek; halaman regulasi saja tidak memberi dasar untuk mengarang batas paparan atau kesimpulan kepatuhan.
 
-## Contoh keputusan praktis
+## Langkah berikutnya sebelum primer dibuka
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jadi, pengendalian debu yang dapat dipertanggungjawabkan adalah siklus tangkap–isolasi–bersihkan–verifikasi. Kawan Epoxy.co.id dapat meminta satu lembar catatan yang memuat batas area, cara penyedotan, pemeriksaan alat, jalur limbah, hasil uji area kecil, pemeriksaan ruang tetangga, dan keputusan lanjut atau berhenti.
 
-## Kesalahan umum dan cara memeriksanya
+Untuk gambaran pekerjaan lantai di lokasi lain, Anda dapat melihat [contoh layanan lantai epoxy di Tegal](/epoxy-lantai-tegal.html) dan [contoh layanan lantai epoxy di Tebing Tinggi](/epoxy-lantai-tebingtinggi.html); keduanya bukan pengganti metode dan persetujuan proyek Anda. Bila bukti K3, kondisi substrat, atau rute limbah belum lengkap, pertahankan penanda [NEEDS TOPIC-GATE: metode persiapan, rencana K3, kriteria pemeriksaan, dan rute limbah lokal harus disetujui sebelum publikasi definitif].
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pengendalian Debu Saat Persiapan Lantai Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: bila debu keluar dari batas, kebersihan tidak dapat diverifikasi, atau pekerjaan sekitar tidak lagi terlindungi, berhenti dan perbaiki sistem pengendalian sebelum menyentuh lapisan epoxy berikutnya.

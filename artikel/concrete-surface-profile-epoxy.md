@@ -2,8 +2,9 @@
 article_id: EPX-05-06
 title: "Concrete Surface Profile dan Cara Memverifikasinya"
 slug: "concrete-surface-profile-epoxy"
-description: "Explain profile concept, replicas/comparators, uniformity, limitations, and records"
-status: outline
+description: "Panduan inspector memahami profil permukaan beton, memilih pembanding, memeriksa keseragaman, dan mencatat batas verifikasinya sebelum epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,49 +18,19 @@ sources:
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Concrete Surface Profile dan Cara Memverifikasinya
 
-## Assignment lock
+Halo, Kawan Epoxy.co.id! Saat menerima lantai beton yang sudah digerinda, inspector sering melihat permukaan tampak kasar lalu langsung menyatakan “siap epoxy”. Yang perlu diterima bukan sekadar tampilan, melainkan profil yang cocok dengan sistem, merata, dan tercatat.
 
-- **Writer task:** Expand this file into one complete article answering: “Concrete Surface Profile dan Cara Memverifikasinya”
-- **Reader and situation:** Inspector accepting prepared concrete
-- **Reader outcome:** Explain profile concept, replicas/comparators, uniformity, limitations, and records
-- **Primary intent:** Verify surface profile
-- **Reader community:** `Epoxy.co.id`
-- **Primary friendly address:** `Kawan Epoxy.co.id`
-- **Natural variants:** `Sobat Epoxy.co.id` and `Teman Epoxy.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes adhesion test owned by EPX-03-03
-- **Final public route:** `/artikel/concrete-surface-profile-epoxy.html`
-- **Appointed CMS date:** `2025-08-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pahami profil sebagai bentuk mikro-kasar beton setelah lapisan lemah dan kontaminan ditangani; cocokkan dengan spesifikasi sistem; lalu verifikasi memakai pembanding atau replika pada titik yang mewakili. Hasil ini tidak otomatis membuktikan daya lekat, kadar lembap, atau kesiapan seluruh sistem. Uji adhesi tarik langsung berada di luar pembahasan ini dan menjadi ranah EPX-03-03.
 
-## Opening instructions
+Artikel ini membantu inspector menjelaskan apa yang diukur, memilih cara membandingkan, membaca ketidakseragaman, dan menyusun rekaman penerimaan.
 
-- Open with the exact short salutation: **“Halo, Kawan Epoxy.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Concrete Surface Profile dan Cara Memverifikasinya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Epoxy.co.id`, `Sobat Epoxy.co.id`, or `Teman Epoxy.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -70,152 +41,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `epoxy pu concrete` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi epoxy pu concrete](/wp-content/uploads/2021/02/epoxy-pu-concrete.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal Epoxy.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-06
+## Apa yang dimaksud profil permukaan beton?
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Profil adalah relief kecil berupa puncak dan lembah yang terbentuk setelah persiapan permukaan, bukan warna atau jejak mesin. ICRI menempatkan pemilihan metode persiapan dalam hubungan antara kondisi substrat, sistem pelapis, lingkungan, dan pengendalian mutu; tidak ada satu mesin yang cocok untuk semua keadaan ([panduan ICRI](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)).
 
-### KR-07
+Profil membantu menyediakan bidang mekanis agar lapisan membasahi dan mengunci permukaan, tetapi bukan pengganti pembersihan. Debu, lapisan beton yang lemah (laitans), minyak, atau sisa lapisan lama dapat menghalangi kontak walaupun relief terlihat. Catat kondisi bersih dan sehat secara terpisah dari bentuk profil.
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Tanyakan sistem epoxy yang akan dipasang, batas profil dalam dokumen produknya, dan apakah metode persiapan menghasilkan bentuk yang diminta. Tanpa tiga jawaban itu, kelas profil hanya tebakan.
 
-### KR-08
+## Menentukan pembanding yang tepat
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Bandingkan hasil nyata dengan acuan yang disetujui, bukan foto internet. Acuan dapat berupa keping referensi atau komparator yang mewakili tekstur metode tertentu, maupun replika permukaan yang dibaca memakai alat sesuai prosedur. ICRI menegaskan bahwa pembandingan harus terkait tujuan pelapis dan kondisi beton; tabel atau edisi standar tidak boleh digantikan tebakan ([pengantar ICRI](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-### KR-16
+Jika dokumen hanya berkata “permukaan kasar” tanpa metode atau rentang yang dapat diperiksa, tahan penerimaan dan tandai **[NEEDS TOPIC-GATE: metode persiapan yang disetujui, rencana K3, kriteria tes, dan rute limbah lokal belum tersedia.]** Inspector menjelaskan kebutuhan bukti, bukan mengisi kelas dari ingatan.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Area dekat dinding, tambalan, atau bekas coating dapat berbeda. Ambil titik dari grid yang disepakati, termasuk lokasi paling halus dan paling agresif; jangan hanya memilih area yang tampak baik.
 
-### KR-17
+## Memeriksa keseragaman di lapangan
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+Mulailah dengan peta area, nomor titik, tanggal, metode persiapan, dan kondisi setelah debu atau slurry dikendalikan. Pengendalian debu dipengaruhi material, alat, durasi, pengurungan, pemeliharaan, dan pembersihan; debu atau slurry yang mengering juga dapat menjadi paparan sekunder ([lembar OSHA](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)). Ikuti rencana K3 setempat, bukan menyalin batas paparan yurisdiksi lain.
 
-### KR-21
+Pada setiap titik, hilangkan lepasannya tanpa mengubah relief, lalu tempatkan komparator atau buat replika sesuai metode yang disetujui. Catat identitas pembanding, alat, operator, dan pembacaan. Foto membantu menunjukkan lokasi, tetapi tidak membuktikan kelas profil karena cahaya dan fokus mengubah kesan kasar.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `EPX-01` | KR-02, KR-03, KR-15 | Chemistry, cure vocabulary, uncured/cured distinction, and myths | Exact formulation/TDS/SDS and qualified chemistry/HSE review | | `EPX-02` | KR-02, KR-03, KR-14, KR-15 | Formulation/system taxonomy and application boundaries | Current product family, complete layer system, and supplier evidence | | `EPX-03` | KR-02, KR-03, KR-08, KR-09, KR-10, KR-21 | Property, test, specimen, method, result, and acceptance | Full current method, original report, exact system, and project criterion | | `EPX-04` | KR-05, KR-06, KR-08, KR-14, KR-18, KR-21 | Substrate history, moisture, contamination, movement, and diagnosis | Dated survey/test plan and competent substrate/structural decision | | `EPX-05` | KR-06, KR-07, KR-08, KR-16, KR-17, KR-21 | Preparation selection, profile, dust, waste, and verification | Approved preparation method, K3 plan, test criteria, and local waste route | | `EPX-06` | KR-04, KR-09, KR-10, KR-11, KR-20 | Exposure-to-system choice, layers, alternatives, budget, and claims | Project requirement matrix and exact tested/approved offered system | | `EPX-07` | KR-03, KR-05, KR-06, KR-07, KR-12, KR-15, KR-16, KR-17, KR-21 | Mixing, application, environment, cure, safety, and records | Current manufacturer method, batch/environment log, K3, and hold points | | `EPX-08` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Industrial traffic, chemical, hygiene, downtime, and operations | Facility-specific exposure, operations, safety, cleaning, and acceptance evidence | | `EPX-09` | KR-04, KR-09, KR-10, KR-11, KR-16, KR-19, KR-21 | Public/institutional/residential use and user/maintenance risks | Building-function, accessibility, slip, hygiene, occupied-work, and local-rule review | | `EPX-10` | KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-21 | Steel/concrete protective coatings and lining boundaries | Substrate/exposure-specific full coating specification and competent inspection | | `EPX-11` | KR-04, KR-14, KR-16, KR-17, KR-21 | Bonding, anchoring, grout, injection, repair design, and execution | Qualified structural/repair design, exact product classification, and inspection | | `EPX-12` | KR-03, KR-05, KR-06, KR-08, KR-13, KR-14, KR-18, KR-21 | Defect chronology, cause evidence, tests, and remedy choice | Dated defect map, destructive/non-destructive evidence, and responsible diagnosis | | `EPX-13` | KR-09, KR-11, KR-17, KR-18, KR-19, KR-21 | Cleaning, inspection, repair, renewal, removal, and end of life | Exact system O&M, condition records, compatible method, and waste route | | `EPX-14` | KR-07, KR-15, KR-16, KR-17, KR-19 | SDS-led exposure, silica, ventilation, spills, waste, and claims | Current SDS/label, Indonesian K3/environmental assessment, and emergency plan | | `EPX-15` | KR-02, KR-12, KR-15, KR-17, KR-20, KR-21 | Quantity basis, comparable bids, product documents, storage, and warranty | Current TDS/SDS, density/coverage, surveyed scope, dated price, and commercial review | | `EPX-16` | KR-04 through KR-21 | Scope, method, ITP, hold points, tests, nonconformance, acceptance, and handover | Approved project file, competent sign-off, calibrated/test records, and clean remote evidence | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact product formulation and layer system | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` | Concrete/substrate condition and moisture | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` | Full standards and project acceptance | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` | Structural repair, anchoring, cracks, joints, or movement | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` | Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` | Chemical/abrasion/impact/conductive/UV/immersion performance | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` | Mixing, application, cure, and return to service | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` | K3, silica, chemicals, ventilation, hot work, confined/occupied work | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` | Waste, spill, removed coating, dust/slurry, and packaging route | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` | Defect diagnosis and remedy | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` | Cleaning, maintenance, service life, and end-of-life claim | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` | Quantity, price, contractor, warranty, and commercial promise | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` | QC, case study, and handover evidence | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` | Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Refresh triggers - Recheck Indonesian building, K3, chemical, waste, consumer, and electronic-commerce rules before legal/compliance outlines. - Recheck every ISO/ASTM/ICRI method edition at outline approval; several ISO 12944 parts are marked for revision. - Recheck exact product TDS, SDS, certificates/reports, prices, storage/shelf life, warranty, installer authorization, and service coverage for every commercial outline and again before publication. - Revalidate the topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize article outlines, drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, geographic doorway expansion, DIY structural repair, fabricated case studies, current price/coverage promises, or unsupported safety/performance/environmental claims.
+Bandingkan pola, bukan satu titik terbaik. Bila satu sisi memenuhi acuan sedangkan jalur forklift atau tambalan lebih halus, hasil belum seragam. Tulis lokasi dan tindakan: persiapan ulang, pemisahan tahap, atau tinjauan persyaratan sistem. Jangan merata-ratakan perbedaan yang dapat membuat lapisan membasahi dan melekat berbeda.
 
-## Evidence gates
+## Batas verifikasi yang tidak boleh dilewati
 
-- **TOPIC-GATE:** Approved preparation method, K3 plan, test criteria, and local waste route
+Profil hanya menjawab bentuk permukaan. Ia tidak menyatakan beton cukup kuat, kering, bebas kontaminan, bebas gerak, atau cocok secara kimia. Pemeriksaan itu memerlukan bukti dan penanggung jawab lain. Uji adhesi dapat gagal di perekat, lapisan, antarmuka, atau beton; hasilnya bergantung metode, benda uji, kondisi, dan mode kerusakan, sebagaimana ruang lingkup ASTM D7234 ([ASTM D7234](https://store.astm.org/d7234-21.html)). Jangan menulis “profil lolos berarti daya lekat terjamin”.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kondisi juga dapat berubah setelah pemeriksaan. Lalu lintas, hujan, kondensasi, pekerjaan mekanis, atau debu baru dapat mengubah permukaan sebelum primer. Tetapkan masa berlaku hasil, perlindungan area, dan pemeriksaan ulang. Di fasilitas aktif, hentikan penerimaan jika pengendalian area atau ventilasi tidak sesuai rencana K3.
 
-## Internal-link plan
+## Membuat rekaman yang bisa diaudit
 
-### Existing local routes
+Rekaman harus menjawab “di mana, kapan, dengan apa, dan dibandingkan terhadap apa”. Simpan denah titik, identitas area, metode persiapan, kondisi pembersihan, pembanding atau nomor replika, alat dan status kalibrasi bila diwajibkan, nama pemeriksa, serta keputusan per titik. Lampirkan foto konteks tanpa menjadikannya satu-satunya bukti.
 
-- `/epoxy-pu-concrete-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tegal` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy-pu-concrete-tebingtinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Tuliskan penyimpangan: pola mesin berbeda, tepian belum tertangani, tambalan lunak, atau area berdebu. Nyatakan tindakan berikutnya dan siapa yang menyetujuinya. Rekaman ini sejalan dengan prinsip kendali mutu ISO 16311-4 yang menuntut bukti proses, bukan hanya foto selesai ([ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
-### Planned sibling articles
+Kawan Epoxy.co.id, hindari checklist yang hanya berisi kotak “kasar/lulus”. Jika metode dan kriteria belum ditentukan, biarkan status “menunggu keputusan”, bukan mengubah ketidakpastian menjadi centang.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sobat Epoxy.co.id, catatan ini juga memudahkan pemeriksa berikutnya memahami mengapa sebuah area ditahan atau diterima.
 
-- `EPX-05-04` → `/artikel/degreasing-beton-terkontaminasi.html` — Degreasing Beton Terkontaminasi: Batas dan Verifikasi
-- `EPX-05-05` → `/artikel/detail-tepi-sudut-drain-penetrasi-epoxy.html` — Detail Tepi, Sudut, Drain, dan Penetrasi pada Sistem Epoxy
-- `EPX-05-07` → `/artikel/pengendalian-debu-persiapan-epoxy.html` — Pengendalian Debu Saat Persiapan Lantai Epoxy
-- `EPX-05-08` → `/artikel/checklist-penerimaan-permukaan-sebelum-primer.html` — Checklist Penerimaan Permukaan Sebelum Primer
+## Jalan pintas yang sering menyesatkan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Menggosok lantai dengan tangan, melihatnya berdebu, lalu menyatakan profil cukup adalah jalan pintas. Sentuhan tidak membedakan relief seragam dari alur mesin dalam atau laitans yang tertinggal. Petakan area, pakai pembanding atau replika yang disetujui, dan simpan hasil per titik bersama keputusan koreksi.
 
-## Hasil akhir dan prasyarat
+Jangan menjadikan hasil profil alasan melewati pemeriksaan adhesi, kelembapan, atau kontaminasi. Setiap pemeriksaan menjawab pertanyaan berbeda; terima permukaan hanya setelah pemilik pemeriksaan terkait menandatangani bagian masing-masing.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: acuan dan batas harus jelas
 
-## Langkah 1 — tetapkan scope
+Concrete Surface Profile terverifikasi ketika relief dijelaskan, dibandingkan dengan acuan sistem yang disetujui, diperiksa pada titik mewakili, dan dicatat bersama ketidakseragaman serta tindakan lanjut. Hasil itu tidak otomatis membuktikan adhesi atau kesiapan total beton.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Concrete Surface Profile dan Cara Memverifikasinya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Epoxy.co.id!` and uses friendly `Epoxy.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum primer dipasang, minta peta titik, identitas pembanding atau replika, catatan pembersihan dan pengendalian debu, serta persetujuan atas [NEEDS TOPIC-GATE: metode persiapan, rencana K3, kriteria tes, dan rute limbah lokal]. Untuk gambaran pilihan sistem, pembaca dapat meninjau [epoxy PU concrete Tebingtinggi](/epoxy-pu-concrete-tebingtinggi) atau [epoxy PU concrete Tegal](/epoxy-pu-concrete-tegal). Jika bukti belum lengkap, tahan penerimaan dan minta tinjauan pihak kompeten—jangan menebak kelas profil.
