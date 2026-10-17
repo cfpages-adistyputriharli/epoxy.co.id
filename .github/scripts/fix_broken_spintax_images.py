@@ -94,37 +94,37 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
     # Cache chosen URL for identical spintax payloads within the same file
     chosen_cache: Dict[str, str] = {}
 
-    def fix_url_match(match: re.Match) -> str:
-        nonlocal changes
+    def evaluate_url(match: re.Match) -> Tuple[bool, str]:
+        """Evaluates whether a matched URL should be replaced and returns the resolved target."""
         full_match = match.group(0)
         prefix = match.group(1) or ""
         url_payload = match.group(2)
 
         # Strictly exclude Google Fonts and font stylesheets
         if "fonts.googleapis.com" in full_match or "fonts.gstatic.com" in full_match:
-            return full_match
+            return False, full_match
+        if "display=" in url_payload or "family=" in url_payload:
+            return False, full_match
 
         # Check if url_payload contains spintax (| or %7C)
         if "|" in url_payload or "%7C" in url_payload:
             if url_payload in chosen_cache:
-                chosen = chosen_cache[url_payload]
-            else:
-                candidates = [
-                    u.strip()
-                    for u in re.split(r"\||%7C", url_payload)
-                    if u.strip().startswith("http")
-                ]
-                if len(candidates) < 2:
-                    return full_match
-                chosen = rng.choice(candidates)
-                chosen_cache[url_payload] = chosen
-            changes += 1
-            return chosen
-        elif prefix:
+                return True, chosen_cache[url_payload]
+            candidates = [
+                u.strip()
+                for u in re.split(r"\||%7C", url_payload)
+                if u.strip().startswith("http")
+            ]
+            if len(candidates) < 2:
+                return False, full_match
+            chosen = rng.choice(candidates)
+            chosen_cache[url_payload] = chosen
+            return True, chosen
+        elif prefix and url_payload.startswith("http"):
             # Single external URL with wp-content/uploads/ prepended
-            changes += 1
-            return url_payload
-        return full_match
+            return True, url_payload
+
+        return False, full_match
 
     # URL pattern matching defective wp-content/uploads/http or spintax | / %7C
     url_pattern = re.compile(
@@ -132,31 +132,12 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
         r'(https?://(?:[^"\'\s<>\\|%]|%(?!7C))+(?:(?:\||%7C)https?://[^"\'\s<>\\]+)+|https?://[^"\'\s<>\\]+)'
     )
 
-    def should_replace(m: re.Match) -> bool:
-        full = m.group(0)
-        prefix = m.group(1)
-        payload = m.group(2)
-
-        # Strictly exclude font services and non-image query parameters
-        if "fonts.googleapis.com" in full or "fonts.gstatic.com" in full:
-            return False
-        if "display=" in payload or "family=" in payload:
-            return False
-
-        if prefix and payload.startswith("http"):
-            return True
-        if "|" in payload or "%7C" in payload:
-            candidates = [
-                u.strip()
-                for u in re.split(r"\||%7C", payload)
-                if u.strip().startswith("http")
-            ]
-            return len(candidates) >= 2
-        return False
-
     def replacer(m: re.Match) -> str:
-        if should_replace(m):
-            return fix_url_match(m)
+        nonlocal changes
+        should_rep, target = evaluate_url(m)
+        if should_rep:
+            changes += 1
+            return target
         return m.group(0)
 
     new_content = url_pattern.sub(replacer, content)
@@ -197,8 +178,8 @@ def process_html_file(file_path: Path, root_dir: Path, dry_run: bool = False) ->
                 if tmp_path.exists():
                     try:
                         tmp_path.unlink()
-                    except OSError:
-                        pass
+                    except OSError as unlink_err:
+                        print(f"Warning: failed to remove temporary file {tmp_path}: {unlink_err}")
                 return False, 0, f"Write error on {file_path}: {e}"
         return True, changes, ""
 
