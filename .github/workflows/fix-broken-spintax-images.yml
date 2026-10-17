@@ -1,0 +1,43 @@
+name: Fix Broken Spintax and Prefixed Images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Regression Tests
+        run: |
+          if [ -f .github/scripts/test_fix_broken_spintax_images.py ]; then
+            python -m unittest .github/scripts/test_fix_broken_spintax_images.py
+          fi
+
+      - name: Execute Broken Image Spintax & Prefix Repair Engine
+        run: |
+          python .github/scripts/fix_broken_spintax_images.py --root .
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          find . -type f \( -name "*.html" -o -name "*.htm" \) -exec git add {} +
+          if git diff --staged --quiet; then
+            echo "No broken images detected; working tree clean."
+          else
+            git commit -m "fix(images): resolve broken image spintax and strip erroneous upload prefixes"
+            git push
+          fi
