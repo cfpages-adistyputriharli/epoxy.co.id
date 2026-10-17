@@ -35,9 +35,10 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
     """
     changes = 0
 
-    # Auto-heal any truncated astra-google-fonts-css from previous defective runs
-    def heal_astra_fonts(text: str) -> Tuple[str, int]:
+    # Auto-heal any truncated Google Fonts stylesheets from previous defective runs
+    def heal_corrupted_fonts(text: str) -> Tuple[str, int]:
         h_count = 0
+        # 1. Truncated Astra Karla in epoxy.co.id
         pat_karla = re.compile(
             r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Karla%3A400%2C)(["\'])'
         )
@@ -49,6 +50,7 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
             )
             h_count += 1
 
+        # 2. Truncated Astra Poppins in DutaKoi.com
         pat_poppins = re.compile(
             r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Poppins%3A400%2C)(["\'])'
         )
@@ -59,9 +61,32 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
                 text,
             )
             h_count += 1
+
+        # 3. Truncated Elementor fonts in epoxy.co.id and DutaKoi.com
+        pat_elem = re.compile(
+            r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']google-fonts-1-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Roboto%3A100[^"\']*?%2C900italic)(["\'])'
+        )
+        if pat_elem.search(text):
+            delim = "&amp;" if "&amp;display=" in text else "&#038;"
+            if "ver=5.9.2" in text or "Montserrat%3A600" in text or "Poppins%3A400" in text:
+                restored = (
+                    r'\g<1>%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
+                    r'%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
+                    rf'{delim}display=auto{delim}ver=5.9.2\2'
+                )
+            else:
+                restored = (
+                    r'\g<1>%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
+                    r'%7CBebas+Neue%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
+                    r'%7CKarla%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
+                    rf'{delim}display=auto{delim}ver=5.7.2\2'
+                )
+            text = pat_elem.sub(restored, text)
+            h_count += 1
+
         return text, h_count
 
-    content, healed_count = heal_astra_fonts(content)
+    content, healed_count = heal_corrupted_fonts(content)
     changes += healed_count
 
     # Deterministic RNG per filepath so runs are idempotent across executions

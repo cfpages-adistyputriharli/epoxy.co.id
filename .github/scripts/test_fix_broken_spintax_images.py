@@ -142,6 +142,30 @@ class TestFixBrokenSpintaxImages(unittest.TestCase):
         self.assertIn("Bebas+Neue%3A400", result)
         self.assertIn("Montserrat%3A600", result)
 
+    def test_heal_truncated_elementor_fonts_epoxy(self):
+        """Tests auto-healing previously truncated Elementor fonts in epoxy.co.id."""
+        truncated_html = '''
+        <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic" media="all">
+        '''
+        result, count = resolve_broken_images_in_html(truncated_html, "cat-epoxy-balikpapan.html")
+        self.assertEqual(count, 1)
+        self.assertIn("Roboto+Slab%3A100", result)
+        self.assertIn("Bebas+Neue%3A100", result)
+        self.assertIn("Karla%3A100", result)
+        self.assertIn("ver=5.7.2", result)
+
+    def test_heal_truncated_elementor_fonts_dutakoi(self):
+        """Tests auto-healing previously truncated Elementor fonts in DutaKoi.com."""
+        truncated_html = '''
+        <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic" media="all">
+        <link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C%7CBebas+Neue%3A400%2C%7CMontserrat%3A600&#038;display=fallback&#038;ver=3.7.9" media="all">
+        '''
+        result, count = resolve_broken_images_in_html(truncated_html, "cara-merawat-koi.html")
+        self.assertEqual(count, 1)
+        self.assertIn("Roboto+Slab%3A100", result)
+        self.assertIn("Poppins%3A100", result)
+        self.assertIn("ver=5.9.2", result)
+
 
 if __name__ == "__main__":
     unittest.main()
