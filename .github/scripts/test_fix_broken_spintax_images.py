@@ -82,6 +82,66 @@ class TestFixBrokenSpintaxImages(unittest.TestCase):
         self.assertEqual(count, 0)
         self.assertEqual(result, normal_html)
 
+    def test_google_fonts_pipe_not_treated_as_spintax(self):
+        """Tests that Google Fonts link tags containing %7C and pipe are never truncated."""
+        html = '''
+        <link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C%7CBebas+Neue%3A400%2C%7CLato%3A700&#038;display=fallback&#038;ver=3.6.2" media="all">
+        <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A400%7CRoboto+Slab%3A400%7CBebas+Neue%3A400&#038;display=auto&#038;ver=5.7.2" media="all">
+        '''
+        result, count = resolve_broken_images_in_html(html, "cat-epoxy-balikpapan.html")
+        self.assertEqual(count, 0)
+        self.assertEqual(result, html)
+        self.assertIn("Bebas+Neue", result)
+        self.assertIn("Karla%3A400", result)
+        self.assertIn("Lato%3A700", result)
+        self.assertIn("Roboto+Slab", result)
+
+    def test_spintax_image_resolved_while_google_fonts_intact(self):
+        """Tests resolving image spintax in an HTML document while keeping Google Fonts 100% intact."""
+        html = '''
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C%7CBebas+Neue%3A400%2C%7CLato%3A700&#038;display=fallback&#038;ver=3.6.2" media="all">
+        <script type="application/ld+json">
+        {"@type":"ImageObject","url":"/wp-content/uploads/https://1.bp.blogspot.com/img1.jpg|https://1.bp.blogspot.com/img2.jpg"}
+        </script>
+        </head>
+        <body>
+        <img width="1" height="1" src="/wp-content/uploads/https://1.bp.blogspot.com/img1.jpg|https://1.bp.blogspot.com/img2.jpg" class="attachment-large wp-post-image">
+        </body>
+        </html>
+        '''
+        result, count = resolve_broken_images_in_html(html, "cat-epoxy-balikpapan.html")
+        self.assertGreater(count, 0)
+        # Font link must be completely intact
+        self.assertIn('href="https://fonts.googleapis.com/css?family=Karla%3A400%2C%7CBebas+Neue%3A400%2C%7CLato%3A700&#038;display=fallback&#038;ver=3.6.2"', result)
+        self.assertIn("Bebas+Neue", result)
+        # Image spintax and broken upload prefixes must be resolved
+        self.assertNotIn("wp-content/uploads/https:", result)
+        self.assertNotIn("|", result.split("<body>")[1])
+        self.assertNotIn('width="1"', result)
+
+    def test_heal_truncated_astra_google_fonts_karla(self):
+        """Tests auto-healing previously truncated Astra Karla fonts in epoxy.co.id."""
+        truncated_html = '''
+        <link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Karla%3A400%2C" media="all">
+        '''
+        result, count = resolve_broken_images_in_html(truncated_html, "sample-truncated.html")
+        self.assertEqual(count, 1)
+        self.assertIn("Bebas+Neue%3A400", result)
+        self.assertIn("Lato%3A700", result)
+
+    def test_heal_truncated_astra_google_fonts_poppins(self):
+        """Tests auto-healing previously truncated Astra Poppins fonts in DutaKoi.com."""
+        truncated_html = '''
+        <link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C" media="all">
+        '''
+        result, count = resolve_broken_images_in_html(truncated_html, "sample-poppins.html")
+        self.assertEqual(count, 1)
+        self.assertIn("Bebas+Neue%3A400", result)
+        self.assertIn("Montserrat%3A600", result)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -13,7 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 2
+
+      - name: Restore Clean Baseline If Previous Run Corrupted Fonts
+        run: |
+          LAST_MSG=$(git log -1 --pretty=%B)
+          if echo "$LAST_MSG" | grep -q "fix(images): resolve broken image spintax"; then
+            echo "Detected previous run with truncated font links. Restoring HTML baseline from HEAD~1..."
+            git checkout HEAD~1 -- "*.html" "*.htm" || true
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,6 +46,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No broken images detected; working tree clean."
           else
-            git commit -m "fix(images): resolve broken image spintax and strip erroneous upload prefixes"
+            git commit -m "fix(images): resolve broken image spintax and preserve google fonts styling"
             git push
           fi

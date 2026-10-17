@@ -27,8 +27,42 @@ from typing import Dict, List, Tuple
 
 
 def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int]:
-    """Resolves broken upload prefixes and selects one random image from spintax lists."""
+    """Resolves broken upload prefixes and selects one random image from spintax lists.
+
+    Protects Google Fonts (fonts.googleapis.com, fonts.gstatic.com) and stylesheets from
+    accidental truncation, requires multi-candidate HTTP lists for spintax, and auto-heals
+    any previously truncated astra-google-fonts-css tags.
+    """
     changes = 0
+
+    # Auto-heal any truncated astra-google-fonts-css from previous defective runs
+    def heal_astra_fonts(text: str) -> Tuple[str, int]:
+        h_count = 0
+        pat_karla = re.compile(
+            r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Karla%3A400%2C)(["\'])'
+        )
+        if pat_karla.search(text):
+            delim = "&amp;" if "&amp;display=" in text else "&#038;"
+            text = pat_karla.sub(
+                rf'\g<1>%7CBebas+Neue%3A400%2C%7CLato%3A700{delim}display=fallback{delim}ver=3.6.2\2',
+                text,
+            )
+            h_count += 1
+
+        pat_poppins = re.compile(
+            r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Poppins%3A400%2C)(["\'])'
+        )
+        if pat_poppins.search(text):
+            delim = "&amp;" if "&amp;display=" in text else "&#038;"
+            text = pat_poppins.sub(
+                rf'\g<1>%7CBebas+Neue%3A400%2C%7CMontserrat%3A600{delim}display=fallback{delim}ver=3.7.9\2',
+                text,
+            )
+            h_count += 1
+        return text, h_count
+
+    content, healed_count = heal_astra_fonts(content)
+    changes += healed_count
 
     # Deterministic RNG per filepath so runs are idempotent across executions
     seed = int(hashlib.md5(filepath.encode("utf-8")).hexdigest()[:8], 16)
@@ -43,6 +77,10 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
         prefix = match.group(1) or ""
         url_payload = match.group(2)
 
+        # Strictly exclude Google Fonts and font stylesheets
+        if "fonts.googleapis.com" in full_match or "fonts.gstatic.com" in full_match:
+            return full_match
+
         # Check if url_payload contains spintax (| or %7C)
         if "|" in url_payload or "%7C" in url_payload:
             if url_payload in chosen_cache:
@@ -53,7 +91,7 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
                     for u in re.split(r"\||%7C", url_payload)
                     if u.strip().startswith("http")
                 ]
-                if not candidates:
+                if len(candidates) < 2:
                     return full_match
                 chosen = rng.choice(candidates)
                 chosen_cache[url_payload] = chosen
@@ -72,12 +110,25 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
     )
 
     def should_replace(m: re.Match) -> bool:
+        full = m.group(0)
         prefix = m.group(1)
         payload = m.group(2)
+
+        # Strictly exclude font services and non-image query parameters
+        if "fonts.googleapis.com" in full or "fonts.gstatic.com" in full:
+            return False
+        if "display=" in payload or "family=" in payload:
+            return False
+
         if prefix and payload.startswith("http"):
             return True
         if "|" in payload or "%7C" in payload:
-            return True
+            candidates = [
+                u.strip()
+                for u in re.split(r"\||%7C", payload)
+                if u.strip().startswith("http")
+            ]
+            return len(candidates) >= 2
         return False
 
     def replacer(m: re.Match) -> str:
