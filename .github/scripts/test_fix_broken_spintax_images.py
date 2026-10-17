@@ -5,10 +5,12 @@ import unittest
 import sys
 from pathlib import Path
 
-# Add canonical scripts directory to sys.path
-SCRIPTS_DIR = Path(__file__).resolve().parent.parent / "canonical" / "scripts"
-if str(SCRIPTS_DIR) not in sys.path:
-    sys.path.insert(0, str(SCRIPTS_DIR))
+# Add both canonical scripts directory and current directory to sys.path
+here = Path(__file__).resolve().parent
+canonical_scripts = here.parent / "canonical" / "scripts"
+for d in [here, canonical_scripts]:
+    if d.exists() and str(d) not in sys.path:
+        sys.path.insert(0, str(d))
 
 from fix_broken_spintax_images import resolve_broken_images_in_html
 

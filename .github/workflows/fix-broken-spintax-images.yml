@@ -23,7 +23,7 @@ jobs:
       - name: Run Regression Tests
         run: |
           if [ -f .github/scripts/test_fix_broken_spintax_images.py ]; then
-            python -m unittest .github/scripts/test_fix_broken_spintax_images.py
+            python .github/scripts/test_fix_broken_spintax_images.py
           fi
 
       - name: Execute Broken Image Spintax & Prefix Repair Engine
