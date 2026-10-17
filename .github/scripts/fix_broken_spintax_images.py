@@ -38,12 +38,12 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
     # Auto-heal any truncated Google Fonts stylesheets from previous defective runs
     def heal_corrupted_fonts(text: str) -> Tuple[str, int]:
         h_count = 0
+        delim = "&amp;" if "&amp;display=" in text else ("&#038;" if "&#038;display=" in text else "&")
         # 1. Truncated Astra Karla in epoxy.co.id
         pat_karla = re.compile(
             r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Karla%3A400%2C)(["\'])'
         )
         if pat_karla.search(text):
-            delim = "&amp;" if "&amp;display=" in text else "&#038;"
             text = pat_karla.sub(
                 rf'\g<1>%7CBebas+Neue%3A400%2C%7CLato%3A700{delim}display=fallback{delim}ver=3.6.2\2',
                 text,
@@ -55,7 +55,6 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
             r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']astra-google-fonts-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Poppins%3A400%2C)(["\'])'
         )
         if pat_poppins.search(text):
-            delim = "&amp;" if "&amp;display=" in text else "&#038;"
             text = pat_poppins.sub(
                 rf'\g<1>%7CBebas+Neue%3A400%2C%7CMontserrat%3A600{delim}display=fallback{delim}ver=3.7.9\2',
                 text,
@@ -67,7 +66,6 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
             r'(<link\s+rel=["\']stylesheet["\']\s+id=["\']google-fonts-1-css["\']\s+href=["\']https://fonts\.googleapis\.com/css\?family=Roboto%3A100[^"\']*?%2C900italic)(["\'])'
         )
         if pat_elem.search(text):
-            delim = "&amp;" if "&amp;display=" in text else "&#038;"
             if "ver=5.9.2" in text or "Montserrat%3A600" in text or "Poppins%3A400" in text:
                 restored = (
                     r'\g<1>%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic'
@@ -179,41 +177,52 @@ def resolve_broken_images_in_html(content: str, filepath: str) -> Tuple[str, int
     return new_content, changes
 
 
-def process_html_file(file_path: Path, dry_run: bool = False) -> Tuple[bool, int]:
+def process_html_file(file_path: Path, root_dir: Path, dry_run: bool = False) -> Tuple[bool, int, str]:
     """Processes a single HTML file to fix broken image spintax and prefixes."""
     try:
-        content = file_path.read_text(encoding="utf-8", errors="ignore")
-    except Exception as e:
-        print(f"Error reading {file_path}: {e}")
-        return False, 0
+        content = file_path.read_text(encoding="utf-8", errors="surrogateescape")
+    except (OSError, UnicodeDecodeError) as e:
+        return False, 0, f"Read error on {file_path}: {e}"
 
-    rel_path = str(file_path).replace("\\", "/")
+    rel_path = file_path.relative_to(root_dir).as_posix()
     new_content, changes = resolve_broken_images_in_html(content, rel_path)
 
     if changes > 0 and new_content != content:
         if not dry_run:
-            file_path.write_text(new_content, encoding="utf-8")
-        return True, changes
+            tmp_path = file_path.with_suffix(f"{file_path.suffix}.tmp.{os.getpid()}")
+            try:
+                tmp_path.write_text(new_content, encoding="utf-8", errors="surrogateescape")
+                os.replace(tmp_path, file_path)
+            except OSError as e:
+                if tmp_path.exists():
+                    try:
+                        tmp_path.unlink()
+                    except OSError:
+                        pass
+                return False, 0, f"Write error on {file_path}: {e}"
+        return True, changes, ""
 
-    return False, 0
+    return False, 0, ""
 
 
 def scan_and_fix_directory(root_dir: Path, dry_run: bool = False) -> Dict[str, object]:
     """Scans and fixes all HTML files under root_dir."""
     modified_files: List[str] = []
+    failed_files: List[Dict[str, str]] = []
     total_scanned = 0
     total_replacements = 0
 
-    for root, _, files in os.walk(root_dir):
-        # Ignore .git and node_modules
-        if ".git" in root or "node_modules" in root:
-            continue
+    for root, dirs, files in os.walk(root_dir):
+        # Mutate dirs in-place to prune VCS and dependencies precisely
+        dirs[:] = [d for d in dirs if d not in {".git", "node_modules", ".github"}]
         for f in files:
             if f.lower().endswith(".html") or f.lower().endswith(".htm"):
                 p = Path(root) / f
                 total_scanned += 1
-                modified, count = process_html_file(p, dry_run=dry_run)
-                if modified:
+                modified, count, err = process_html_file(p, root_dir=root_dir, dry_run=dry_run)
+                if err:
+                    failed_files.append({"file": p.relative_to(root_dir).as_posix(), "error": err})
+                elif modified:
                     rel = p.relative_to(root_dir).as_posix()
                     modified_files.append(rel)
                     total_replacements += count
@@ -221,8 +230,10 @@ def scan_and_fix_directory(root_dir: Path, dry_run: bool = False) -> Dict[str, o
     return {
         "total_scanned": total_scanned,
         "modified_count": len(modified_files),
+        "failed_count": len(failed_files),
         "total_replacements": total_replacements,
         "modified_files": modified_files,
+        "failed_files": failed_files,
         "dry_run": dry_run,
     }
 
@@ -253,6 +264,7 @@ def main():
         print(f"Directory:           {root_path}")
         print(f"HTML Files Scanned:  {stats['total_scanned']}")
         print(f"Files Modified:      {stats['modified_count']}")
+        print(f"Failed Files:        {stats['failed_count']}")
         print(f"Replacements Made:   {stats['total_replacements']}")
         print(f"Dry Run:             {stats['dry_run']}")
 
